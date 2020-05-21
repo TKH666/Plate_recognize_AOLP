@@ -1,0 +1,3229 @@
+./data/valOnet/positive/322.jpg 1 0.05 -0.16 0.04 0.16
+./data/valOnet/positive/1.jpg 1 0.04 -0.17 0.06 -0.03
+./data/valOnet/positive/594.jpg 1 0.05 -0.28 0.06 0.00
+./data/valOnet/positive/139.jpg 1 0.03 -0.11 0.21 0.04
+./data/valOnet/positive/597.jpg 1 0.03 -0.14 0.10 0.00
+./data/valOnet/positive/157.jpg 1 -0.03 -0.17 0.07 0.00
+./data/valOnet/positive/144.jpg 1 0.05 -0.08 0.02 0.25
+./data/valOnet/positive/471.jpg 1 -0.09 -0.28 -0.05 -0.03
+./data/valOnet/positive/578.jpg 1 0.16 -0.28 0.03 0.00
+./data/valOnet/positive/76.jpg 1 0.03 -0.07 0.00 0.07
+./data/valOnet/positive/468.jpg 1 -0.02 -0.02 0.11 -0.11
+./data/valOnet/positive/466.jpg 1 -0.01 -0.19 0.09 0.10
+./data/valOnet/positive/278.jpg 1 0.08 0.07 0.04 0.21
+./data/valOnet/positive/179.jpg 1 0.00 -0.29 -0.09 -0.04
+./data/valOnet/positive/205.jpg 1 0.01 -0.30 0.12 0.00
+./data/valOnet/positive/383.jpg 1 -0.09 -0.06 0.17 -0.03
+./data/valOnet/positive/600.jpg 1 -0.01 -0.32 0.03 -0.03
+./data/valOnet/positive/37.jpg 1 0.03 -0.14 0.00 0.00
+./data/valOnet/positive/535.jpg 1 -0.01 -0.19 0.07 0.11
+./data/valOnet/positive/297.jpg 1 0.00 -0.32 0.01 0.08
+./data/valOnet/positive/523.jpg 1 0.04 -0.21 -0.01 -0.04
+./data/valOnet/positive/375.jpg 1 -0.03 -0.15 0.10 0.08
+./data/valOnet/positive/276.jpg 1 0.02 0.06 0.11 0.00
+./data/valOnet/positive/360.jpg 1 -0.07 -0.27 0.00 0.08
+./data/valOnet/positive/289.jpg 1 0.03 -0.28 0.05 0.12
+./data/valOnet/positive/526.jpg 1 0.02 -0.06 0.23 -0.11
+./data/valOnet/positive/577.jpg 1 0.02 -0.03 -0.05 0.16
+./data/valOnet/positive/95.jpg 1 0.10 -0.12 0.04 -0.03
+./data/valOnet/positive/560.jpg 1 -0.03 -0.13 0.08 -0.06
+./data/valOnet/positive/598.jpg 1 -0.05 -0.15 0.03 0.03
+./data/valOnet/positive/502.jpg 1 -0.27 0.04 0.17 -0.04
+./data/valOnet/positive/599.jpg 1 0.05 -0.09 0.09 0.09
+./data/valOnet/positive/397.jpg 1 0.00 -0.21 0.03 0.00
+./data/valOnet/positive/554.jpg 1 -0.05 -0.29 0.01 0.12
+./data/valOnet/positive/152.jpg 1 0.07 0.00 0.00 0.21
+./data/valOnet/positive/345.jpg 1 0.00 -0.16 0.01 -0.03
+./data/valOnet/positive/104.jpg 1 0.03 -0.17 0.05 0.07
+./data/valOnet/positive/275.jpg 1 0.05 -0.03 0.14 -0.06
+./data/valOnet/positive/363.jpg 1 0.03 -0.03 0.07 0.03
+./data/valOnet/positive/53.jpg 1 -0.09 -0.10 0.12 0.00
+./data/valOnet/positive/370.jpg 1 -0.07 -0.06 0.28 0.00
+./data/valOnet/positive/445.jpg 1 -0.03 -0.17 -0.04 0.00
+./data/valOnet/positive/296.jpg 1 0.03 -0.13 0.03 0.03
+./data/valOnet/positive/520.jpg 1 0.00 -0.06 0.13 -0.03
+./data/valOnet/positive/311.jpg 1 -0.05 -0.20 0.10 0.03
+./data/valOnet/positive/406.jpg 1 -0.08 -0.09 -0.01 0.00
+./data/valOnet/positive/240.jpg 1 0.04 -0.12 0.16 0.00
+./data/valOnet/positive/444.jpg 1 0.07 -0.10 0.00 0.03
+./data/valOnet/positive/476.jpg 1 -0.05 -0.02 0.05 -0.05
+./data/valOnet/positive/473.jpg 1 0.03 -0.08 -0.01 0.00
+./data/valOnet/positive/267.jpg 1 0.08 -0.10 -0.01 0.00
+./data/valOnet/positive/84.jpg 1 0.09 -0.03 0.10 0.06
+./data/valOnet/positive/481.jpg 1 -0.11 -0.16 -0.04 0.03
+./data/valOnet/positive/320.jpg 1 -0.06 0.06 -0.01 0.29
+./data/valOnet/positive/292.jpg 1 0.03 -0.24 0.04 0.16
+./data/valOnet/positive/426.jpg 1 0.17 -0.06 0.08 0.10
+./data/valOnet/positive/254.jpg 1 0.01 -0.20 0.03 0.00
+./data/valOnet/positive/317.jpg 1 -0.12 0.04 0.17 -0.10
+./data/valOnet/positive/145.jpg 1 0.15 -0.06 0.04 -0.03
+./data/valOnet/positive/4.jpg 1 0.12 -0.26 0.05 0.00
+./data/valOnet/positive/439.jpg 1 -0.04 0.07 -0.20 0.13
+./data/valOnet/positive/541.jpg 1 0.03 -0.10 -0.04 0.00
+./data/valOnet/positive/224.jpg 1 0.07 -0.07 0.07 0.03
+./data/valOnet/positive/371.jpg 1 0.00 -0.03 0.17 -0.08
+./data/valOnet/positive/573.jpg 1 0.00 -0.36 -0.01 0.12
+./data/valOnet/positive/544.jpg 1 0.05 -0.06 0.08 -0.09
+./data/valOnet/positive/185.jpg 1 -0.03 -0.07 0.04 0.18
+./data/valOnet/positive/301.jpg 1 -0.04 -0.18 -0.05 0.07
+./data/valOnet/positive/163.jpg 1 0.05 -0.17 0.05 0.00
+./data/valOnet/positive/184.jpg 1 -0.03 -0.06 0.04 0.03
+./data/valOnet/positive/60.jpg 1 -0.03 0.00 0.04 0.07
+./data/valOnet/positive/485.jpg 1 -0.10 -0.25 0.04 0.07
+./data/valOnet/positive/524.jpg 1 -0.12 0.03 0.09 0.00
+./data/valOnet/positive/181.jpg 1 0.00 -0.24 0.07 0.16
+./data/valOnet/positive/172.jpg 1 0.06 -0.03 0.05 0.17
+./data/valOnet/positive/368.jpg 1 -0.09 -0.22 0.06 0.11
+./data/valOnet/positive/372.jpg 1 -0.02 -0.03 0.15 0.06
+./data/valOnet/positive/440.jpg 1 0.01 0.05 0.14 -0.15
+./data/valOnet/positive/256.jpg 1 0.06 -0.13 0.10 0.03
+./data/valOnet/positive/493.jpg 1 -0.19 -0.05 0.11 -0.02
+./data/valOnet/positive/277.jpg 1 -0.05 0.07 -0.11 0.21
+./data/valOnet/positive/431.jpg 1 -0.14 -0.09 0.08 -0.03
+./data/valOnet/positive/158.jpg 1 0.03 -0.10 0.06 0.03
+./data/valOnet/positive/36.jpg 1 -0.05 -0.03 0.11 -0.06
+./data/valOnet/positive/54.jpg 1 0.00 -0.06 0.23 -0.06
+./data/valOnet/positive/403.jpg 1 0.01 -0.31 0.07 0.00
+./data/valOnet/positive/414.jpg 1 0.03 -0.16 0.08 0.00
+./data/valOnet/positive/474.jpg 1 -0.02 -0.07 -0.08 0.27
+./data/valOnet/positive/294.jpg 1 0.09 -0.20 0.01 -0.03
+./data/valOnet/positive/249.jpg 1 -0.17 -0.15 -0.02 0.00
+./data/valOnet/positive/428.jpg 1 0.01 -0.28 -0.05 -0.03
+./data/valOnet/positive/229.jpg 1 -0.09 0.00 -0.08 0.30
+./data/valOnet/positive/270.jpg 1 0.02 0.00 0.11 -0.09
+./data/valOnet/positive/26.jpg 1 0.06 -0.29 0.04 0.04
+./data/valOnet/positive/183.jpg 1 -0.10 -0.21 -0.04 0.00
+./data/valOnet/positive/21.jpg 1 -0.01 -0.14 0.06 0.03
+./data/valOnet/positive/61.jpg 1 -0.04 -0.06 0.00 -0.06
+./data/valOnet/positive/303.jpg 1 0.02 -0.06 -0.02 0.03
+./data/valOnet/positive/537.jpg 1 0.02 -0.04 -0.05 0.26
+./data/valOnet/positive/189.jpg 1 -0.07 -0.30 -0.04 0.07
+./data/valOnet/positive/374.jpg 1 0.06 0.00 0.25 -0.10
+./data/valOnet/positive/401.jpg 1 0.05 -0.07 0.00 0.07
+./data/valOnet/positive/425.jpg 1 -0.01 -0.09 -0.04 0.00
+./data/valOnet/positive/118.jpg 1 -0.10 -0.15 -0.01 0.06
+./data/valOnet/positive/450.jpg 1 0.07 -0.10 0.04 0.03
+./data/valOnet/positive/563.jpg 1 -0.04 -0.21 0.04 0.17
+./data/valOnet/positive/469.jpg 1 0.05 -0.13 0.10 0.20
+./data/valOnet/positive/109.jpg 1 0.01 -0.23 -0.02 0.00
+./data/valOnet/positive/165.jpg 1 0.04 -0.24 0.03 -0.03
+./data/valOnet/positive/105.jpg 1 0.03 -0.14 0.06 0.18
+./data/valOnet/positive/380.jpg 1 -0.01 -0.10 0.08 0.00
+./data/valOnet/positive/94.jpg 1 -0.04 -0.08 0.01 0.38
+./data/valOnet/positive/556.jpg 1 0.08 -0.26 0.04 0.00
+./data/valOnet/positive/582.jpg 1 0.00 -0.38 0.01 0.08
+./data/valOnet/positive/180.jpg 1 0.05 -0.20 -0.02 -0.03
+./data/valOnet/positive/5.jpg 1 -0.13 -0.18 0.11 0.03
+./data/valOnet/positive/242.jpg 1 0.02 -0.17 0.04 0.10
+./data/valOnet/positive/288.jpg 1 0.00 -0.24 -0.03 -0.03
+./data/valOnet/positive/141.jpg 1 -0.04 -0.17 0.09 0.17
+./data/valOnet/positive/227.jpg 1 -0.01 -0.18 0.02 0.09
+./data/valOnet/positive/211.jpg 1 0.02 -0.33 -0.02 0.00
+./data/valOnet/positive/231.jpg 1 -0.06 0.00 -0.02 0.00
+./data/valOnet/positive/38.jpg 1 0.03 -0.21 0.06 -0.07
+./data/valOnet/positive/290.jpg 1 0.08 -0.16 0.04 -0.03
+./data/valOnet/positive/420.jpg 1 0.00 -0.06 0.06 -0.03
+./data/valOnet/positive/424.jpg 1 0.07 -0.09 0.06 -0.03
+./data/valOnet/positive/200.jpg 1 0.07 -0.06 0.05 -0.03
+./data/valOnet/positive/287.jpg 1 0.15 -0.09 0.11 -0.03
+./data/valOnet/positive/187.jpg 1 -0.03 -0.14 -0.04 0.18
+./data/valOnet/positive/55.jpg 1 -0.08 -0.28 0.00 0.00
+./data/valOnet/positive/41.jpg 1 0.00 -0.22 0.07 0.04
+./data/valOnet/positive/595.jpg 1 -0.07 -0.21 0.00 0.11
+./data/valOnet/positive/266.jpg 1 0.03 0.00 -0.07 0.40
+./data/valOnet/positive/487.jpg 1 0.08 -0.12 0.00 -0.06
+./data/valOnet/positive/564.jpg 1 0.08 -0.24 0.02 0.03
+./data/valOnet/positive/435.jpg 1 -0.06 0.03 0.20 -0.06
+./data/valOnet/positive/7.jpg 1 0.04 -0.02 0.17 0.00
+./data/valOnet/positive/318.jpg 1 0.01 -0.36 0.00 -0.06
+./data/valOnet/positive/561.jpg 1 -0.11 -0.10 -0.03 -0.03
+./data/valOnet/positive/507.jpg 1 0.08 -0.21 -0.03 -0.10
+./data/valOnet/positive/570.jpg 1 0.01 -0.08 0.06 0.08
+./data/valOnet/positive/291.jpg 1 0.01 -0.11 -0.07 0.14
+./data/valOnet/positive/585.jpg 1 0.10 -0.06 0.14 -0.09
+./data/valOnet/positive/274.jpg 1 0.07 -0.17 0.07 -0.07
+./data/valOnet/positive/540.jpg 1 0.03 -0.28 0.09 0.08
+./data/valOnet/positive/206.jpg 1 0.00 -0.15 0.04 0.00
+./data/valOnet/positive/273.jpg 1 -0.14 -0.15 -0.05 0.04
+./data/valOnet/positive/504.jpg 1 0.08 0.06 0.11 -0.07
+./data/valOnet/positive/496.jpg 1 -0.18 -0.04 0.01 -0.07
+./data/valOnet/positive/85.jpg 1 0.12 -0.03 0.07 0.00
+./data/valOnet/positive/263.jpg 1 -0.04 -0.16 0.03 -0.03
+./data/valOnet/positive/216.jpg 1 0.00 -0.03 -0.04 0.15
+./data/valOnet/positive/442.jpg 1 0.00 -0.39 -0.01 0.13
+./data/valOnet/positive/63.jpg 1 -0.05 -0.24 0.00 0.07
+./data/valOnet/positive/385.jpg 1 -0.03 -0.32 -0.01 -0.04
+./data/valOnet/positive/123.jpg 1 0.05 0.06 0.01 0.06
+./data/valOnet/positive/116.jpg 1 -0.03 0.03 -0.03 0.32
+./data/valOnet/positive/220.jpg 1 -0.08 -0.09 0.03 -0.15
+./data/valOnet/positive/409.jpg 1 0.01 -0.42 0.00 -0.04
+./data/valOnet/positive/334.jpg 1 -0.05 -0.09 0.19 -0.09
+./data/valOnet/positive/460.jpg 1 -0.03 -0.07 -0.03 0.21
+./data/valOnet/positive/364.jpg 1 0.00 -0.26 -0.05 -0.13
+./data/valOnet/positive/71.jpg 1 0.01 -0.32 0.01 0.12
+./data/valOnet/positive/579.jpg 1 0.00 -0.28 0.03 0.03
+./data/valOnet/positive/347.jpg 1 0.01 -0.12 0.08 0.00
+./data/valOnet/positive/35.jpg 1 0.03 -0.06 0.13 0.00
+./data/valOnet/positive/398.jpg 1 -0.03 -0.21 0.03 -0.03
+./data/valOnet/positive/399.jpg 1 0.01 -0.14 0.03 0.03
+./data/valOnet/positive/238.jpg 1 -0.01 0.05 0.10 -0.09
+./data/valOnet/positive/8.jpg 1 -0.19 0.02 0.13 -0.09
+./data/valOnet/positive/122.jpg 1 -0.01 -0.21 0.07 -0.03
+./data/valOnet/positive/194.jpg 1 -0.05 -0.25 0.04 0.00
+./data/valOnet/positive/209.jpg 1 0.10 0.00 0.05 0.07
+./data/valOnet/positive/592.jpg 1 0.00 -0.16 0.08 0.03
+./data/valOnet/positive/101.jpg 1 0.01 -0.03 -0.05 0.06
+./data/valOnet/positive/557.jpg 1 -0.07 -0.21 -0.01 -0.03
+./data/valOnet/positive/410.jpg 1 -0.05 -0.20 -0.01 0.00
+./data/valOnet/positive/131.jpg 1 0.06 -0.23 0.08 -0.07
+./data/valOnet/positive/567.jpg 1 -0.05 -0.15 -0.16 -0.05
+./data/valOnet/positive/182.jpg 1 -0.06 -0.21 0.07 0.04
+./data/valOnet/positive/497.jpg 1 -0.15 -0.02 0.12 -0.12
+./data/valOnet/positive/27.jpg 1 0.12 -0.23 0.09 -0.03
+./data/valOnet/positive/219.jpg 1 -0.04 -0.09 0.08 -0.15
+./data/valOnet/positive/454.jpg 1 0.04 -0.15 0.08 0.11
+./data/valOnet/positive/492.jpg 1 -0.14 -0.17 0.04 0.09
+./data/valOnet/positive/82.jpg 1 -0.08 -0.07 0.00 0.22
+./data/valOnet/positive/308.jpg 1 -0.11 -0.29 -0.03 0.00
+./data/valOnet/positive/402.jpg 1 0.01 -0.08 -0.06 0.28
+./data/valOnet/positive/438.jpg 1 -0.11 -0.13 -0.03 -0.07
+./data/valOnet/positive/355.jpg 1 -0.13 -0.10 -0.04 0.14
+./data/valOnet/positive/494.jpg 1 -0.01 -0.42 0.01 0.00
+./data/valOnet/positive/222.jpg 1 -0.01 -0.25 0.04 0.12
+./data/valOnet/positive/512.jpg 1 -0.06 -0.12 0.01 0.12
+./data/valOnet/positive/319.jpg 1 0.07 0.04 0.11 -0.08
+./data/valOnet/positive/464.jpg 1 0.04 -0.18 0.15 0.00
+./data/valOnet/positive/93.jpg 1 0.01 -0.07 -0.03 0.18
+./data/valOnet/positive/465.jpg 1 -0.01 -0.14 0.04 0.00
+./data/valOnet/positive/25.jpg 1 0.01 -0.10 -0.01 0.13
+./data/valOnet/positive/419.jpg 1 0.00 -0.18 0.09 0.07
+./data/valOnet/positive/128.jpg 1 -0.05 -0.24 0.00 -0.03
+./data/valOnet/positive/488.jpg 1 -0.01 -0.03 -0.01 -0.03
+./data/valOnet/positive/90.jpg 1 0.05 -0.20 0.08 -0.03
+./data/valOnet/positive/215.jpg 1 0.12 -0.21 0.11 0.00
+./data/valOnet/positive/314.jpg 1 -0.06 -0.09 0.06 0.14
+./data/valOnet/positive/547.jpg 1 0.07 -0.11 0.19 0.07
+./data/valOnet/positive/20.jpg 1 0.03 0.00 0.08 0.00
+./data/valOnet/positive/136.jpg 1 0.04 -0.07 0.00 0.10
+./data/valOnet/positive/503.jpg 1 0.00 -0.38 0.02 0.00
+./data/valOnet/positive/583.jpg 1 -0.01 -0.19 0.09 0.00
+./data/valOnet/positive/24.jpg 1 0.05 -0.16 0.00 0.03
+./data/valOnet/positive/456.jpg 1 -0.01 -0.21 -0.01 -0.03
+./data/valOnet/positive/381.jpg 1 0.03 0.00 0.24 -0.11
+./data/valOnet/positive/12.jpg 1 0.04 -0.10 0.05 0.10
+./data/valOnet/positive/52.jpg 1 -0.03 0.00 0.07 0.00
+./data/valOnet/positive/57.jpg 1 -0.08 -0.24 -0.01 0.04
+./data/valOnet/positive/195.jpg 1 -0.13 -0.07 0.01 0.10
+./data/valOnet/positive/191.jpg 1 0.00 -0.13 0.06 0.17
+./data/valOnet/positive/81.jpg 1 0.03 -0.07 0.07 0.07
+./data/valOnet/positive/78.jpg 1 0.05 -0.12 0.09 0.19
+./data/valOnet/positive/18.jpg 1 -0.01 -0.13 0.11 0.00
+./data/valOnet/positive/17.jpg 1 -0.05 -0.18 -0.02 0.04
+./data/valOnet/positive/489.jpg 1 0.06 0.00 -0.03 0.10
+./data/valOnet/positive/446.jpg 1 0.03 -0.32 0.01 -0.07
+./data/valOnet/positive/217.jpg 1 -0.05 -0.21 0.05 -0.10
+./data/valOnet/positive/88.jpg 1 0.19 0.03 0.06 0.09
+./data/valOnet/positive/451.jpg 1 0.07 -0.19 -0.02 -0.06
+./data/valOnet/positive/45.jpg 1 -0.09 -0.17 0.06 0.00
+./data/valOnet/positive/156.jpg 1 0.15 -0.13 0.14 0.00
+./data/valOnet/positive/13.jpg 1 0.04 -0.09 0.14 -0.03
+./data/valOnet/positive/543.jpg 1 -0.08 -0.12 -0.01 0.12
+./data/valOnet/positive/137.jpg 1 0.01 -0.14 0.02 0.00
+./data/valOnet/positive/161.jpg 1 -0.03 -0.17 0.10 0.17
+./data/valOnet/positive/333.jpg 1 -0.04 -0.22 0.01 0.00
+./data/valOnet/positive/417.jpg 1 0.10 -0.12 0.11 0.03
+./data/valOnet/positive/340.jpg 1 0.01 -0.17 0.03 -0.10
+./data/valOnet/positive/56.jpg 1 0.01 -0.25 0.07 0.08
+./data/valOnet/positive/519.jpg 1 0.01 -0.24 0.00 0.08
+./data/valOnet/positive/9.jpg 1 0.10 0.06 -0.14 0.02
+./data/valOnet/positive/423.jpg 1 0.00 0.00 0.01 0.21
+./data/valOnet/positive/62.jpg 1 0.09 0.04 -0.04 0.18
+./data/valOnet/positive/483.jpg 1 0.01 -0.42 0.03 0.00
+./data/valOnet/positive/369.jpg 1 0.00 -0.29 0.08 0.00
+./data/valOnet/positive/282.jpg 1 -0.03 -0.29 0.03 0.00
+./data/valOnet/positive/221.jpg 1 0.05 -0.18 0.10 0.00
+./data/valOnet/positive/422.jpg 1 0.00 0.03 0.08 -0.03
+./data/valOnet/positive/516.jpg 1 -0.07 -0.08 0.03 -0.08
+./data/valOnet/positive/96.jpg 1 0.12 -0.12 0.00 0.27
+./data/valOnet/positive/343.jpg 1 0.03 -0.19 0.01 0.29
+./data/valOnet/positive/208.jpg 1 0.07 -0.07 0.05 -0.07
+./data/valOnet/positive/346.jpg 1 -0.10 -0.24 -0.01 0.00
+./data/valOnet/positive/377.jpg 1 -0.03 0.00 0.21 -0.09
+./data/valOnet/positive/260.jpg 1 0.00 -0.10 0.05 0.03
+./data/valOnet/positive/269.jpg 1 -0.05 -0.19 0.06 0.04
+./data/valOnet/positive/214.jpg 1 -0.05 -0.33 -0.03 0.00
+./data/valOnet/positive/389.jpg 1 -0.11 -0.06 0.00 0.10
+./data/valOnet/positive/490.jpg 1 -0.02 -0.24 0.06 0.06
+./data/valOnet/positive/42.jpg 1 0.01 -0.43 0.03 0.04
+./data/valOnet/positive/121.jpg 1 0.08 -0.03 0.14 0.00
+./data/valOnet/positive/574.jpg 1 0.11 -0.03 0.06 0.12
+./data/valOnet/positive/262.jpg 1 0.01 -0.04 0.04 0.26
+./data/valOnet/positive/330.jpg 1 0.10 -0.14 0.05 0.03
+./data/valOnet/positive/192.jpg 1 -0.07 -0.13 0.04 0.00
+./data/valOnet/positive/525.jpg 1 -0.13 0.00 0.00 0.32
+./data/valOnet/positive/283.jpg 1 0.10 -0.10 0.07 -0.07
+./data/valOnet/positive/234.jpg 1 0.10 -0.13 0.16 -0.03
+./data/valOnet/positive/434.jpg 1 -0.08 -0.13 0.04 -0.07
+./data/valOnet/positive/140.jpg 1 -0.06 -0.20 0.00 0.08
+./data/valOnet/positive/452.jpg 1 0.01 -0.13 0.04 -0.03
+./data/valOnet/positive/124.jpg 1 0.01 -0.10 0.09 0.03
+./data/valOnet/positive/552.jpg 1 -0.03 -0.04 -0.04 0.24
+./data/valOnet/positive/378.jpg 1 -0.10 -0.18 0.06 -0.04
+./data/valOnet/positive/14.jpg 1 0.00 -0.16 0.01 0.28
+./data/valOnet/positive/32.jpg 1 0.01 -0.03 0.09 0.16
+./data/valOnet/positive/207.jpg 1 0.03 -0.14 0.00 -0.07
+./data/valOnet/positive/138.jpg 1 0.06 -0.19 0.09 0.04
+./data/valOnet/positive/125.jpg 1 0.03 -0.07 0.00 0.14
+./data/valOnet/positive/133.jpg 1 -0.04 -0.29 0.03 0.12
+./data/valOnet/positive/151.jpg 1 -0.01 -0.17 -0.01 0.00
+./data/valOnet/positive/513.jpg 1 -0.10 -0.16 0.11 0.00
+./data/valOnet/positive/580.jpg 1 0.04 -0.25 0.01 0.11
+./data/valOnet/positive/146.jpg 1 0.05 -0.12 0.13 0.12
+./data/valOnet/positive/173.jpg 1 0.01 -0.38 0.00 0.00
+./data/valOnet/positive/135.jpg 1 -0.06 -0.14 0.04 0.03
+./data/valOnet/positive/407.jpg 1 -0.04 -0.12 0.10 -0.03
+./data/valOnet/positive/379.jpg 1 -0.19 -0.16 -0.01 0.12
+./data/valOnet/positive/210.jpg 1 -0.03 -0.06 -0.03 -0.10
+./data/valOnet/positive/98.jpg 1 0.01 -0.13 0.03 0.03
+./data/valOnet/positive/235.jpg 1 0.07 0.10 0.00 0.17
+./data/valOnet/positive/305.jpg 1 -0.01 -0.12 0.04 0.00
+./data/valOnet/positive/6.jpg 1 0.01 -0.04 0.25 -0.10
+./data/valOnet/positive/533.jpg 1 -0.03 -0.08 -0.03 0.32
+./data/valOnet/positive/475.jpg 1 0.07 -0.14 0.22 -0.03
+./data/valOnet/positive/134.jpg 1 -0.08 -0.25 -0.03 -0.04
+./data/valOnet/positive/286.jpg 1 0.04 -0.24 0.10 0.00
+./data/valOnet/positive/387.jpg 1 0.00 -0.26 0.08 -0.10
+./data/valOnet/positive/336.jpg 1 0.06 0.00 0.22 -0.13
+./data/valOnet/positive/584.jpg 1 -0.01 -0.22 0.00 0.17
+./data/valOnet/positive/432.jpg 1 -0.06 -0.03 0.13 -0.06
+./data/valOnet/positive/16.jpg 1 -0.07 -0.15 -0.01 0.23
+./data/valOnet/positive/233.jpg 1 -0.10 -0.07 0.08 -0.02
+./data/valOnet/positive/293.jpg 1 0.07 -0.10 0.07 0.10
+./data/valOnet/positive/155.jpg 1 0.09 -0.13 0.09 0.00
+./data/valOnet/positive/80.jpg 1 -0.03 -0.13 0.10 0.00
+./data/valOnet/positive/328.jpg 1 0.03 -0.17 -0.01 0.00
+./data/valOnet/positive/86.jpg 1 -0.09 -0.07 -0.09 0.10
+./data/valOnet/positive/549.jpg 1 -0.01 -0.10 0.06 0.00
+./data/valOnet/positive/257.jpg 1 0.04 -0.19 0.04 0.19
+./data/valOnet/positive/470.jpg 1 0.00 -0.17 0.01 0.21
+./data/valOnet/positive/555.jpg 1 -0.03 -0.07 -0.03 0.14
+./data/valOnet/positive/529.jpg 1 0.03 -0.17 -0.01 0.00
+./data/valOnet/positive/484.jpg 1 -0.01 -0.27 0.04 0.15
+./data/valOnet/positive/129.jpg 1 0.00 -0.13 0.07 0.00
+./data/valOnet/positive/247.jpg 1 -0.02 0.02 -0.02 -0.09
+./data/valOnet/positive/108.jpg 1 -0.04 -0.23 0.07 0.00
+./data/valOnet/positive/147.jpg 1 0.05 -0.30 0.06 -0.04
+./data/valOnet/positive/418.jpg 1 0.11 -0.03 -0.03 -0.08
+./data/valOnet/positive/199.jpg 1 0.13 -0.04 0.04 0.25
+./data/valOnet/positive/226.jpg 1 0.06 -0.12 0.10 0.18
+./data/valOnet/positive/186.jpg 1 0.01 -0.24 -0.03 0.03
+./data/valOnet/positive/602.jpg 1 0.13 -0.12 0.15 0.06
+./data/valOnet/positive/117.jpg 1 0.01 -0.21 -0.05 0.00
+./data/valOnet/positive/324.jpg 1 0.08 -0.07 0.05 0.15
+./data/valOnet/positive/10.jpg 1 0.01 -0.16 0.05 -0.03
+./data/valOnet/positive/250.jpg 1 0.01 -0.03 0.03 -0.05
+./data/valOnet/positive/40.jpg 1 -0.01 -0.06 0.04 -0.03
+./data/valOnet/positive/193.jpg 1 -0.08 -0.19 0.03 -0.06
+./data/valOnet/positive/511.jpg 1 0.07 -0.06 0.02 0.23
+./data/valOnet/positive/354.jpg 1 -0.07 -0.30 0.03 0.04
+./data/valOnet/positive/542.jpg 1 0.01 -0.23 0.11 0.03
+./data/valOnet/positive/453.jpg 1 0.00 -0.10 0.03 0.03
+./data/valOnet/positive/23.jpg 1 -0.08 -0.21 0.08 0.00
+./data/valOnet/positive/348.jpg 1 -0.09 -0.13 -0.08 0.03
+./data/valOnet/positive/111.jpg 1 0.07 -0.23 0.11 0.06
+./data/valOnet/positive/530.jpg 1 0.05 -0.19 -0.05 0.11
+./data/valOnet/positive/365.jpg 1 -0.03 -0.09 0.04 -0.03
+./data/valOnet/positive/499.jpg 1 -0.01 -0.05 0.27 0.05
+./data/valOnet/positive/510.jpg 1 -0.03 -0.43 0.00 0.00
+./data/valOnet/positive/34.jpg 1 -0.04 -0.33 0.06 0.04
+./data/valOnet/positive/514.jpg 1 -0.13 -0.12 -0.01 0.00
+./data/valOnet/positive/392.jpg 1 0.00 -0.04 0.03 0.38
+./data/valOnet/positive/430.jpg 1 0.00 -0.10 -0.04 0.14
+./data/valOnet/positive/376.jpg 1 0.07 -0.19 0.16 0.00
+./data/valOnet/positive/280.jpg 1 -0.02 -0.15 0.13 0.04
+./data/valOnet/positive/15.jpg 1 0.03 -0.30 0.11 0.04
+./data/valOnet/positive/589.jpg 1 0.10 -0.09 0.14 -0.12
+./data/valOnet/positive/112.jpg 1 0.01 -0.30 0.01 0.03
+./data/valOnet/positive/443.jpg 1 0.01 -0.12 -0.03 0.33
+./data/valOnet/positive/479.jpg 1 0.00 -0.23 0.07 0.00
+./data/valOnet/positive/166.jpg 1 0.09 -0.03 -0.13 0.13
+./data/valOnet/positive/467.jpg 1 0.09 -0.28 0.05 -0.03
+./data/valOnet/positive/408.jpg 1 -0.01 -0.03 0.04 0.09
+./data/valOnet/positive/604.jpg 1 -0.04 -0.24 0.00 0.00
+./data/valOnet/positive/0.jpg 1 0.01 -0.27 -0.01 0.04
+./data/valOnet/positive/28.jpg 1 0.10 0.00 0.10 0.19
+./data/valOnet/positive/358.jpg 1 0.05 -0.27 0.05 0.08
+./data/valOnet/positive/188.jpg 1 -0.01 -0.27 -0.06 -0.03
+./data/valOnet/positive/150.jpg 1 0.03 -0.13 0.04 -0.03
+./data/valOnet/positive/198.jpg 1 -0.05 -0.09 0.17 -0.03
+./data/valOnet/positive/572.jpg 1 0.09 -0.13 -0.03 0.06
+./data/valOnet/positive/458.jpg 1 -0.04 -0.12 0.03 0.03
+./data/valOnet/positive/120.jpg 1 0.07 -0.17 0.07 -0.03
+./data/valOnet/positive/261.jpg 1 0.03 -0.03 0.10 0.10
+./data/valOnet/positive/388.jpg 1 0.04 -0.06 0.12 0.03
+./data/valOnet/positive/127.jpg 1 -0.08 -0.19 0.06 0.11
+./data/valOnet/positive/22.jpg 1 0.00 0.00 0.09 0.21
+./data/valOnet/positive/68.jpg 1 0.02 -0.12 0.02 0.15
+./data/valOnet/positive/225.jpg 1 0.04 -0.14 0.20 0.09
+./data/valOnet/positive/603.jpg 1 -0.04 -0.22 0.07 0.03
+./data/valOnet/positive/196.jpg 1 0.01 -0.06 0.16 0.03
+./data/valOnet/positive/545.jpg 1 0.01 -0.06 0.05 -0.03
+./data/valOnet/positive/92.jpg 1 0.00 -0.12 0.00 0.28
+./data/valOnet/positive/190.jpg 1 0.13 -0.12 0.10 0.03
+./data/valOnet/positive/517.jpg 1 -0.07 -0.16 0.03 0.06
+./data/valOnet/positive/164.jpg 1 0.09 -0.08 -0.03 0.27
+./data/valOnet/positive/587.jpg 1 0.04 -0.12 0.04 -0.12
+./data/valOnet/positive/230.jpg 1 0.08 0.06 -0.06 0.25
+./data/valOnet/positive/382.jpg 1 0.07 -0.10 0.26 -0.03
+./data/valOnet/positive/569.jpg 1 0.00 -0.09 0.20 -0.11
+./data/valOnet/positive/66.jpg 1 -0.07 -0.33 0.03 0.04
+./data/valOnet/positive/575.jpg 1 0.11 -0.27 0.02 -0.03
+./data/valOnet/positive/433.jpg 1 -0.07 -0.06 0.10 -0.03
+./data/valOnet/positive/536.jpg 1 -0.08 -0.21 -0.03 0.04
+./data/valOnet/positive/506.jpg 1 -0.16 0.06 -0.09 0.06
+./data/valOnet/positive/586.jpg 1 -0.13 -0.23 -0.03 0.00
+./data/valOnet/positive/357.jpg 1 0.03 -0.30 0.00 0.00
+./data/valOnet/positive/568.jpg 1 -0.16 -0.30 -0.01 0.00
+./data/valOnet/positive/162.jpg 1 0.12 -0.18 0.13 0.00
+./data/valOnet/positive/126.jpg 1 0.08 -0.25 0.05 0.00
+./data/valOnet/positive/149.jpg 1 0.03 -0.06 0.03 0.03
+./data/valOnet/positive/546.jpg 1 0.01 -0.13 0.03 -0.10
+./data/valOnet/positive/436.jpg 1 -0.02 -0.03 0.29 -0.09
+./data/valOnet/positive/335.jpg 1 -0.02 -0.03 0.17 0.03
+./data/valOnet/positive/170.jpg 1 -0.01 -0.06 0.03 0.03
+./data/valOnet/positive/228.jpg 1 0.02 0.00 -0.08 0.26
+./data/valOnet/positive/251.jpg 1 -0.14 0.00 -0.10 -0.07
+./data/valOnet/positive/298.jpg 1 0.03 -0.25 -0.01 0.00
+./data/valOnet/positive/394.jpg 1 -0.01 -0.06 0.00 0.03
+./data/valOnet/positive/265.jpg 1 0.01 -0.25 0.10 0.00
+./data/valOnet/positive/99.jpg 1 0.09 -0.04 -0.01 0.26
+./data/valOnet/positive/532.jpg 1 -0.08 -0.12 0.00 -0.03
+./data/valOnet/positive/87.jpg 1 0.02 0.03 0.13 0.09
+./data/valOnet/positive/306.jpg 1 0.04 -0.06 0.12 0.10
+./data/valOnet/positive/359.jpg 1 0.04 -0.16 0.04 -0.03
+./data/valOnet/positive/576.jpg 1 0.05 0.03 -0.02 0.31
+./data/valOnet/positive/367.jpg 1 0.07 -0.17 0.15 0.03
+./data/valOnet/positive/239.jpg 1 -0.05 -0.15 0.02 -0.03
+./data/valOnet/positive/255.jpg 1 0.01 -0.19 0.07 0.15
+./data/valOnet/positive/58.jpg 1 0.01 -0.22 0.00 -0.04
+./data/valOnet/positive/106.jpg 1 0.06 -0.07 0.05 0.21
+./data/valOnet/positive/528.jpg 1 -0.07 -0.19 -0.04 0.15
+./data/valOnet/positive/113.jpg 1 0.11 0.00 0.06 0.18
+./data/valOnet/positive/284.jpg 1 -0.06 -0.23 0.03 0.15
+./data/valOnet/positive/571.jpg 1 0.00 -0.19 0.01 0.23
+./data/valOnet/positive/244.jpg 1 0.07 -0.15 0.23 0.00
+./data/valOnet/positive/550.jpg 1 0.04 -0.03 0.16 -0.06
+./data/valOnet/positive/412.jpg 1 0.06 -0.11 0.01 0.22
+./data/valOnet/positive/337.jpg 1 0.06 -0.33 0.04 -0.04
+./data/valOnet/positive/312.jpg 1 -0.03 -0.26 0.18 0.00
+./data/valOnet/positive/204.jpg 1 0.10 -0.19 0.10 0.00
+./data/valOnet/positive/237.jpg 1 -0.07 -0.10 0.07 0.17
+./data/valOnet/positive/248.jpg 1 0.10 0.06 0.08 0.14
+./data/valOnet/positive/332.jpg 1 0.04 -0.09 0.14 -0.09
+./data/valOnet/positive/223.jpg 1 0.01 -0.11 0.04 0.07
+./data/valOnet/positive/310.jpg 1 -0.04 -0.17 0.07 0.03
+./data/valOnet/positive/3.jpg 1 0.07 -0.07 0.12 0.14
+./data/valOnet/positive/19.jpg 1 0.01 -0.13 0.06 -0.03
+./data/valOnet/positive/46.jpg 1 0.01 -0.12 0.10 -0.06
+./data/valOnet/positive/498.jpg 1 0.06 -0.06 -0.11 0.17
+./data/valOnet/positive/491.jpg 1 0.02 -0.14 0.17 0.05
+./data/valOnet/positive/59.jpg 1 0.00 -0.25 0.04 -0.11
+./data/valOnet/positive/449.jpg 1 0.04 -0.04 -0.03 0.36
+./data/valOnet/positive/64.jpg 1 -0.07 -0.14 -0.03 0.17
+./data/valOnet/positive/91.jpg 1 0.04 -0.26 0.03 0.04
+./data/valOnet/positive/302.jpg 1 0.04 -0.12 0.04 0.28
+./data/valOnet/positive/300.jpg 1 0.05 -0.25 0.03 0.00
+./data/valOnet/positive/65.jpg 1 -0.01 -0.25 -0.01 -0.07
+./data/valOnet/positive/323.jpg 1 0.01 -0.21 -0.10 -0.04
+./data/valOnet/positive/83.jpg 1 0.09 -0.13 0.01 0.00
+./data/valOnet/positive/558.jpg 1 -0.04 -0.07 -0.07 0.10
+./data/valOnet/positive/281.jpg 1 0.06 -0.20 0.03 0.04
+./data/valOnet/positive/159.jpg 1 0.02 -0.30 0.10 0.04
+./data/valOnet/positive/30.jpg 1 -0.01 -0.14 0.16 -0.11
+./data/valOnet/positive/315.jpg 1 0.07 0.02 0.22 -0.12
+./data/valOnet/positive/2.jpg 1 0.06 -0.10 0.04 0.03
+./data/valOnet/positive/31.jpg 1 0.03 -0.09 0.17 0.03
+./data/valOnet/positive/326.jpg 1 0.04 -0.12 -0.03 0.15
+./data/valOnet/positive/110.jpg 1 -0.04 -0.12 -0.03 0.06
+./data/valOnet/positive/339.jpg 1 0.07 -0.14 0.09 -0.04
+./data/valOnet/positive/349.jpg 1 0.00 -0.03 0.00 0.13
+./data/valOnet/positive/395.jpg 1 0.07 0.07 -0.07 0.24
+./data/valOnet/positive/486.jpg 1 0.00 -0.11 -0.08 -0.08
+./data/valOnet/positive/593.jpg 1 0.02 -0.14 0.00 0.18
+./data/valOnet/positive/197.jpg 1 0.03 -0.12 0.06 0.23
+./data/valOnet/positive/74.jpg 1 0.04 -0.17 -0.06 0.03
+./data/valOnet/positive/304.jpg 1 -0.05 -0.23 0.00 0.15
+./data/valOnet/positive/97.jpg 1 0.00 -0.20 0.05 0.20
+./data/valOnet/positive/505.jpg 1 0.16 0.08 0.17 -0.02
+./data/valOnet/positive/327.jpg 1 0.05 -0.24 0.00 -0.07
+./data/valOnet/positive/411.jpg 1 0.02 -0.08 0.00 0.31
+./data/valOnet/positive/606.jpg 1 0.01 -0.07 0.01 0.21
+./data/valOnet/positive/154.jpg 1 0.09 -0.14 0.09 0.03
+./data/valOnet/positive/212.jpg 1 0.00 -0.19 0.00 0.06
+./data/valOnet/positive/169.jpg 1 0.00 -0.21 0.04 0.03
+./data/valOnet/positive/70.jpg 1 -0.09 -0.12 -0.07 0.15
+./data/valOnet/positive/415.jpg 1 0.06 -0.03 0.09 0.16
+./data/valOnet/positive/272.jpg 1 -0.07 0.03 0.10 -0.06
+./data/valOnet/positive/130.jpg 1 -0.03 -0.14 0.00 0.11
+./data/valOnet/positive/362.jpg 1 -0.01 -0.12 0.03 -0.06
+./data/valOnet/positive/351.jpg 1 -0.04 -0.20 0.06 0.00
+./data/valOnet/positive/178.jpg 1 0.06 -0.10 -0.02 0.10
+./data/valOnet/positive/538.jpg 1 0.10 -0.18 -0.01 0.04
+./data/valOnet/positive/457.jpg 1 -0.06 -0.15 -0.06 0.15
+./data/valOnet/positive/49.jpg 1 0.03 -0.06 0.12 -0.06
+./data/valOnet/positive/427.jpg 1 0.00 -0.21 -0.01 0.03
+./data/valOnet/positive/416.jpg 1 0.04 -0.09 0.06 0.06
+./data/valOnet/positive/447.jpg 1 0.02 -0.12 -0.07 0.28
+./data/valOnet/positive/518.jpg 1 0.03 -0.11 0.04 0.07
+./data/valOnet/positive/448.jpg 1 0.00 0.00 -0.06 0.17
+./data/valOnet/positive/482.jpg 1 -0.01 -0.16 0.11 0.03
+./data/valOnet/positive/391.jpg 1 0.00 -0.27 0.01 0.04
+./data/valOnet/positive/102.jpg 1 0.00 -0.30 0.00 0.00
+./data/valOnet/positive/89.jpg 1 -0.01 -0.06 0.01 0.06
+./data/valOnet/positive/307.jpg 1 -0.01 -0.10 0.01 0.10
+./data/valOnet/positive/501.jpg 1 -0.14 0.00 0.18 -0.06
+./data/valOnet/positive/521.jpg 1 -0.18 -0.19 0.04 0.08
+./data/valOnet/positive/531.jpg 1 0.00 -0.21 -0.06 0.00
+./data/valOnet/positive/515.jpg 1 -0.01 -0.31 0.06 -0.03
+./data/valOnet/positive/477.jpg 1 -0.07 -0.17 0.02 -0.03
+./data/valOnet/positive/565.jpg 1 -0.02 -0.38 -0.01 -0.03
+./data/valOnet/positive/203.jpg 1 0.00 -0.25 0.11 0.04
+./data/valOnet/positive/461.jpg 1 -0.04 -0.23 0.04 0.00
+./data/valOnet/positive/213.jpg 1 0.06 -0.12 -0.01 0.06
+./data/valOnet/positive/508.jpg 1 0.00 -0.11 0.07 0.03
+./data/valOnet/positive/299.jpg 1 -0.03 -0.10 -0.04 0.10
+./data/valOnet/positive/72.jpg 1 0.05 -0.25 0.01 0.04
+./data/valOnet/positive/174.jpg 1 -0.10 -0.10 0.00 0.06
+./data/valOnet/positive/344.jpg 1 0.18 -0.18 0.00 -0.07
+./data/valOnet/positive/596.jpg 1 0.01 -0.22 0.09 0.03
+./data/valOnet/positive/352.jpg 1 -0.04 -0.09 0.03 0.03
+./data/valOnet/positive/605.jpg 1 -0.01 -0.14 0.03 0.10
+./data/valOnet/positive/562.jpg 1 -0.01 -0.06 0.11 -0.09
+./data/valOnet/positive/44.jpg 1 0.06 -0.17 0.05 -0.03
+./data/valOnet/positive/405.jpg 1 0.03 -0.19 0.06 -0.03
+./data/valOnet/positive/522.jpg 1 -0.03 0.00 0.10 -0.03
+./data/valOnet/positive/295.jpg 1 0.05 -0.16 0.03 0.24
+./data/valOnet/positive/437.jpg 1 0.08 0.13 -0.12 -0.05
+./data/valOnet/positive/559.jpg 1 0.01 -0.04 0.04 0.32
+./data/valOnet/positive/33.jpg 1 0.02 0.00 -0.05 0.06
+./data/valOnet/positive/338.jpg 1 -0.12 -0.25 -0.06 0.04
+./data/valOnet/positive/373.jpg 1 0.07 -0.23 0.14 -0.03
+./data/valOnet/positive/384.jpg 1 -0.01 -0.12 0.05 -0.03
+./data/valOnet/positive/236.jpg 1 0.03 -0.03 0.05 0.00
+./data/valOnet/positive/67.jpg 1 0.01 -0.18 0.05 0.00
+./data/valOnet/positive/75.jpg 1 0.01 -0.13 0.07 0.00
+./data/valOnet/positive/331.jpg 1 -0.04 -0.19 -0.10 0.12
+./data/valOnet/positive/366.jpg 1 0.10 0.00 0.03 0.30
+./data/valOnet/positive/69.jpg 1 0.01 -0.14 0.04 0.04
+./data/valOnet/positive/500.jpg 1 0.07 0.02 0.23 -0.09
+./data/valOnet/positive/462.jpg 1 0.06 -0.06 0.14 0.13
+./data/valOnet/positive/107.jpg 1 -0.02 -0.15 -0.04 0.27
+./data/valOnet/positive/309.jpg 1 0.06 -0.29 0.00 0.00
+./data/valOnet/positive/268.jpg 1 0.04 -0.14 0.10 0.00
+./data/valOnet/positive/495.jpg 1 -0.13 -0.07 -0.05 -0.05
+./data/valOnet/positive/201.jpg 1 -0.06 -0.06 0.03 0.00
+./data/valOnet/positive/218.jpg 1 -0.03 -0.10 0.05 0.00
+./data/valOnet/positive/100.jpg 1 -0.03 -0.07 -0.05 0.14
+./data/valOnet/positive/160.jpg 1 -0.10 -0.21 0.03 0.08
+./data/valOnet/positive/48.jpg 1 -0.01 -0.33 0.13 0.00
+./data/valOnet/positive/590.jpg 1 -0.04 -0.09 0.01 -0.09
+./data/valOnet/positive/252.jpg 1 -0.15 0.06 -0.07 0.18
+./data/valOnet/positive/393.jpg 1 0.00 -0.17 -0.05 -0.03
+./data/valOnet/positive/175.jpg 1 0.01 -0.17 -0.01 0.00
+./data/valOnet/positive/553.jpg 1 0.02 -0.14 -0.01 0.03
+./data/valOnet/positive/350.jpg 1 0.03 -0.09 0.11 -0.06
+./data/valOnet/positive/353.jpg 1 0.01 -0.06 0.04 0.06
+./data/valOnet/positive/400.jpg 1 0.04 -0.13 0.07 -0.03
+./data/valOnet/positive/463.jpg 1 -0.04 -0.16 0.12 0.03
+./data/valOnet/positive/509.jpg 1 -0.10 -0.31 -0.01 0.07
+./data/valOnet/positive/176.jpg 1 0.04 -0.04 0.01 0.21
+./data/valOnet/positive/119.jpg 1 0.07 -0.16 0.08 -0.06
+./data/valOnet/positive/539.jpg 1 0.13 -0.13 0.11 0.00
+./data/valOnet/positive/167.jpg 1 -0.03 -0.22 -0.01 0.07
+./data/valOnet/positive/115.jpg 1 -0.04 -0.06 -0.01 0.23
+./data/valOnet/positive/114.jpg 1 -0.07 -0.18 0.00 0.03
+./data/valOnet/positive/356.jpg 1 0.06 -0.16 0.21 -0.03
+./data/valOnet/positive/459.jpg 1 0.00 -0.23 -0.01 0.00
+./data/valOnet/positive/11.jpg 1 -0.03 -0.13 0.03 0.03
+./data/valOnet/positive/341.jpg 1 0.11 -0.09 0.07 -0.12
+./data/valOnet/positive/77.jpg 1 0.01 -0.31 0.13 0.00
+./data/valOnet/positive/171.jpg 1 0.01 -0.33 0.03 0.00
+./data/valOnet/positive/548.jpg 1 0.10 0.06 0.08 0.00
+./data/valOnet/positive/534.jpg 1 0.03 -0.36 0.05 0.04
+./data/valOnet/positive/168.jpg 1 0.07 -0.15 0.07 0.19
+./data/valOnet/positive/527.jpg 1 0.02 -0.10 0.09 0.03
+./data/valOnet/positive/232.jpg 1 0.04 0.06 0.01 -0.02
+./data/valOnet/positive/103.jpg 1 -0.08 -0.24 -0.01 -0.03
+./data/valOnet/positive/588.jpg 1 0.04 -0.11 0.01 0.07
+./data/valOnet/positive/253.jpg 1 -0.31 0.05 0.00 -0.02
+./data/valOnet/positive/271.jpg 1 0.08 -0.11 0.21 0.04
+./data/valOnet/positive/259.jpg 1 0.01 -0.19 0.11 0.15
+./data/valOnet/positive/79.jpg 1 -0.01 -0.25 0.01 -0.04
+./data/valOnet/positive/455.jpg 1 0.11 -0.10 0.24 0.00
+./data/valOnet/positive/316.jpg 1 -0.17 0.04 0.12 -0.06
+./data/valOnet/positive/581.jpg 1 0.07 -0.17 0.05 0.14
+./data/valOnet/positive/132.jpg 1 -0.04 -0.15 -0.06 0.15
+./data/valOnet/positive/396.jpg 1 0.05 0.03 -0.01 0.13
+./data/valOnet/positive/153.jpg 1 0.00 -0.30 0.03 0.17
+./data/valOnet/positive/441.jpg 1 -0.20 0.03 0.05 -0.06
+./data/valOnet/positive/285.jpg 1 0.04 -0.12 0.09 0.00
+./data/valOnet/positive/142.jpg 1 0.08 -0.14 0.01 -0.03
+./data/valOnet/positive/551.jpg 1 0.05 -0.04 0.03 0.11
+./data/valOnet/positive/421.jpg 1 -0.03 -0.09 0.08 0.00
+./data/valOnet/positive/177.jpg 1 -0.01 -0.07 -0.04 0.14
+./data/valOnet/positive/148.jpg 1 -0.11 -0.19 -0.03 0.12
+./data/valOnet/positive/50.jpg 1 0.01 -0.03 0.05 -0.03
+./data/valOnet/positive/480.jpg 1 0.00 -0.36 0.08 -0.04
+./data/valOnet/positive/39.jpg 1 -0.07 -0.25 0.00 0.17
+./data/valOnet/positive/73.jpg 1 0.08 -0.17 0.05 0.03
+./data/valOnet/positive/29.jpg 1 -0.09 -0.25 -0.03 0.07
+./data/valOnet/positive/243.jpg 1 -0.04 -0.31 -0.01 0.00
+./data/valOnet/positive/386.jpg 1 0.00 -0.07 0.05 0.21
+./data/valOnet/positive/264.jpg 1 -0.03 -0.03 0.01 0.17
+./data/valOnet/positive/246.jpg 1 0.06 0.09 0.14 -0.07
+./data/valOnet/positive/245.jpg 1 -0.02 0.09 0.04 -0.09
+./data/valOnet/positive/143.jpg 1 -0.09 -0.19 0.09 0.00
+./data/valOnet/positive/202.jpg 1 -0.01 -0.04 -0.03 0.35
+./data/valOnet/positive/321.jpg 1 0.07 -0.10 0.05 0.03
+./data/valOnet/positive/325.jpg 1 0.13 -0.26 0.02 -0.04
+./data/valOnet/positive/51.jpg 1 -0.01 -0.10 0.08 -0.06
+./data/valOnet/positive/329.jpg 1 0.04 -0.31 -0.05 0.00
+./data/valOnet/positive/43.jpg 1 0.04 -0.15 0.01 0.15
+./data/valOnet/positive/258.jpg 1 0.02 -0.15 -0.02 0.19
+./data/valOnet/positive/566.jpg 1 -0.14 -0.15 0.04 -0.07
+./data/valOnet/positive/313.jpg 1 -0.05 -0.05 0.22 0.05
+./data/valOnet/positive/279.jpg 1 -0.08 0.11 0.02 0.03
+./data/valOnet/positive/342.jpg 1 -0.07 -0.10 -0.16 -0.10
+./data/valOnet/positive/361.jpg 1 0.05 -0.15 -0.04 -0.09
+./data/valOnet/positive/47.jpg 1 -0.09 -0.19 0.12 0.00
+./data/valOnet/positive/478.jpg 1 0.02 0.04 0.08 -0.14
+./data/valOnet/positive/472.jpg 1 0.01 0.02 0.09 -0.13
+./data/valOnet/positive/591.jpg 1 0.07 -0.08 0.12 0.15
+./data/valOnet/positive/404.jpg 1 -0.09 -0.26 -0.01 0.07
+./data/valOnet/positive/390.jpg 1 -0.08 -0.20 -0.01 0.16
+./data/valOnet/positive/241.jpg 1 -0.16 -0.09 -0.04 0.00
+./data/valOnet/positive/429.jpg 1 -0.02 -0.40 0.05 0.04
+./data/valOnet/positive/601.jpg 1 0.07 0.00 0.19 0.18
+./data/valOnet/positive/413.jpg 1 -0.11 -0.07 -0.03 0.17
+./data/valOnet/part/427.jpg -1 0.09 -0.35 0.14 0.00
+./data/valOnet/part/374.jpg -1 0.03 -0.77 0.23 0.18
+./data/valOnet/part/162.jpg -1 -0.03 -0.45 0.23 0.09
+./data/valOnet/part/371.jpg -1 0.00 -0.23 0.25 0.15
+./data/valOnet/part/101.jpg -1 -0.19 -0.61 -0.02 0.33
+./data/valOnet/part/110.jpg -1 -0.25 -0.32 0.05 0.27
+./data/valOnet/part/639.jpg -1 0.05 -0.63 0.10 0.21
+./data/valOnet/part/224.jpg -1 0.00 -0.36 0.13 0.32
+./data/valOnet/part/648.jpg -1 0.12 -0.36 0.22 0.18
+./data/valOnet/part/284.jpg -1 -0.18 -0.19 -0.05 0.27
+./data/valOnet/part/315.jpg -1 -0.31 -0.63 0.02 0.21
+./data/valOnet/part/238.jpg -1 -0.03 -0.48 0.04 0.09
+./data/valOnet/part/189.jpg -1 -0.25 -0.35 0.10 0.13
+./data/valOnet/part/665.jpg -1 -0.10 -0.25 -0.10 0.45
+./data/valOnet/part/692.jpg -1 0.11 -0.14 0.13 0.55
+./data/valOnet/part/723.jpg -1 0.06 -0.90 0.07 0.10
+./data/valOnet/part/676.jpg -1 -0.38 -0.28 -0.02 0.04
+./data/valOnet/part/149.jpg -1 -0.03 -0.35 0.01 0.65
+./data/valOnet/part/107.jpg -1 -0.03 -0.25 0.07 0.21
+./data/valOnet/part/626.jpg -1 0.05 -0.47 0.26 0.26
+./data/valOnet/part/212.jpg -1 0.01 -0.27 -0.11 0.32
+./data/valOnet/part/517.jpg -1 -0.11 -0.40 0.05 0.35
+./data/valOnet/part/218.jpg -1 -0.03 -0.35 0.21 0.17
+./data/valOnet/part/587.jpg -1 -0.06 -0.04 -0.08 0.43
+./data/valOnet/part/689.jpg -1 0.15 -0.31 0.12 0.12
+./data/valOnet/part/569.jpg -1 0.00 -0.60 0.23 0.00
+./data/valOnet/part/473.jpg -1 -0.19 -0.41 -0.06 0.59
+./data/valOnet/part/71.jpg -1 -0.24 -0.76 -0.05 0.12
+./data/valOnet/part/5.jpg -1 0.07 -0.38 0.01 -0.08
+./data/valOnet/part/363.jpg -1 -0.04 -0.19 -0.03 0.48
+./data/valOnet/part/528.jpg -1 0.14 -0.17 0.36 0.22
+./data/valOnet/part/77.jpg -1 -0.05 -0.74 0.14 0.26
+./data/valOnet/part/633.jpg -1 0.17 -0.39 0.21 0.04
+./data/valOnet/part/678.jpg -1 0.09 -0.43 0.14 0.43
+./data/valOnet/part/131.jpg -1 -0.08 -0.70 -0.03 0.15
+./data/valOnet/part/326.jpg -1 0.18 -0.21 0.22 0.47
+./data/valOnet/part/608.jpg -1 0.00 -0.59 0.44 0.03
+./data/valOnet/part/449.jpg -1 -0.03 -0.08 0.21 0.42
+./data/valOnet/part/167.jpg -1 -0.10 -0.37 0.27 0.32
+./data/valOnet/part/601.jpg -1 -0.36 -0.26 0.12 0.12
+./data/valOnet/part/150.jpg -1 -0.19 -0.26 0.02 0.26
+./data/valOnet/part/283.jpg -1 -0.11 -0.82 0.02 0.14
+./data/valOnet/part/281.jpg -1 0.00 0.00 0.07 1.05
+./data/valOnet/part/141.jpg -1 -0.14 -0.09 0.11 0.73
+./data/valOnet/part/209.jpg -1 -0.05 -0.57 0.03 0.14
+./data/valOnet/part/376.jpg -1 -0.24 -0.43 -0.06 0.11
+./data/valOnet/part/91.jpg -1 -0.04 -0.62 0.09 0.00
+./data/valOnet/part/432.jpg -1 -0.07 -0.60 0.13 0.15
+./data/valOnet/part/93.jpg -1 -0.04 -0.75 0.00 -0.05
+./data/valOnet/part/488.jpg -1 0.05 -0.32 0.29 0.12
+./data/valOnet/part/595.jpg -1 -0.33 -0.30 -0.09 0.33
+./data/valOnet/part/420.jpg -1 -0.30 -0.23 -0.09 0.41
+./data/valOnet/part/403.jpg -1 -0.12 -1.00 0.01 0.06
+./data/valOnet/part/67.jpg -1 -0.14 -0.43 -0.04 -0.04
+./data/valOnet/part/409.jpg -1 -0.03 -0.37 0.08 0.26
+./data/valOnet/part/383.jpg -1 -0.30 -0.26 0.01 0.13
+./data/valOnet/part/196.jpg -1 0.11 -0.27 0.09 0.23
+./data/valOnet/part/232.jpg -1 0.02 -0.33 0.31 0.12
+./data/valOnet/part/251.jpg -1 -0.21 -0.39 -0.19 0.28
+./data/valOnet/part/629.jpg -1 0.03 -0.72 0.16 0.11
+./data/valOnet/part/498.jpg -1 0.11 -0.17 0.12 0.38
+./data/valOnet/part/4.jpg -1 0.07 -0.43 0.29 0.04
+./data/valOnet/part/25.jpg -1 0.03 -0.52 0.35 0.10
+./data/valOnet/part/119.jpg -1 0.00 -0.32 0.15 0.08
+./data/valOnet/part/248.jpg -1 -0.28 -0.41 -0.14 -0.05
+./data/valOnet/part/662.jpg -1 -0.06 -0.42 0.16 0.26
+./data/valOnet/part/401.jpg -1 0.11 -0.14 0.39 0.00
+./data/valOnet/part/582.jpg -1 -0.11 -0.76 -0.01 0.00
+./data/valOnet/part/655.jpg -1 -0.17 -0.42 0.14 0.26
+./data/valOnet/part/241.jpg -1 -0.06 -0.59 0.03 0.05
+./data/valOnet/part/602.jpg -1 0.14 -0.18 0.46 0.05
+./data/valOnet/part/288.jpg -1 0.08 -0.30 0.24 0.60
+./data/valOnet/part/276.jpg -1 -0.22 -0.19 -0.13 0.16
+./data/valOnet/part/198.jpg -1 0.09 -0.30 0.28 0.45
+./data/valOnet/part/60.jpg -1 -0.19 -0.28 0.06 0.00
+./data/valOnet/part/379.jpg -1 -0.09 -0.82 0.12 0.14
+./data/valOnet/part/721.jpg -1 -0.12 -0.60 0.01 0.00
+./data/valOnet/part/158.jpg -1 -0.23 -0.22 -0.02 0.30
+./data/valOnet/part/538.jpg -1 0.08 -0.25 0.11 0.21
+./data/valOnet/part/55.jpg -1 -0.09 -0.79 0.03 0.00
+./data/valOnet/part/120.jpg -1 -0.05 -0.62 0.21 0.05
+./data/valOnet/part/482.jpg -1 -0.23 -0.32 -0.03 0.47
+./data/valOnet/part/285.jpg -1 0.14 -0.09 0.26 0.06
+./data/valOnet/part/437.jpg -1 -0.29 -0.35 -0.03 0.40
+./data/valOnet/part/203.jpg -1 -0.09 -0.28 0.06 0.16
+./data/valOnet/part/422.jpg -1 -0.11 -0.20 -0.08 0.60
+./data/valOnet/part/544.jpg -1 0.09 -0.25 0.50 0.17
+./data/valOnet/part/475.jpg -1 0.06 -0.25 0.25 0.45
+./data/valOnet/part/472.jpg -1 -0.21 -0.25 -0.05 0.17
+./data/valOnet/part/221.jpg -1 -0.32 -0.30 -0.10 0.45
+./data/valOnet/part/245.jpg -1 0.20 -0.26 0.18 0.30
+./data/valOnet/part/501.jpg -1 -0.13 -0.58 0.06 0.37
+./data/valOnet/part/728.jpg -1 -0.09 -0.33 -0.09 0.17
+./data/valOnet/part/458.jpg -1 -0.17 -0.50 -0.01 -0.05
+./data/valOnet/part/605.jpg -1 0.36 -0.07 0.39 0.02
+./data/valOnet/part/118.jpg -1 -0.20 -0.45 0.00 0.14
+./data/valOnet/part/503.jpg -1 0.15 -0.09 0.09 0.52
+./data/valOnet/part/272.jpg -1 0.10 -0.32 0.27 0.40
+./data/valOnet/part/450.jpg -1 -0.21 -0.13 0.12 0.43
+./data/valOnet/part/206.jpg -1 0.01 -0.14 0.08 0.50
+./data/valOnet/part/717.jpg -1 0.05 -0.48 0.07 0.12
+./data/valOnet/part/237.jpg -1 0.14 -0.12 0.22 -0.06
+./data/valOnet/part/495.jpg -1 -0.01 -0.75 0.01 0.05
+./data/valOnet/part/331.jpg -1 0.10 -0.17 0.15 -0.10
+./data/valOnet/part/588.jpg -1 -0.10 -0.94 0.03 0.19
+./data/valOnet/part/127.jpg -1 0.03 -0.26 0.11 0.35
+./data/valOnet/part/699.jpg -1 -0.17 -0.72 0.00 0.39
+./data/valOnet/part/231.jpg -1 -0.13 -0.43 0.01 0.09
+./data/valOnet/part/529.jpg -1 0.03 -0.33 0.06 0.12
+./data/valOnet/part/638.jpg -1 -0.07 -0.44 0.18 0.50
+./data/valOnet/part/24.jpg -1 0.00 -0.26 0.26 0.53
+./data/valOnet/part/500.jpg -1 -0.20 -0.68 0.05 0.26
+./data/valOnet/part/95.jpg -1 -0.05 -0.55 0.17 0.15
+./data/valOnet/part/42.jpg -1 0.03 -0.58 0.29 0.16
+./data/valOnet/part/138.jpg -1 0.24 -0.30 0.33 0.19
+./data/valOnet/part/549.jpg -1 -0.26 -0.48 0.12 0.14
+./data/valOnet/part/49.jpg -1 -0.27 -0.37 0.00 0.42
+./data/valOnet/part/636.jpg -1 -0.11 -0.29 -0.04 0.38
+./data/valOnet/part/90.jpg -1 0.10 -0.24 0.00 0.20
+./data/valOnet/part/704.jpg -1 -0.19 -0.35 -0.14 0.53
+./data/valOnet/part/333.jpg -1 0.04 0.05 -0.03 0.74
+./data/valOnet/part/478.jpg -1 0.09 -0.06 -0.18 0.83
+./data/valOnet/part/463.jpg -1 -0.05 -0.68 0.00 -0.05
+./data/valOnet/part/380.jpg -1 0.31 -0.02 0.46 0.00
+./data/valOnet/part/618.jpg -1 -0.04 -0.29 0.01 0.25
+./data/valOnet/part/299.jpg -1 0.10 -0.52 0.11 0.00
+./data/valOnet/part/661.jpg -1 -0.29 -0.28 -0.05 0.50
+./data/valOnet/part/136.jpg -1 0.16 -0.20 0.30 0.40
+./data/valOnet/part/52.jpg -1 -0.38 -0.47 0.00 0.32
+./data/valOnet/part/367.jpg -1 -0.11 -0.22 0.01 0.35
+./data/valOnet/part/644.jpg -1 -0.15 -0.47 -0.07 0.37
+./data/valOnet/part/348.jpg -1 0.04 -0.42 0.07 0.04
+./data/valOnet/part/571.jpg -1 -0.04 -0.47 0.08 0.63
+./data/valOnet/part/145.jpg -1 -0.08 -0.41 0.15 0.59
+./data/valOnet/part/693.jpg -1 -0.09 -0.24 -0.08 0.24
+./data/valOnet/part/310.jpg -1 0.04 -0.54 0.05 -0.04
+./data/valOnet/part/181.jpg -1 -0.38 -0.25 -0.05 0.17
+./data/valOnet/part/599.jpg -1 0.02 -0.53 -0.07 -0.07
+./data/valOnet/part/575.jpg -1 -0.12 -0.15 0.00 0.33
+./data/valOnet/part/417.jpg -1 -0.10 -0.53 -0.04 0.37
+./data/valOnet/part/329.jpg -1 0.13 -0.16 0.14 0.53
+./data/valOnet/part/259.jpg -1 -0.06 -0.24 -0.07 0.36
+./data/valOnet/part/76.jpg -1 -0.03 -0.42 0.05 0.26
+./data/valOnet/part/273.jpg -1 0.05 -0.33 0.10 0.10
+./data/valOnet/part/172.jpg -1 0.18 -0.17 0.26 0.22
+./data/valOnet/part/447.jpg -1 0.03 -0.67 0.25 0.05
+./data/valOnet/part/430.jpg -1 -0.09 -0.32 -0.01 0.27
+./data/valOnet/part/358.jpg -1 0.06 -0.33 0.12 0.12
+./data/valOnet/part/698.jpg -1 -0.14 -0.61 0.03 0.50
+./data/valOnet/part/169.jpg -1 0.09 -0.17 0.14 0.22
+./data/valOnet/part/81.jpg -1 -0.03 -0.60 0.08 0.05
+./data/valOnet/part/372.jpg -1 0.00 -0.75 0.03 0.05
+./data/valOnet/part/19.jpg -1 -0.19 -0.42 0.05 0.08
+./data/valOnet/part/370.jpg -1 -0.11 -0.42 0.04 0.08
+./data/valOnet/part/235.jpg -1 0.10 -0.26 0.41 0.26
+./data/valOnet/part/589.jpg -1 -0.09 -0.36 0.09 0.40
+./data/valOnet/part/470.jpg -1 -0.04 -0.18 0.07 0.36
+./data/valOnet/part/445.jpg -1 -0.10 -0.89 0.13 0.11
+./data/valOnet/part/57.jpg -1 -0.04 -0.55 0.09 0.15
+./data/valOnet/part/300.jpg -1 -0.17 -0.34 -0.08 -0.03
+./data/valOnet/part/109.jpg -1 0.02 -0.61 0.26 0.33
+./data/valOnet/part/658.jpg -1 -0.27 -0.25 0.02 0.35
+./data/valOnet/part/197.jpg -1 -0.04 -0.57 0.03 -0.04
+./data/valOnet/part/294.jpg -1 0.18 -0.07 0.41 0.20
+./data/valOnet/part/720.jpg -1 0.12 -0.22 0.06 0.26
+./data/valOnet/part/398.jpg -1 0.11 -0.44 0.01 -0.08
+./data/valOnet/part/390.jpg -1 -0.17 -0.47 -0.03 0.47
+./data/valOnet/part/200.jpg -1 0.05 -0.20 0.00 0.55
+./data/valOnet/part/487.jpg -1 0.00 -0.25 0.16 0.25
+./data/valOnet/part/34.jpg -1 -0.11 -0.46 -0.01 0.08
+./data/valOnet/part/524.jpg -1 0.00 -0.29 0.27 0.59
+./data/valOnet/part/684.jpg -1 0.06 -0.59 0.12 0.00
+./data/valOnet/part/205.jpg -1 -0.04 -0.35 0.00 0.45
+./data/valOnet/part/307.jpg -1 0.07 -0.38 0.18 0.12
+./data/valOnet/part/617.jpg -1 0.03 -0.68 0.18 0.00
+./data/valOnet/part/125.jpg -1 0.16 0.00 -0.14 0.30
+./data/valOnet/part/239.jpg -1 -0.14 -0.25 0.00 0.55
+./data/valOnet/part/459.jpg -1 0.06 -0.11 0.60 0.04
+./data/valOnet/part/96.jpg -1 -0.27 -0.18 -0.03 0.36
+./data/valOnet/part/712.jpg -1 0.07 -0.48 0.18 0.13
+./data/valOnet/part/244.jpg -1 0.08 -0.46 0.31 0.04
+./data/valOnet/part/526.jpg -1 -0.28 -0.57 -0.09 -0.05
+./data/valOnet/part/533.jpg -1 -0.08 -0.40 -0.06 0.00
+./data/valOnet/part/59.jpg -1 -0.36 -0.29 0.02 0.24
+./data/valOnet/part/274.jpg -1 -0.10 -0.12 -0.06 0.22
+./data/valOnet/part/696.jpg -1 0.04 -0.29 0.08 0.52
+./data/valOnet/part/233.jpg -1 -0.19 -0.15 0.00 0.60
+./data/valOnet/part/433.jpg -1 -0.07 -0.50 -0.01 -0.04
+./data/valOnet/part/468.jpg -1 -0.06 -0.76 0.07 -0.05
+./data/valOnet/part/112.jpg -1 -0.02 -0.64 0.17 -0.05
+./data/valOnet/part/369.jpg -1 -0.03 -0.47 0.25 0.42
+./data/valOnet/part/406.jpg -1 -0.30 -0.45 -0.15 0.10
+./data/valOnet/part/183.jpg -1 0.05 -0.24 0.15 0.38
+./data/valOnet/part/465.jpg -1 -0.12 -0.80 -0.03 0.00
+./data/valOnet/part/10.jpg -1 -0.48 -0.26 0.14 0.09
+./data/valOnet/part/519.jpg -1 -0.26 -0.50 -0.02 0.25
+./data/valOnet/part/312.jpg -1 -0.09 -0.24 0.07 0.43
+./data/valOnet/part/512.jpg -1 -0.28 -0.63 0.02 0.26
+./data/valOnet/part/156.jpg -1 -0.14 -0.48 0.00 0.04
+./data/valOnet/part/338.jpg -1 -0.25 -0.39 0.06 0.33
+./data/valOnet/part/425.jpg -1 0.02 -0.17 -0.04 0.39
+./data/valOnet/part/418.jpg -1 -0.05 -0.39 0.23 0.17
+./data/valOnet/part/135.jpg -1 -0.11 -0.23 -0.03 0.59
+./data/valOnet/part/714.jpg -1 0.02 -0.39 0.33 0.22
+./data/valOnet/part/217.jpg -1 -0.03 -0.44 0.06 0.75
+./data/valOnet/part/492.jpg -1 -0.20 -0.40 -0.03 0.04
+./data/valOnet/part/600.jpg -1 -0.25 -0.58 -0.05 0.23
+./data/valOnet/part/133.jpg -1 -0.18 -0.55 -0.07 0.45
+./data/valOnet/part/85.jpg -1 -0.09 -0.33 0.10 0.50
+./data/valOnet/part/645.jpg -1 -0.27 -0.47 0.03 0.37
+./data/valOnet/part/663.jpg -1 -0.13 -0.48 -0.01 0.14
+./data/valOnet/part/14.jpg -1 -0.09 -0.30 0.06 0.50
+./data/valOnet/part/464.jpg -1 -0.15 -0.19 -0.07 0.52
+./data/valOnet/part/541.jpg -1 -0.07 -0.67 -0.03 0.00
+./data/valOnet/part/99.jpg -1 -0.01 -0.41 0.01 0.18
+./data/valOnet/part/89.jpg -1 -0.03 -0.56 0.17 0.44
+./data/valOnet/part/680.jpg -1 -0.09 -0.95 -0.01 0.10
+./data/valOnet/part/373.jpg -1 -0.04 -0.43 0.11 0.11
+./data/valOnet/part/624.jpg -1 0.06 -0.17 0.12 0.26
+./data/valOnet/part/354.jpg -1 0.05 -0.25 0.07 0.21
+./data/valOnet/part/28.jpg -1 -0.21 -0.09 0.05 0.45
+./data/valOnet/part/3.jpg -1 -0.24 -0.44 -0.02 0.44
+./data/valOnet/part/193.jpg -1 0.04 -0.35 0.28 0.47
+./data/valOnet/part/6.jpg -1 0.06 -0.25 0.31 0.06
+./data/valOnet/part/229.jpg -1 0.03 -0.35 0.26 0.15
+./data/valOnet/part/543.jpg -1 -0.20 -0.39 0.03 0.09
+./data/valOnet/part/204.jpg -1 -0.10 -0.53 0.21 0.37
+./data/valOnet/part/702.jpg -1 0.02 -0.43 0.18 -0.04
+./data/valOnet/part/687.jpg -1 0.12 -0.19 0.21 0.19
+./data/valOnet/part/293.jpg -1 0.18 -0.38 0.30 0.08
+./data/valOnet/part/469.jpg -1 -0.19 -0.33 -0.06 0.08
+./data/valOnet/part/178.jpg -1 -0.05 -0.57 0.04 0.05
+./data/valOnet/part/243.jpg -1 -0.03 -0.08 0.03 0.42
+./data/valOnet/part/649.jpg -1 0.23 -0.33 0.21 0.08
+./data/valOnet/part/298.jpg -1 -0.32 -0.07 -0.12 0.20
+./data/valOnet/part/416.jpg -1 -0.32 -0.38 -0.10 0.12
+./data/valOnet/part/637.jpg -1 0.04 -0.43 0.13 0.09
+./data/valOnet/part/86.jpg -1 -0.23 -0.37 -0.06 0.37
+./data/valOnet/part/346.jpg -1 -0.05 -0.42 -0.03 0.04
+./data/valOnet/part/400.jpg -1 -0.12 -0.50 0.08 0.56
+./data/valOnet/part/520.jpg -1 -0.32 -0.50 -0.03 0.10
+./data/valOnet/part/94.jpg -1 -0.17 -0.62 0.05 0.00
+./data/valOnet/part/137.jpg -1 -0.13 -0.71 -0.01 0.19
+./data/valOnet/part/653.jpg -1 -0.17 -0.47 -0.07 0.21
+./data/valOnet/part/423.jpg -1 0.06 -0.24 0.19 0.20
+./data/valOnet/part/314.jpg -1 -0.02 -0.25 0.31 0.21
+./data/valOnet/part/291.jpg -1 0.03 -0.24 0.17 0.57
+./data/valOnet/part/357.jpg -1 -0.04 -0.48 -0.01 0.04
+./data/valOnet/part/368.jpg -1 0.01 -0.22 0.03 0.35
+./data/valOnet/part/268.jpg -1 0.10 -0.14 0.24 0.04
+./data/valOnet/part/362.jpg -1 -0.10 -0.47 0.00 0.59
+./data/valOnet/part/392.jpg -1 0.17 -0.63 0.07 0.11
+./data/valOnet/part/622.jpg -1 0.00 -0.50 0.30 0.08
+./data/valOnet/part/147.jpg -1 -0.33 -0.33 0.05 0.08
+./data/valOnet/part/66.jpg -1 -0.15 -0.18 0.08 0.27
+./data/valOnet/part/190.jpg -1 0.27 -0.21 0.23 0.00
+./data/valOnet/part/614.jpg -1 -0.15 -0.30 -0.08 0.43
+./data/valOnet/part/496.jpg -1 0.08 -0.23 0.21 -0.06
+./data/valOnet/part/716.jpg -1 -0.08 -0.79 0.19 0.16
+./data/valOnet/part/353.jpg -1 0.03 -0.89 0.00 0.06
+./data/valOnet/part/254.jpg -1 -0.11 -0.61 -0.11 0.13
+./data/valOnet/part/703.jpg -1 -0.06 -0.50 0.38 0.10
+./data/valOnet/part/632.jpg -1 0.18 -0.67 0.05 0.17
+./data/valOnet/part/64.jpg -1 -0.10 -0.42 0.01 -0.08
+./data/valOnet/part/263.jpg -1 0.13 -0.20 0.32 -0.13
+./data/valOnet/part/102.jpg -1 -0.17 -0.40 0.15 0.35
+./data/valOnet/part/411.jpg -1 -0.05 -0.60 0.18 -0.05
+./data/valOnet/part/620.jpg -1 -0.15 -0.95 0.08 0.00
+./data/valOnet/part/708.jpg -1 0.07 -0.26 0.45 -0.07
+./data/valOnet/part/297.jpg -1 -0.02 -0.71 0.01 0.10
+./data/valOnet/part/43.jpg -1 0.00 -0.50 0.21 0.00
+./data/valOnet/part/405.jpg -1 -0.10 -0.43 -0.09 -0.09
+./data/valOnet/part/56.jpg -1 -0.13 -0.25 -0.03 0.17
+./data/valOnet/part/215.jpg -1 0.05 -0.19 -0.05 0.48
+./data/valOnet/part/513.jpg -1 -0.22 -0.43 -0.14 0.29
+./data/valOnet/part/146.jpg -1 0.04 -0.43 0.16 0.19
+./data/valOnet/part/48.jpg -1 0.00 -0.37 0.10 0.42
+./data/valOnet/part/634.jpg -1 -0.19 -0.74 -0.11 0.00
+./data/valOnet/part/163.jpg -1 -0.07 -0.17 0.03 0.25
+./data/valOnet/part/78.jpg -1 -0.19 -0.48 -0.07 0.04
+./data/valOnet/part/330.jpg -1 0.21 -0.12 0.29 0.16
+./data/valOnet/part/407.jpg -1 -0.08 -0.67 -0.02 0.06
+./data/valOnet/part/341.jpg -1 0.10 -0.35 0.23 0.20
+./data/valOnet/part/319.jpg -1 0.01 -0.50 0.01 -0.04
+./data/valOnet/part/159.jpg -1 0.13 -0.42 0.02 -0.08
+./data/valOnet/part/435.jpg -1 -0.05 -0.59 -0.10 0.47
+./data/valOnet/part/421.jpg -1 -0.09 -0.36 0.01 0.08
+./data/valOnet/part/556.jpg -1 -0.17 -0.68 -0.04 0.26
+./data/valOnet/part/652.jpg -1 -0.13 -0.61 0.03 0.50
+./data/valOnet/part/360.jpg -1 0.00 -0.59 0.01 0.00
+./data/valOnet/part/185.jpg -1 0.08 -0.47 0.31 0.32
+./data/valOnet/part/106.jpg -1 0.35 0.00 0.18 0.00
+./data/valOnet/part/20.jpg -1 -0.24 -0.22 -0.08 0.26
+./data/valOnet/part/547.jpg -1 -0.07 -0.47 0.03 0.80
+./data/valOnet/part/194.jpg -1 -0.28 -0.35 -0.06 0.47
+./data/valOnet/part/219.jpg -1 0.05 -0.23 0.22 0.36
+./data/valOnet/part/375.jpg -1 -0.03 -0.21 0.15 0.32
+./data/valOnet/part/350.jpg -1 -0.10 -0.30 -0.07 0.22
+./data/valOnet/part/507.jpg -1 -0.21 -0.22 0.02 0.07
+./data/valOnet/part/286.jpg -1 0.09 -0.06 0.20 0.16
+./data/valOnet/part/260.jpg -1 -0.09 -0.78 -0.24 -0.04
+./data/valOnet/part/499.jpg -1 -0.06 -0.23 -0.01 0.45
+./data/valOnet/part/304.jpg -1 -0.20 -0.80 0.00 0.10
+./data/valOnet/part/41.jpg -1 0.11 -0.17 0.17 0.21
+./data/valOnet/part/581.jpg -1 0.12 -0.19 0.22 -0.03
+./data/valOnet/part/334.jpg -1 0.11 0.00 0.04 1.00
+./data/valOnet/part/393.jpg -1 0.05 -0.60 -0.02 0.05
+./data/valOnet/part/74.jpg -1 -0.21 -0.17 -0.12 0.22
+./data/valOnet/part/195.jpg -1 -0.30 -0.24 -0.07 0.24
+./data/valOnet/part/446.jpg -1 -0.17 -0.37 0.03 0.53
+./data/valOnet/part/180.jpg -1 -0.03 -0.33 0.16 0.08
+./data/valOnet/part/399.jpg -1 -0.03 -0.62 0.03 0.00
+./data/valOnet/part/12.jpg -1 -0.20 -0.08 0.17 -0.14
+./data/valOnet/part/140.jpg -1 -0.23 -0.24 -0.10 0.67
+./data/valOnet/part/1.jpg -1 0.02 -0.56 0.14 0.33
+./data/valOnet/part/0.jpg -1 0.18 -0.32 0.14 0.23
+./data/valOnet/part/715.jpg -1 -0.03 -0.25 0.03 0.60
+./data/valOnet/part/484.jpg -1 0.06 -0.37 0.19 0.42
+./data/valOnet/part/171.jpg -1 -0.30 -0.32 -0.09 0.37
+./data/valOnet/part/177.jpg -1 -0.21 -0.33 0.00 0.08
+./data/valOnet/part/527.jpg -1 0.07 -0.09 0.39 0.30
+./data/valOnet/part/23.jpg -1 -0.16 -0.39 0.03 0.50
+./data/valOnet/part/92.jpg -1 0.05 -0.25 0.36 0.45
+./data/valOnet/part/555.jpg -1 0.01 -0.54 -0.02 0.00
+./data/valOnet/part/166.jpg -1 0.11 -0.30 0.17 0.09
+./data/valOnet/part/27.jpg -1 -0.04 -0.44 -0.02 0.69
+./data/valOnet/part/410.jpg -1 0.03 -0.35 0.18 0.00
+./data/valOnet/part/328.jpg -1 0.07 -0.65 0.01 -0.05
+./data/valOnet/part/540.jpg -1 0.06 -0.50 0.18 0.44
+./data/valOnet/part/391.jpg -1 -0.14 -0.35 0.02 0.59
+./data/valOnet/part/124.jpg -1 0.02 -0.42 -0.06 -0.08
+./data/valOnet/part/387.jpg -1 0.06 -0.35 0.11 0.59
+./data/valOnet/part/73.jpg -1 0.05 -0.17 0.09 0.22
+./data/valOnet/part/480.jpg -1 -0.04 -0.58 0.12 0.21
+./data/valOnet/part/596.jpg -1 -0.23 -0.71 -0.03 0.12
+./data/valOnet/part/296.jpg -1 0.07 -0.14 0.33 0.59
+./data/valOnet/part/598.jpg -1 0.16 -0.62 0.17 0.08
+./data/valOnet/part/345.jpg -1 -0.03 -0.71 0.03 0.00
+./data/valOnet/part/303.jpg -1 -0.33 -0.44 -0.09 0.08
+./data/valOnet/part/2.jpg -1 0.12 -0.28 0.14 0.08
+./data/valOnet/part/394.jpg -1 -0.08 -0.50 -0.03 0.05
+./data/valOnet/part/530.jpg -1 0.05 -0.44 -0.09 -0.04
+./data/valOnet/part/657.jpg -1 -0.03 -0.09 0.10 0.36
+./data/valOnet/part/83.jpg -1 -0.17 -0.60 0.11 0.05
+./data/valOnet/part/61.jpg -1 0.14 -0.30 0.52 0.09
+./data/valOnet/part/97.jpg -1 -0.11 -1.00 0.09 0.00
+./data/valOnet/part/317.jpg -1 0.02 -0.26 0.27 0.58
+./data/valOnet/part/46.jpg -1 -0.11 -0.10 0.19 0.48
+./data/valOnet/part/116.jpg -1 0.06 -0.44 0.12 0.00
+./data/valOnet/part/404.jpg -1 0.01 -0.59 0.13 -0.09
+./data/valOnet/part/188.jpg -1 -0.27 -0.37 -0.06 0.42
+./data/valOnet/part/17.jpg -1 -0.13 -0.14 -0.01 0.50
+./data/valOnet/part/35.jpg -1 -0.10 -0.71 -0.01 0.05
+./data/valOnet/part/603.jpg -1 -0.14 -0.57 0.05 0.48
+./data/valOnet/part/481.jpg -1 -0.18 -0.50 0.02 0.39
+./data/valOnet/part/673.jpg -1 -0.16 -0.78 0.08 0.06
+./data/valOnet/part/69.jpg -1 -0.14 -0.88 0.00 0.00
+./data/valOnet/part/184.jpg -1 -0.12 -0.53 0.12 0.47
+./data/valOnet/part/504.jpg -1 -0.06 -0.21 0.03 0.25
+./data/valOnet/part/88.jpg -1 0.09 -0.30 0.09 0.50
+./data/valOnet/part/414.jpg -1 -0.35 -0.32 -0.02 0.09
+./data/valOnet/part/335.jpg -1 -0.10 -0.14 0.10 0.32
+./data/valOnet/part/619.jpg -1 -0.01 -0.48 0.07 0.00
+./data/valOnet/part/566.jpg -1 -0.38 -0.54 -0.09 0.12
+./data/valOnet/part/142.jpg -1 -0.03 -0.82 0.21 0.18
+./data/valOnet/part/515.jpg -1 0.22 -0.28 0.25 0.16
+./data/valOnet/part/419.jpg -1 -0.22 -0.84 0.00 0.05
+./data/valOnet/part/256.jpg -1 0.08 -0.44 0.31 0.16
+./data/valOnet/part/249.jpg -1 0.12 -0.16 0.26 0.04
+./data/valOnet/part/654.jpg -1 0.06 -0.61 0.29 0.17
+./data/valOnet/part/628.jpg -1 0.16 -0.17 0.34 0.21
+./data/valOnet/part/572.jpg -1 -0.01 -0.74 0.01 0.00
+./data/valOnet/part/701.jpg -1 0.06 -0.44 0.16 0.56
+./data/valOnet/part/355.jpg -1 -0.08 -0.25 -0.04 0.21
+./data/valOnet/part/583.jpg -1 -0.02 -0.47 0.19 0.32
+./data/valOnet/part/295.jpg -1 0.28 -0.06 0.28 0.00
+./data/valOnet/part/45.jpg -1 0.00 -0.23 0.40 0.04
+./data/valOnet/part/525.jpg -1 0.13 0.07 0.06 0.21
+./data/valOnet/part/643.jpg -1 0.00 -0.21 0.07 0.63
+./data/valOnet/part/705.jpg -1 -0.17 -0.58 0.12 0.11
+./data/valOnet/part/489.jpg -1 -0.23 -0.45 0.10 0.35
+./data/valOnet/part/364.jpg -1 -0.01 -0.35 0.03 0.71
+./data/valOnet/part/690.jpg -1 0.11 -0.84 0.10 0.11
+./data/valOnet/part/506.jpg -1 0.06 -0.15 0.40 0.19
+./data/valOnet/part/382.jpg -1 -0.18 -0.11 0.01 0.48
+./data/valOnet/part/444.jpg -1 0.11 -0.59 0.06 0.05
+./data/valOnet/part/323.jpg -1 0.00 -0.27 0.20 0.18
+./data/valOnet/part/677.jpg -1 -0.21 -0.21 -0.11 -0.04
+./data/valOnet/part/327.jpg -1 -0.18 -0.43 0.00 0.10
+./data/valOnet/part/531.jpg -1 -0.03 -0.65 0.18 0.41
+./data/valOnet/part/384.jpg -1 -0.16 -0.55 -0.01 0.41
+./data/valOnet/part/550.jpg -1 -0.25 -0.33 -0.03 0.56
+./data/valOnet/part/647.jpg -1 0.16 -0.26 0.06 0.22
+./data/valOnet/part/577.jpg -1 -0.10 -0.71 0.06 0.05
+./data/valOnet/part/15.jpg -1 -0.16 -0.29 -0.03 0.21
+./data/valOnet/part/87.jpg -1 0.10 -0.46 0.04 0.04
+./data/valOnet/part/352.jpg -1 -0.05 -0.76 0.16 0.29
+./data/valOnet/part/536.jpg -1 0.05 -0.78 0.20 0.17
+./data/valOnet/part/152.jpg -1 -0.16 -0.53 0.07 0.32
+./data/valOnet/part/429.jpg -1 -0.03 -0.50 0.04 -0.04
+./data/valOnet/part/542.jpg -1 0.03 -0.39 0.35 0.09
+./data/valOnet/part/250.jpg -1 0.00 -0.75 0.30 0.12
+./data/valOnet/part/7.jpg -1 -0.08 -0.35 0.15 0.03
+./data/valOnet/part/466.jpg -1 -0.02 -0.33 0.28 0.17
+./data/valOnet/part/228.jpg -1 0.06 -0.22 0.18 0.22
+./data/valOnet/part/563.jpg -1 -0.03 -0.33 0.19 0.00
+./data/valOnet/part/534.jpg -1 0.12 -0.59 0.04 0.00
+./data/valOnet/part/270.jpg -1 -0.11 -0.39 0.08 0.44
+./data/valOnet/part/213.jpg -1 0.04 -0.36 0.09 0.04
+./data/valOnet/part/440.jpg -1 0.03 -0.42 0.23 0.47
+./data/valOnet/part/216.jpg -1 -0.06 -0.18 -0.17 0.41
+./data/valOnet/part/54.jpg -1 -0.21 -0.45 0.03 0.25
+./data/valOnet/part/591.jpg -1 0.12 -0.54 0.24 0.15
+./data/valOnet/part/438.jpg -1 0.00 -0.33 0.00 0.61
+./data/valOnet/part/21.jpg -1 -0.06 -0.26 0.13 0.22
+./data/valOnet/part/223.jpg -1 -0.03 -0.38 0.07 0.17
+./data/valOnet/part/63.jpg -1 0.10 -0.29 0.41 0.24
+./data/valOnet/part/344.jpg -1 -0.15 -0.72 -0.07 0.28
+./data/valOnet/part/535.jpg -1 -0.12 -0.26 -0.04 0.26
+./data/valOnet/part/476.jpg -1 -0.11 -0.62 -0.08 0.00
+./data/valOnet/part/713.jpg -1 -0.25 -0.35 -0.03 0.50
+./data/valOnet/part/230.jpg -1 0.04 -0.33 0.00 0.52
+./data/valOnet/part/378.jpg -1 -0.18 -0.20 -0.11 0.52
+./data/valOnet/part/168.jpg -1 -0.36 -0.36 -0.13 0.09
+./data/valOnet/part/311.jpg -1 -0.20 -0.30 0.03 0.50
+./data/valOnet/part/130.jpg -1 -0.26 -0.35 -0.10 0.50
+./data/valOnet/part/724.jpg -1 -0.25 -0.32 -0.01 0.50
+./data/valOnet/part/691.jpg -1 0.09 -0.62 0.13 0.14
+./data/valOnet/part/337.jpg -1 0.21 -0.26 0.24 0.09
+./data/valOnet/part/211.jpg -1 0.06 -0.29 0.05 0.17
+./data/valOnet/part/442.jpg -1 -0.11 -0.78 0.11 0.22
+./data/valOnet/part/479.jpg -1 -0.03 -0.74 0.04 0.05
+./data/valOnet/part/570.jpg -1 0.03 -0.26 0.11 0.48
+./data/valOnet/part/252.jpg -1 -0.05 -0.11 -0.34 -0.04
+./data/valOnet/part/579.jpg -1 -0.06 -0.68 -0.10 0.00
+./data/valOnet/part/201.jpg -1 -0.09 -1.12 0.04 0.06
+./data/valOnet/part/574.jpg -1 0.14 -0.22 0.34 0.26
+./data/valOnet/part/586.jpg -1 -0.11 -0.62 -0.03 0.00
+./data/valOnet/part/32.jpg -1 0.09 -0.75 0.07 0.10
+./data/valOnet/part/561.jpg -1 -0.04 -0.38 0.12 0.15
+./data/valOnet/part/22.jpg -1 -0.17 -0.45 -0.01 0.09
+./data/valOnet/part/457.jpg -1 -0.03 -0.42 0.14 0.26
+./data/valOnet/part/502.jpg -1 0.01 -0.76 -0.08 0.00
+./data/valOnet/part/29.jpg -1 0.01 -0.05 0.17 0.50
+./data/valOnet/part/62.jpg -1 -0.27 -0.13 0.02 0.26
+./data/valOnet/part/623.jpg -1 0.06 -0.41 0.12 0.09
+./data/valOnet/part/385.jpg -1 0.06 -0.25 0.13 0.40
+./data/valOnet/part/261.jpg -1 -0.04 -0.43 -0.08 -0.10
+./data/valOnet/part/44.jpg -1 -0.17 -0.48 -0.02 0.10
+./data/valOnet/part/75.jpg -1 0.05 -0.83 0.14 -0.06
+./data/valOnet/part/537.jpg -1 -0.18 -0.53 0.02 0.53
+./data/valOnet/part/134.jpg -1 -0.15 -0.43 -0.08 0.48
+./data/valOnet/part/659.jpg -1 -0.06 -0.48 -0.12 -0.09
+./data/valOnet/part/220.jpg -1 -0.06 -0.50 0.07 0.09
+./data/valOnet/part/727.jpg -1 0.00 -0.32 0.07 0.58
+./data/valOnet/part/322.jpg -1 -0.36 -0.25 -0.09 0.35
+./data/valOnet/part/559.jpg -1 0.14 -0.41 0.34 0.07
+./data/valOnet/part/408.jpg -1 -0.21 -0.33 0.00 -0.04
+./data/valOnet/part/157.jpg -1 -0.19 -0.59 0.00 0.00
+./data/valOnet/part/471.jpg -1 -0.10 -0.50 -0.03 0.05
+./data/valOnet/part/510.jpg -1 -0.02 -0.58 0.24 0.32
+./data/valOnet/part/301.jpg -1 -0.37 0.00 0.07 0.41
+./data/valOnet/part/685.jpg -1 0.10 -0.24 0.12 0.52
+./data/valOnet/part/214.jpg -1 -0.03 -0.62 0.06 0.05
+./data/valOnet/part/117.jpg -1 0.11 -0.23 0.12 -0.06
+./data/valOnet/part/448.jpg -1 -0.13 -0.70 0.13 0.10
+./data/valOnet/part/320.jpg -1 0.00 -0.75 0.13 0.00
+./data/valOnet/part/567.jpg -1 0.07 -0.19 0.35 0.10
+./data/valOnet/part/144.jpg -1 -0.33 -0.35 0.00 0.35
+./data/valOnet/part/674.jpg -1 -0.30 -0.50 -0.05 0.00
+./data/valOnet/part/264.jpg -1 0.04 -0.29 0.15 0.59
+./data/valOnet/part/694.jpg -1 0.11 -0.43 0.31 0.17
+./data/valOnet/part/365.jpg -1 0.00 -0.27 0.14 0.36
+./data/valOnet/part/386.jpg -1 -0.06 -0.18 0.06 0.32
+./data/valOnet/part/660.jpg -1 0.00 -0.25 0.10 0.75
+./data/valOnet/part/347.jpg -1 0.06 -0.59 0.03 0.00
+./data/valOnet/part/505.jpg -1 -0.10 -0.21 0.07 0.25
+./data/valOnet/part/9.jpg -1 -0.20 -0.59 0.02 0.15
+./data/valOnet/part/113.jpg -1 -0.12 -0.45 0.08 0.14
+./data/valOnet/part/580.jpg -1 -0.27 -0.39 0.05 0.22
+./data/valOnet/part/592.jpg -1 0.05 -0.38 0.08 0.00
+./data/valOnet/part/210.jpg -1 -0.06 -0.35 0.12 0.45
+./data/valOnet/part/651.jpg -1 0.16 -0.68 0.17 0.11
+./data/valOnet/part/431.jpg -1 0.03 -1.00 0.12 0.06
+./data/valOnet/part/122.jpg -1 -0.03 -0.13 -0.05 0.39
+./data/valOnet/part/552.jpg -1 -0.23 -0.62 0.05 0.14
+./data/valOnet/part/129.jpg -1 -0.35 -0.55 0.00 0.14
+./data/valOnet/part/640.jpg -1 -0.05 -0.79 0.00 0.05
+./data/valOnet/part/123.jpg -1 -0.21 -0.59 0.02 0.00
+./data/valOnet/part/33.jpg -1 -0.07 -1.06 0.06 0.12
+./data/valOnet/part/18.jpg -1 -0.17 -0.17 0.08 0.33
+./data/valOnet/part/302.jpg -1 0.25 -0.38 0.19 0.08
+./data/valOnet/part/80.jpg -1 0.08 -0.37 0.30 0.37
+./data/valOnet/part/262.jpg -1 0.11 -0.50 0.35 0.10
+./data/valOnet/part/434.jpg -1 0.05 -0.74 0.23 0.11
+./data/valOnet/part/316.jpg -1 -0.14 -0.39 0.05 0.13
+./data/valOnet/part/37.jpg -1 -0.24 -0.67 -0.03 0.10
+./data/valOnet/part/494.jpg -1 0.07 -0.59 0.26 0.05
+./data/valOnet/part/453.jpg -1 -0.07 -0.35 0.01 0.53
+./data/valOnet/part/669.jpg -1 -0.26 -0.22 -0.13 0.26
+./data/valOnet/part/103.jpg -1 0.08 -0.17 0.19 0.78
+./data/valOnet/part/621.jpg -1 -0.37 -0.33 -0.16 0.21
+./data/valOnet/part/269.jpg -1 0.18 -0.14 0.24 0.00
+./data/valOnet/part/562.jpg -1 -0.21 -0.38 -0.09 0.29
+./data/valOnet/part/675.jpg -1 -0.02 -0.62 0.22 -0.05
+./data/valOnet/part/222.jpg -1 -0.12 -0.36 -0.01 0.32
+./data/valOnet/part/290.jpg -1 -0.18 -0.21 -0.08 0.10
+./data/valOnet/part/165.jpg -1 0.05 -0.09 -0.01 0.39
+./data/valOnet/part/493.jpg -1 0.10 -0.38 0.31 0.12
+./data/valOnet/part/191.jpg -1 -0.21 -0.50 -0.07 0.22
+./data/valOnet/part/681.jpg -1 -0.41 -0.52 -0.08 0.07
+./data/valOnet/part/697.jpg -1 -0.10 -0.48 0.01 0.17
+./data/valOnet/part/160.jpg -1 -0.08 -0.23 0.01 0.36
+./data/valOnet/part/718.jpg -1 -0.10 -0.61 -0.05 0.13
+./data/valOnet/part/443.jpg -1 0.03 -0.43 0.34 0.29
+./data/valOnet/part/656.jpg -1 -0.02 -0.43 0.38 -0.04
+./data/valOnet/part/267.jpg -1 -0.11 -0.65 0.13 0.29
+./data/valOnet/part/309.jpg -1 -0.20 -0.24 0.05 0.20
+./data/valOnet/part/255.jpg -1 -0.01 -0.73 -0.04 0.09
+./data/valOnet/part/710.jpg -1 -0.17 -0.24 0.00 0.29
+./data/valOnet/part/361.jpg -1 -0.19 -0.26 -0.06 0.26
+./data/valOnet/part/485.jpg -1 -0.05 -0.09 -0.05 0.39
+./data/valOnet/part/280.jpg -1 -0.29 -0.21 -0.13 0.32
+./data/valOnet/part/611.jpg -1 -0.18 -0.65 -0.10 0.09
+./data/valOnet/part/594.jpg -1 -0.11 -0.28 0.16 0.48
+./data/valOnet/part/452.jpg -1 -0.08 -0.24 0.04 0.29
+./data/valOnet/part/725.jpg -1 0.02 -0.71 0.05 0.19
+./data/valOnet/part/324.jpg -1 0.05 -0.13 0.14 0.26
+./data/valOnet/part/176.jpg -1 0.01 -0.57 0.12 0.05
+./data/valOnet/part/671.jpg -1 0.06 -0.32 0.19 0.47
+./data/valOnet/part/47.jpg -1 0.02 -0.35 0.21 0.59
+./data/valOnet/part/84.jpg -1 0.04 -0.25 0.25 0.12
+./data/valOnet/part/397.jpg -1 -0.26 -0.40 -0.11 0.30
+./data/valOnet/part/413.jpg -1 0.08 -0.35 0.19 0.20
+./data/valOnet/part/439.jpg -1 -0.04 -0.40 0.07 0.40
+./data/valOnet/part/65.jpg -1 -0.38 -0.35 0.07 0.25
+./data/valOnet/part/114.jpg -1 0.12 -0.17 -0.06 0.78
+./data/valOnet/part/287.jpg -1 -0.02 -0.25 0.12 0.33
+./data/valOnet/part/108.jpg -1 -0.30 -0.50 0.05 0.25
+./data/valOnet/part/366.jpg -1 0.05 -0.23 0.31 0.41
+./data/valOnet/part/522.jpg -1 -0.36 -0.29 0.02 0.04
+./data/valOnet/part/339.jpg -1 0.08 -0.29 0.14 0.00
+./data/valOnet/part/709.jpg -1 -0.11 -0.74 0.05 -0.05
+./data/valOnet/part/289.jpg -1 0.09 -0.15 0.25 0.26
+./data/valOnet/part/257.jpg -1 0.11 -0.31 0.11 0.23
+./data/valOnet/part/553.jpg -1 -0.02 -0.55 0.31 0.14
+./data/valOnet/part/305.jpg -1 0.24 0.09 0.12 0.21
+./data/valOnet/part/604.jpg -1 -0.06 -0.22 0.14 0.83
+./data/valOnet/part/631.jpg -1 0.12 -0.06 -0.04 0.78
+./data/valOnet/part/514.jpg -1 -0.17 -0.24 -0.02 0.20
+./data/valOnet/part/266.jpg -1 0.05 -0.26 0.08 0.17
+./data/valOnet/part/104.jpg -1 -0.10 -0.50 -0.07 0.09
+./data/valOnet/part/179.jpg -1 0.01 -0.30 0.19 0.17
+./data/valOnet/part/516.jpg -1 0.18 -0.11 0.15 -0.11
+./data/valOnet/part/39.jpg -1 -0.16 -0.65 0.13 0.20
+./data/valOnet/part/349.jpg -1 0.01 -0.62 0.07 0.05
+./data/valOnet/part/578.jpg -1 0.01 -0.29 0.10 0.25
+./data/valOnet/part/38.jpg -1 -0.31 -0.44 0.02 0.04
+./data/valOnet/part/53.jpg -1 0.07 -0.70 0.08 0.00
+./data/valOnet/part/593.jpg -1 -0.06 -0.86 0.01 0.14
+./data/valOnet/part/521.jpg -1 0.07 -0.20 0.44 0.08
+./data/valOnet/part/695.jpg -1 0.04 -0.33 0.13 0.25
+./data/valOnet/part/576.jpg -1 -0.04 -0.35 0.04 0.26
+./data/valOnet/part/271.jpg -1 -0.09 -0.29 0.08 0.25
+./data/valOnet/part/486.jpg -1 -0.18 -0.32 -0.04 0.12
+./data/valOnet/part/336.jpg -1 -0.09 -0.68 -0.15 0.00
+./data/valOnet/part/627.jpg -1 0.06 -0.72 0.07 0.11
+./data/valOnet/part/292.jpg -1 -0.22 -0.37 -0.09 0.04
+./data/valOnet/part/242.jpg -1 0.02 -0.70 0.11 0.10
+./data/valOnet/part/664.jpg -1 0.04 -0.48 0.19 0.14
+./data/valOnet/part/164.jpg -1 -0.12 -0.57 0.03 0.05
+./data/valOnet/part/351.jpg -1 0.03 -0.59 0.07 0.00
+./data/valOnet/part/454.jpg -1 -0.23 -0.32 0.02 0.37
+./data/valOnet/part/646.jpg -1 0.10 -0.47 0.05 0.53
+./data/valOnet/part/630.jpg -1 0.00 -0.57 0.17 0.00
+./data/valOnet/part/225.jpg -1 -0.09 -0.50 0.04 0.56
+./data/valOnet/part/711.jpg -1 -0.20 -0.88 -0.03 0.00
+./data/valOnet/part/26.jpg -1 -0.07 -0.16 0.30 0.20
+./data/valOnet/part/686.jpg -1 -0.03 -0.23 -0.05 0.45
+./data/valOnet/part/343.jpg -1 -0.18 -0.36 0.00 0.27
+./data/valOnet/part/381.jpg -1 -0.13 -0.74 0.00 0.13
+./data/valOnet/part/246.jpg -1 0.10 -0.35 0.22 0.53
+./data/valOnet/part/234.jpg -1 -0.09 -0.62 0.12 0.05
+./data/valOnet/part/426.jpg -1 -0.38 -0.32 0.00 0.32
+./data/valOnet/part/539.jpg -1 0.09 -0.04 -0.05 0.48
+./data/valOnet/part/174.jpg -1 0.03 -0.35 0.27 0.53
+./data/valOnet/part/612.jpg -1 -0.02 -0.85 0.19 0.15
+./data/valOnet/part/36.jpg -1 0.00 -0.45 0.17 0.40
+./data/valOnet/part/670.jpg -1 -0.10 -0.56 0.22 0.33
+./data/valOnet/part/546.jpg -1 -0.09 -0.52 -0.11 -0.04
+./data/valOnet/part/8.jpg -1 -0.11 -0.24 0.20 0.18
+./data/valOnet/part/278.jpg -1 -0.06 -0.56 0.15 0.04
+./data/valOnet/part/182.jpg -1 -0.34 -0.57 0.02 0.05
+./data/valOnet/part/560.jpg -1 -0.18 -0.33 -0.04 0.15
+./data/valOnet/part/700.jpg -1 0.06 -0.41 0.25 0.32
+./data/valOnet/part/70.jpg -1 0.05 -0.23 0.06 0.23
+./data/valOnet/part/318.jpg -1 -0.10 -0.62 0.22 0.05
+./data/valOnet/part/615.jpg -1 -0.05 -0.67 0.18 0.10
+./data/valOnet/part/321.jpg -1 -0.16 -0.28 0.00 0.50
+./data/valOnet/part/208.jpg -1 -0.04 -0.19 0.04 0.52
+./data/valOnet/part/441.jpg -1 -0.16 -0.43 0.08 0.29
+./data/valOnet/part/277.jpg -1 -0.15 -0.09 -0.11 0.86
+./data/valOnet/part/16.jpg -1 -0.02 -0.42 0.30 0.08
+./data/valOnet/part/642.jpg -1 -0.27 -0.57 -0.06 0.10
+./data/valOnet/part/151.jpg -1 0.12 -0.25 0.22 0.21
+./data/valOnet/part/126.jpg -1 -0.25 -0.42 -0.06 0.12
+./data/valOnet/part/79.jpg -1 -0.25 -0.30 -0.06 0.13
+./data/valOnet/part/719.jpg -1 0.06 -0.33 0.10 0.15
+./data/valOnet/part/518.jpg -1 -0.16 -0.72 0.09 0.22
+./data/valOnet/part/635.jpg -1 0.08 -0.62 0.09 0.05
+./data/valOnet/part/72.jpg -1 -0.08 -0.74 -0.01 -0.05
+./data/valOnet/part/82.jpg -1 -0.03 -0.33 0.18 0.04
+./data/valOnet/part/456.jpg -1 -0.02 -0.33 0.23 0.44
+./data/valOnet/part/650.jpg -1 0.06 -0.68 0.09 0.11
+./data/valOnet/part/115.jpg -1 0.23 -0.25 0.16 0.25
+./data/valOnet/part/607.jpg -1 -0.01 0.03 0.21 0.33
+./data/valOnet/part/565.jpg -1 -0.01 -0.35 0.40 0.19
+./data/valOnet/part/683.jpg -1 0.05 -0.65 0.05 0.00
+./data/valOnet/part/467.jpg -1 0.05 -0.67 0.26 0.05
+./data/valOnet/part/590.jpg -1 -0.28 -0.36 -0.09 0.21
+./data/valOnet/part/253.jpg -1 0.08 -0.13 0.25 0.17
+./data/valOnet/part/139.jpg -1 -0.14 0.00 -0.15 0.54
+./data/valOnet/part/424.jpg -1 -0.05 -0.67 0.14 0.05
+./data/valOnet/part/155.jpg -1 -0.16 -0.47 0.03 0.59
+./data/valOnet/part/672.jpg -1 0.08 -0.24 0.15 0.76
+./data/valOnet/part/545.jpg -1 -0.32 -0.24 0.00 0.12
+./data/valOnet/part/128.jpg -1 -0.11 -0.67 -0.01 0.10
+./data/valOnet/part/564.jpg -1 0.00 -0.50 0.08 0.04
+./data/valOnet/part/31.jpg -1 -0.15 -0.78 0.03 0.28
+./data/valOnet/part/451.jpg -1 0.06 -0.11 0.32 0.07
+./data/valOnet/part/490.jpg -1 -0.04 -0.71 0.03 0.00
+./data/valOnet/part/161.jpg -1 -0.01 -0.17 0.10 0.25
+./data/valOnet/part/199.jpg -1 -0.01 -0.14 0.10 0.52
+./data/valOnet/part/436.jpg -1 -0.05 -0.50 0.17 0.44
+./data/valOnet/part/395.jpg -1 -0.04 -0.44 0.01 0.44
+./data/valOnet/part/474.jpg -1 0.02 -0.41 0.18 0.59
+./data/valOnet/part/625.jpg -1 -0.14 -0.18 0.03 0.32
+./data/valOnet/part/679.jpg -1 0.16 -0.42 0.29 0.23
+./data/valOnet/part/477.jpg -1 -0.03 -0.39 0.06 0.09
+./data/valOnet/part/557.jpg -1 0.12 -0.27 0.35 0.27
+./data/valOnet/part/389.jpg -1 -0.13 -0.26 -0.03 0.17
+./data/valOnet/part/551.jpg -1 0.00 -0.39 0.32 0.22
+./data/valOnet/part/258.jpg -1 -0.22 -0.61 -0.06 0.13
+./data/valOnet/part/332.jpg -1 0.07 0.05 -0.09 0.65
+./data/valOnet/part/342.jpg -1 0.07 -0.26 0.08 0.30
+./data/valOnet/part/606.jpg -1 0.24 -0.33 0.42 -0.03
+./data/valOnet/part/597.jpg -1 0.14 -0.14 0.44 0.38
+./data/valOnet/part/173.jpg -1 -0.08 -0.65 0.19 0.24
+./data/valOnet/part/460.jpg -1 0.00 -0.42 0.44 0.26
+./data/valOnet/part/207.jpg -1 0.04 -0.67 0.06 0.05
+./data/valOnet/part/170.jpg -1 0.05 -0.29 0.19 0.04
+./data/valOnet/part/282.jpg -1 -0.10 -0.31 -0.08 0.03
+./data/valOnet/part/584.jpg -1 0.08 -0.42 0.23 0.37
+./data/valOnet/part/388.jpg -1 0.19 -0.15 0.19 0.12
+./data/valOnet/part/548.jpg -1 0.11 -0.44 0.00 -0.08
+./data/valOnet/part/306.jpg -1 -0.10 -0.29 0.00 0.43
+./data/valOnet/part/279.jpg -1 -0.12 -0.52 -0.08 0.07
+./data/valOnet/part/707.jpg -1 -0.25 -0.32 0.03 0.14
+./data/valOnet/part/13.jpg -1 0.03 -0.59 0.31 0.05
+./data/valOnet/part/98.jpg -1 0.05 -0.19 0.23 0.12
+./data/valOnet/part/227.jpg -1 -0.07 -0.75 -0.01 0.10
+./data/valOnet/part/51.jpg -1 0.02 -0.50 0.17 0.05
+./data/valOnet/part/175.jpg -1 -0.12 -0.39 0.11 0.09
+./data/valOnet/part/641.jpg -1 -0.04 -0.22 0.04 0.72
+./data/valOnet/part/497.jpg -1 -0.08 -0.89 0.03 0.00
+./data/valOnet/part/100.jpg -1 -0.04 -0.61 0.22 0.33
+./data/valOnet/part/415.jpg -1 -0.24 -0.78 -0.02 0.22
+./data/valOnet/part/508.jpg -1 -0.19 -0.05 0.03 0.55
+./data/valOnet/part/585.jpg -1 0.03 -0.58 0.24 0.21
+./data/valOnet/part/412.jpg -1 -0.04 -0.24 -0.08 0.24
+./data/valOnet/part/455.jpg -1 -0.23 -0.42 0.11 0.26
+./data/valOnet/part/462.jpg -1 -0.20 -0.27 0.03 0.12
+./data/valOnet/part/154.jpg -1 0.05 -0.12 0.08 0.33
+./data/valOnet/part/111.jpg -1 0.01 -0.59 0.10 0.00
+./data/valOnet/part/153.jpg -1 0.03 -0.70 0.03 0.05
+./data/valOnet/part/105.jpg -1 0.15 -0.48 0.32 0.04
+./data/valOnet/part/148.jpg -1 0.08 -0.17 0.29 0.30
+./data/valOnet/part/523.jpg -1 0.14 -0.14 0.53 0.00
+./data/valOnet/part/554.jpg -1 0.00 -0.33 0.37 0.21
+./data/valOnet/part/308.jpg -1 0.03 -0.35 0.05 0.76
+./data/valOnet/part/483.jpg -1 -0.13 -0.70 0.03 0.00
+./data/valOnet/part/396.jpg -1 0.03 -0.70 0.04 0.00
+./data/valOnet/part/688.jpg -1 0.11 -0.52 0.29 0.09
+./data/valOnet/part/491.jpg -1 -0.01 -0.42 0.05 -0.04
+./data/valOnet/part/40.jpg -1 -0.39 -0.35 0.05 0.08
+./data/valOnet/part/461.jpg -1 0.08 -0.38 0.40 -0.04
+./data/valOnet/part/558.jpg -1 0.04 -0.29 0.18 0.14
+./data/valOnet/part/356.jpg -1 0.03 -0.30 0.03 0.45
+./data/valOnet/part/428.jpg -1 0.08 -0.83 0.18 0.11
+./data/valOnet/part/377.jpg -1 0.14 -0.28 0.33 0.21
+./data/valOnet/part/667.jpg -1 -0.04 -0.65 0.10 0.05
+./data/valOnet/part/50.jpg -1 -0.20 -0.39 -0.03 0.50
+./data/valOnet/part/275.jpg -1 -0.07 -0.33 -0.08 0.10
+./data/valOnet/part/726.jpg -1 -0.09 -0.38 0.03 0.33
+./data/valOnet/part/402.jpg -1 -0.09 -0.39 0.04 0.04
+./data/valOnet/part/722.jpg -1 0.08 -0.08 0.25 0.52
+./data/valOnet/part/265.jpg -1 0.06 -0.28 0.33 0.00
+./data/valOnet/part/121.jpg -1 -0.17 -0.26 0.02 0.58
+./data/valOnet/part/511.jpg -1 0.03 -0.44 0.20 0.56
+./data/valOnet/part/68.jpg -1 0.07 -0.43 0.06 -0.04
+./data/valOnet/part/340.jpg -1 -0.27 -0.50 0.06 0.05
+./data/valOnet/part/202.jpg -1 0.15 -0.09 0.00 0.43
+./data/valOnet/part/30.jpg -1 -0.06 -0.59 -0.04 0.09
+./data/valOnet/part/609.jpg -1 -0.43 -0.18 -0.03 0.24
+./data/valOnet/part/236.jpg -1 0.04 -0.43 0.24 0.09
+./data/valOnet/part/532.jpg -1 0.05 -0.25 -0.03 0.21
+./data/valOnet/part/143.jpg -1 0.04 -0.52 0.16 0.10
+./data/valOnet/part/616.jpg -1 -0.20 -0.48 0.07 0.13
+./data/valOnet/part/666.jpg -1 -0.05 -0.30 0.19 0.17
+./data/valOnet/part/186.jpg -1 0.13 -0.43 0.33 0.19
+./data/valOnet/part/668.jpg -1 -0.22 -0.58 0.00 0.21
+./data/valOnet/part/573.jpg -1 -0.18 -0.86 -0.09 -0.05
+./data/valOnet/part/240.jpg -1 -0.23 -0.38 -0.05 0.33
+./data/valOnet/part/58.jpg -1 -0.24 -0.20 0.03 0.08
+./data/valOnet/part/325.jpg -1 0.10 -0.35 0.26 0.25
+./data/valOnet/part/509.jpg -1 0.15 -0.22 0.49 0.07
+./data/valOnet/part/706.jpg -1 -0.05 -0.26 0.11 0.42
+./data/valOnet/part/313.jpg -1 -0.17 -0.24 0.05 0.43
+./data/valOnet/part/682.jpg -1 0.09 -0.14 0.00 0.82
+./data/valOnet/part/613.jpg -1 -0.07 -0.71 -0.19 -0.04
+./data/valOnet/part/610.jpg -1 0.00 -0.40 -0.01 0.20
+./data/valOnet/part/247.jpg -1 0.13 -0.45 0.34 0.05
+./data/valOnet/part/132.jpg -1 -0.02 -0.20 -0.05 0.65
+./data/valOnet/part/359.jpg -1 -0.02 -0.57 0.15 0.10
+./data/valOnet/part/192.jpg -1 -0.13 -0.75 0.13 0.19
+./data/valOnet/part/11.jpg -1 -0.16 -0.10 0.26 0.02
+./data/valOnet/part/187.jpg -1 0.33 -0.27 0.30 0.04
+./data/valOnet/part/568.jpg -1 -0.04 -0.50 0.12 0.50
+./data/valOnet/part/226.jpg -1 0.05 -0.45 0.22 0.23
+./data/valOnet/negative/334.jpg 0
+./data/valOnet/negative/704.jpg 0
+./data/valOnet/negative/456.jpg 0
+./data/valOnet/negative/1160.jpg 0
+./data/valOnet/negative/491.jpg 0
+./data/valOnet/negative/1246.jpg 0
+./data/valOnet/negative/1126.jpg 0
+./data/valOnet/negative/1050.jpg 0
+./data/valOnet/negative/1420.jpg 0
+./data/valOnet/negative/1604.jpg 0
+./data/valOnet/negative/1505.jpg 0
+./data/valOnet/negative/16.jpg 0
+./data/valOnet/negative/1761.jpg 0
+./data/valOnet/negative/987.jpg 0
+./data/valOnet/negative/1204.jpg 0
+./data/valOnet/negative/1118.jpg 0
+./data/valOnet/negative/980.jpg 0
+./data/valOnet/negative/24.jpg 0
+./data/valOnet/negative/1418.jpg 0
+./data/valOnet/negative/1876.jpg 0
+./data/valOnet/negative/678.jpg 0
+./data/valOnet/negative/270.jpg 0
+./data/valOnet/negative/1382.jpg 0
+./data/valOnet/negative/1133.jpg 0
+./data/valOnet/negative/1091.jpg 0
+./data/valOnet/negative/1011.jpg 0
+./data/valOnet/negative/566.jpg 0
+./data/valOnet/negative/1092.jpg 0
+./data/valOnet/negative/1310.jpg 0
+./data/valOnet/negative/731.jpg 0
+./data/valOnet/negative/1512.jpg 0
+./data/valOnet/negative/1398.jpg 0
+./data/valOnet/negative/481.jpg 0
+./data/valOnet/negative/620.jpg 0
+./data/valOnet/negative/848.jpg 0
+./data/valOnet/negative/717.jpg 0
+./data/valOnet/negative/0.jpg 0
+./data/valOnet/negative/256.jpg 0
+./data/valOnet/negative/234.jpg 0
+./data/valOnet/negative/1723.jpg 0
+./data/valOnet/negative/540.jpg 0
+./data/valOnet/negative/560.jpg 0
+./data/valOnet/negative/369.jpg 0
+./data/valOnet/negative/1459.jpg 0
+./data/valOnet/negative/1674.jpg 0
+./data/valOnet/negative/1054.jpg 0
+./data/valOnet/negative/1463.jpg 0
+./data/valOnet/negative/486.jpg 0
+./data/valOnet/negative/827.jpg 0
+./data/valOnet/negative/67.jpg 0
+./data/valOnet/negative/804.jpg 0
+./data/valOnet/negative/236.jpg 0
+./data/valOnet/negative/253.jpg 0
+./data/valOnet/negative/435.jpg 0
+./data/valOnet/negative/793.jpg 0
+./data/valOnet/negative/478.jpg 0
+./data/valOnet/negative/1818.jpg 0
+./data/valOnet/negative/1010.jpg 0
+./data/valOnet/negative/777.jpg 0
+./data/valOnet/negative/255.jpg 0
+./data/valOnet/negative/1658.jpg 0
+./data/valOnet/negative/871.jpg 0
+./data/valOnet/negative/644.jpg 0
+./data/valOnet/negative/947.jpg 0
+./data/valOnet/negative/174.jpg 0
+./data/valOnet/negative/829.jpg 0
+./data/valOnet/negative/1082.jpg 0
+./data/valOnet/negative/734.jpg 0
+./data/valOnet/negative/1837.jpg 0
+./data/valOnet/negative/1066.jpg 0
+./data/valOnet/negative/1330.jpg 0
+./data/valOnet/negative/1878.jpg 0
+./data/valOnet/negative/1490.jpg 0
+./data/valOnet/negative/1624.jpg 0
+./data/valOnet/negative/23.jpg 0
+./data/valOnet/negative/896.jpg 0
+./data/valOnet/negative/509.jpg 0
+./data/valOnet/negative/1491.jpg 0
+./data/valOnet/negative/1392.jpg 0
+./data/valOnet/negative/25.jpg 0
+./data/valOnet/negative/877.jpg 0
+./data/valOnet/negative/490.jpg 0
+./data/valOnet/negative/1396.jpg 0
+./data/valOnet/negative/465.jpg 0
+./data/valOnet/negative/1099.jpg 0
+./data/valOnet/negative/1422.jpg 0
+./data/valOnet/negative/305.jpg 0
+./data/valOnet/negative/1195.jpg 0
+./data/valOnet/negative/1166.jpg 0
+./data/valOnet/negative/1631.jpg 0
+./data/valOnet/negative/975.jpg 0
+./data/valOnet/negative/1786.jpg 0
+./data/valOnet/negative/1404.jpg 0
+./data/valOnet/negative/1370.jpg 0
+./data/valOnet/negative/211.jpg 0
+./data/valOnet/negative/636.jpg 0
+./data/valOnet/negative/1071.jpg 0
+./data/valOnet/negative/1515.jpg 0
+./data/valOnet/negative/1572.jpg 0
+./data/valOnet/negative/1264.jpg 0
+./data/valOnet/negative/1549.jpg 0
+./data/valOnet/negative/1680.jpg 0
+./data/valOnet/negative/1384.jpg 0
+./data/valOnet/negative/635.jpg 0
+./data/valOnet/negative/619.jpg 0
+./data/valOnet/negative/1657.jpg 0
+./data/valOnet/negative/183.jpg 0
+./data/valOnet/negative/998.jpg 0
+./data/valOnet/negative/1361.jpg 0
+./data/valOnet/negative/855.jpg 0
+./data/valOnet/negative/711.jpg 0
+./data/valOnet/negative/166.jpg 0
+./data/valOnet/negative/768.jpg 0
+./data/valOnet/negative/168.jpg 0
+./data/valOnet/negative/360.jpg 0
+./data/valOnet/negative/38.jpg 0
+./data/valOnet/negative/1444.jpg 0
+./data/valOnet/negative/1222.jpg 0
+./data/valOnet/negative/1800.jpg 0
+./data/valOnet/negative/770.jpg 0
+./data/valOnet/negative/1045.jpg 0
+./data/valOnet/negative/922.jpg 0
+./data/valOnet/negative/55.jpg 0
+./data/valOnet/negative/1827.jpg 0
+./data/valOnet/negative/283.jpg 0
+./data/valOnet/negative/1051.jpg 0
+./data/valOnet/negative/476.jpg 0
+./data/valOnet/negative/651.jpg 0
+./data/valOnet/negative/1441.jpg 0
+./data/valOnet/negative/469.jpg 0
+./data/valOnet/negative/1131.jpg 0
+./data/valOnet/negative/1149.jpg 0
+./data/valOnet/negative/252.jpg 0
+./data/valOnet/negative/280.jpg 0
+./data/valOnet/negative/275.jpg 0
+./data/valOnet/negative/14.jpg 0
+./data/valOnet/negative/500.jpg 0
+./data/valOnet/negative/1111.jpg 0
+./data/valOnet/negative/1003.jpg 0
+./data/valOnet/negative/1613.jpg 0
+./data/valOnet/negative/1116.jpg 0
+./data/valOnet/negative/1605.jpg 0
+./data/valOnet/negative/595.jpg 0
+./data/valOnet/negative/441.jpg 0
+./data/valOnet/negative/1797.jpg 0
+./data/valOnet/negative/307.jpg 0
+./data/valOnet/negative/322.jpg 0
+./data/valOnet/negative/1014.jpg 0
+./data/valOnet/negative/1174.jpg 0
+./data/valOnet/negative/344.jpg 0
+./data/valOnet/negative/1866.jpg 0
+./data/valOnet/negative/48.jpg 0
+./data/valOnet/negative/873.jpg 0
+./data/valOnet/negative/643.jpg 0
+./data/valOnet/negative/1339.jpg 0
+./data/valOnet/negative/3.jpg 0
+./data/valOnet/negative/155.jpg 0
+./data/valOnet/negative/1632.jpg 0
+./data/valOnet/negative/1475.jpg 0
+./data/valOnet/negative/1729.jpg 0
+./data/valOnet/negative/1698.jpg 0
+./data/valOnet/negative/54.jpg 0
+./data/valOnet/negative/121.jpg 0
+./data/valOnet/negative/1567.jpg 0
+./data/valOnet/negative/79.jpg 0
+./data/valOnet/negative/1159.jpg 0
+./data/valOnet/negative/348.jpg 0
+./data/valOnet/negative/1285.jpg 0
+./data/valOnet/negative/401.jpg 0
+./data/valOnet/negative/1440.jpg 0
+./data/valOnet/negative/703.jpg 0
+./data/valOnet/negative/984.jpg 0
+./data/valOnet/negative/171.jpg 0
+./data/valOnet/negative/895.jpg 0
+./data/valOnet/negative/27.jpg 0
+./data/valOnet/negative/1586.jpg 0
+./data/valOnet/negative/1871.jpg 0
+./data/valOnet/negative/386.jpg 0
+./data/valOnet/negative/1668.jpg 0
+./data/valOnet/negative/1548.jpg 0
+./data/valOnet/negative/110.jpg 0
+./data/valOnet/negative/783.jpg 0
+./data/valOnet/negative/1343.jpg 0
+./data/valOnet/negative/223.jpg 0
+./data/valOnet/negative/458.jpg 0
+./data/valOnet/negative/291.jpg 0
+./data/valOnet/negative/738.jpg 0
+./data/valOnet/negative/581.jpg 0
+./data/valOnet/negative/85.jpg 0
+./data/valOnet/negative/1373.jpg 0
+./data/valOnet/negative/1872.jpg 0
+./data/valOnet/negative/908.jpg 0
+./data/valOnet/negative/1483.jpg 0
+./data/valOnet/negative/642.jpg 0
+./data/valOnet/negative/981.jpg 0
+./data/valOnet/negative/608.jpg 0
+./data/valOnet/negative/1803.jpg 0
+./data/valOnet/negative/49.jpg 0
+./data/valOnet/negative/143.jpg 0
+./data/valOnet/negative/1740.jpg 0
+./data/valOnet/negative/1831.jpg 0
+./data/valOnet/negative/759.jpg 0
+./data/valOnet/negative/1301.jpg 0
+./data/valOnet/negative/1856.jpg 0
+./data/valOnet/negative/1847.jpg 0
+./data/valOnet/negative/1730.jpg 0
+./data/valOnet/negative/683.jpg 0
+./data/valOnet/negative/1506.jpg 0
+./data/valOnet/negative/5.jpg 0
+./data/valOnet/negative/1641.jpg 0
+./data/valOnet/negative/1771.jpg 0
+./data/valOnet/negative/1792.jpg 0
+./data/valOnet/negative/387.jpg 0
+./data/valOnet/negative/1560.jpg 0
+./data/valOnet/negative/834.jpg 0
+./data/valOnet/negative/300.jpg 0
+./data/valOnet/negative/1433.jpg 0
+./data/valOnet/negative/760.jpg 0
+./data/valOnet/negative/1152.jpg 0
+./data/valOnet/negative/1747.jpg 0
+./data/valOnet/negative/245.jpg 0
+./data/valOnet/negative/1042.jpg 0
+./data/valOnet/negative/1787.jpg 0
+./data/valOnet/negative/1884.jpg 0
+./data/valOnet/negative/112.jpg 0
+./data/valOnet/negative/716.jpg 0
+./data/valOnet/negative/935.jpg 0
+./data/valOnet/negative/1229.jpg 0
+./data/valOnet/negative/622.jpg 0
+./data/valOnet/negative/111.jpg 0
+./data/valOnet/negative/1121.jpg 0
+./data/valOnet/negative/538.jpg 0
+./data/valOnet/negative/805.jpg 0
+./data/valOnet/negative/542.jpg 0
+./data/valOnet/negative/1120.jpg 0
+./data/valOnet/negative/1062.jpg 0
+./data/valOnet/negative/772.jpg 0
+./data/valOnet/negative/1408.jpg 0
+./data/valOnet/negative/1756.jpg 0
+./data/valOnet/negative/690.jpg 0
+./data/valOnet/negative/1115.jpg 0
+./data/valOnet/negative/1389.jpg 0
+./data/valOnet/negative/1060.jpg 0
+./data/valOnet/negative/83.jpg 0
+./data/valOnet/negative/1175.jpg 0
+./data/valOnet/negative/626.jpg 0
+./data/valOnet/negative/239.jpg 0
+./data/valOnet/negative/325.jpg 0
+./data/valOnet/negative/868.jpg 0
+./data/valOnet/negative/116.jpg 0
+./data/valOnet/negative/950.jpg 0
+./data/valOnet/negative/684.jpg 0
+./data/valOnet/negative/1563.jpg 0
+./data/valOnet/negative/771.jpg 0
+./data/valOnet/negative/647.jpg 0
+./data/valOnet/negative/676.jpg 0
+./data/valOnet/negative/949.jpg 0
+./data/valOnet/negative/988.jpg 0
+./data/valOnet/negative/570.jpg 0
+./data/valOnet/negative/506.jpg 0
+./data/valOnet/negative/934.jpg 0
+./data/valOnet/negative/758.jpg 0
+./data/valOnet/negative/395.jpg 0
+./data/valOnet/negative/1581.jpg 0
+./data/valOnet/negative/565.jpg 0
+./data/valOnet/negative/1303.jpg 0
+./data/valOnet/negative/640.jpg 0
+./data/valOnet/negative/1566.jpg 0
+./data/valOnet/negative/489.jpg 0
+./data/valOnet/negative/1323.jpg 0
+./data/valOnet/negative/1753.jpg 0
+./data/valOnet/negative/1649.jpg 0
+./data/valOnet/negative/1594.jpg 0
+./data/valOnet/negative/1600.jpg 0
+./data/valOnet/negative/1230.jpg 0
+./data/valOnet/negative/1085.jpg 0
+./data/valOnet/negative/64.jpg 0
+./data/valOnet/negative/1270.jpg 0
+./data/valOnet/negative/146.jpg 0
+./data/valOnet/negative/1176.jpg 0
+./data/valOnet/negative/165.jpg 0
+./data/valOnet/negative/452.jpg 0
+./data/valOnet/negative/471.jpg 0
+./data/valOnet/negative/1386.jpg 0
+./data/valOnet/negative/1702.jpg 0
+./data/valOnet/negative/1517.jpg 0
+./data/valOnet/negative/364.jpg 0
+./data/valOnet/negative/1678.jpg 0
+./data/valOnet/negative/12.jpg 0
+./data/valOnet/negative/1687.jpg 0
+./data/valOnet/negative/365.jpg 0
+./data/valOnet/negative/1821.jpg 0
+./data/valOnet/negative/1521.jpg 0
+./data/valOnet/negative/954.jpg 0
+./data/valOnet/negative/563.jpg 0
+./data/valOnet/negative/1595.jpg 0
+./data/valOnet/negative/257.jpg 0
+./data/valOnet/negative/331.jpg 0
+./data/valOnet/negative/522.jpg 0
+./data/valOnet/negative/1006.jpg 0
+./data/valOnet/negative/1502.jpg 0
+./data/valOnet/negative/1470.jpg 0
+./data/valOnet/negative/603.jpg 0
+./data/valOnet/negative/433.jpg 0
+./data/valOnet/negative/1294.jpg 0
+./data/valOnet/negative/905.jpg 0
+./data/valOnet/negative/1290.jpg 0
+./data/valOnet/negative/346.jpg 0
+./data/valOnet/negative/907.jpg 0
+./data/valOnet/negative/1774.jpg 0
+./data/valOnet/negative/156.jpg 0
+./data/valOnet/negative/798.jpg 0
+./data/valOnet/negative/650.jpg 0
+./data/valOnet/negative/318.jpg 0
+./data/valOnet/negative/1477.jpg 0
+./data/valOnet/negative/1044.jpg 0
+./data/valOnet/negative/763.jpg 0
+./data/valOnet/negative/842.jpg 0
+./data/valOnet/negative/57.jpg 0
+./data/valOnet/negative/1340.jpg 0
+./data/valOnet/negative/994.jpg 0
+./data/valOnet/negative/1196.jpg 0
+./data/valOnet/negative/192.jpg 0
+./data/valOnet/negative/1046.jpg 0
+./data/valOnet/negative/440.jpg 0
+./data/valOnet/negative/979.jpg 0
+./data/valOnet/negative/1144.jpg 0
+./data/valOnet/negative/1543.jpg 0
+./data/valOnet/negative/1210.jpg 0
+./data/valOnet/negative/371.jpg 0
+./data/valOnet/negative/1328.jpg 0
+./data/valOnet/negative/597.jpg 0
+./data/valOnet/negative/739.jpg 0
+./data/valOnet/negative/20.jpg 0
+./data/valOnet/negative/786.jpg 0
+./data/valOnet/negative/1236.jpg 0
+./data/valOnet/negative/147.jpg 0
+./data/valOnet/negative/815.jpg 0
+./data/valOnet/negative/525.jpg 0
+./data/valOnet/negative/939.jpg 0
+./data/valOnet/negative/872.jpg 0
+./data/valOnet/negative/1.jpg 0
+./data/valOnet/negative/203.jpg 0
+./data/valOnet/negative/1598.jpg 0
+./data/valOnet/negative/1574.jpg 0
+./data/valOnet/negative/1423.jpg 0
+./data/valOnet/negative/328.jpg 0
+./data/valOnet/negative/1667.jpg 0
+./data/valOnet/negative/1251.jpg 0
+./data/valOnet/negative/22.jpg 0
+./data/valOnet/negative/349.jpg 0
+./data/valOnet/negative/403.jpg 0
+./data/valOnet/negative/1739.jpg 0
+./data/valOnet/negative/769.jpg 0
+./data/valOnet/negative/1724.jpg 0
+./data/valOnet/negative/1093.jpg 0
+./data/valOnet/negative/1406.jpg 0
+./data/valOnet/negative/1489.jpg 0
+./data/valOnet/negative/1049.jpg 0
+./data/valOnet/negative/819.jpg 0
+./data/valOnet/negative/167.jpg 0
+./data/valOnet/negative/320.jpg 0
+./data/valOnet/negative/869.jpg 0
+./data/valOnet/negative/1776.jpg 0
+./data/valOnet/negative/753.jpg 0
+./data/valOnet/negative/50.jpg 0
+./data/valOnet/negative/1496.jpg 0
+./data/valOnet/negative/1676.jpg 0
+./data/valOnet/negative/117.jpg 0
+./data/valOnet/negative/1140.jpg 0
+./data/valOnet/negative/75.jpg 0
+./data/valOnet/negative/492.jpg 0
+./data/valOnet/negative/10.jpg 0
+./data/valOnet/negative/1336.jpg 0
+./data/valOnet/negative/899.jpg 0
+./data/valOnet/negative/1808.jpg 0
+./data/valOnet/negative/518.jpg 0
+./data/valOnet/negative/1754.jpg 0
+./data/valOnet/negative/1691.jpg 0
+./data/valOnet/negative/1603.jpg 0
+./data/valOnet/negative/220.jpg 0
+./data/valOnet/negative/1139.jpg 0
+./data/valOnet/negative/795.jpg 0
+./data/valOnet/negative/1826.jpg 0
+./data/valOnet/negative/1052.jpg 0
+./data/valOnet/negative/726.jpg 0
+./data/valOnet/negative/692.jpg 0
+./data/valOnet/negative/1507.jpg 0
+./data/valOnet/negative/1707.jpg 0
+./data/valOnet/negative/756.jpg 0
+./data/valOnet/negative/919.jpg 0
+./data/valOnet/negative/847.jpg 0
+./data/valOnet/negative/271.jpg 0
+./data/valOnet/negative/1276.jpg 0
+./data/valOnet/negative/746.jpg 0
+./data/valOnet/negative/748.jpg 0
+./data/valOnet/negative/930.jpg 0
+./data/valOnet/negative/1025.jpg 0
+./data/valOnet/negative/1178.jpg 0
+./data/valOnet/negative/878.jpg 0
+./data/valOnet/negative/1199.jpg 0
+./data/valOnet/negative/977.jpg 0
+./data/valOnet/negative/1877.jpg 0
+./data/valOnet/negative/163.jpg 0
+./data/valOnet/negative/1309.jpg 0
+./data/valOnet/negative/613.jpg 0
+./data/valOnet/negative/667.jpg 0
+./data/valOnet/negative/833.jpg 0
+./data/valOnet/negative/965.jpg 0
+./data/valOnet/negative/1715.jpg 0
+./data/valOnet/negative/973.jpg 0
+./data/valOnet/negative/1732.jpg 0
+./data/valOnet/negative/1300.jpg 0
+./data/valOnet/negative/791.jpg 0
+./data/valOnet/negative/127.jpg 0
+./data/valOnet/negative/286.jpg 0
+./data/valOnet/negative/1302.jpg 0
+./data/valOnet/negative/814.jpg 0
+./data/valOnet/negative/1799.jpg 0
+./data/valOnet/negative/1666.jpg 0
+./data/valOnet/negative/670.jpg 0
+./data/valOnet/negative/611.jpg 0
+./data/valOnet/negative/181.jpg 0
+./data/valOnet/negative/259.jpg 0
+./data/valOnet/negative/818.jpg 0
+./data/valOnet/negative/531.jpg 0
+./data/valOnet/negative/1656.jpg 0
+./data/valOnet/negative/586.jpg 0
+./data/valOnet/negative/785.jpg 0
+./data/valOnet/negative/1655.jpg 0
+./data/valOnet/negative/1436.jpg 0
+./data/valOnet/negative/1755.jpg 0
+./data/valOnet/negative/473.jpg 0
+./data/valOnet/negative/437.jpg 0
+./data/valOnet/negative/37.jpg 0
+./data/valOnet/negative/1863.jpg 0
+./data/valOnet/negative/186.jpg 0
+./data/valOnet/negative/728.jpg 0
+./data/valOnet/negative/765.jpg 0
+./data/valOnet/negative/696.jpg 0
+./data/valOnet/negative/1697.jpg 0
+./data/valOnet/negative/1101.jpg 0
+./data/valOnet/negative/617.jpg 0
+./data/valOnet/negative/1759.jpg 0
+./data/valOnet/negative/382.jpg 0
+./data/valOnet/negative/1059.jpg 0
+./data/valOnet/negative/1526.jpg 0
+./data/valOnet/negative/1762.jpg 0
+./data/valOnet/negative/1277.jpg 0
+./data/valOnet/negative/1232.jpg 0
+./data/valOnet/negative/388.jpg 0
+./data/valOnet/negative/1296.jpg 0
+./data/valOnet/negative/1041.jpg 0
+./data/valOnet/negative/249.jpg 0
+./data/valOnet/negative/160.jpg 0
+./data/valOnet/negative/993.jpg 0
+./data/valOnet/negative/898.jpg 0
+./data/valOnet/negative/809.jpg 0
+./data/valOnet/negative/430.jpg 0
+./data/valOnet/negative/1464.jpg 0
+./data/valOnet/negative/1164.jpg 0
+./data/valOnet/negative/122.jpg 0
+./data/valOnet/negative/41.jpg 0
+./data/valOnet/negative/894.jpg 0
+./data/valOnet/negative/1206.jpg 0
+./data/valOnet/negative/1618.jpg 0
+./data/valOnet/negative/666.jpg 0
+./data/valOnet/negative/1442.jpg 0
+./data/valOnet/negative/1200.jpg 0
+./data/valOnet/negative/319.jpg 0
+./data/valOnet/negative/363.jpg 0
+./data/valOnet/negative/1438.jpg 0
+./data/valOnet/negative/237.jpg 0
+./data/valOnet/negative/523.jpg 0
+./data/valOnet/negative/1677.jpg 0
+./data/valOnet/negative/304.jpg 0
+./data/valOnet/negative/1318.jpg 0
+./data/valOnet/negative/582.jpg 0
+./data/valOnet/negative/851.jpg 0
+./data/valOnet/negative/250.jpg 0
+./data/valOnet/negative/1258.jpg 0
+./data/valOnet/negative/96.jpg 0
+./data/valOnet/negative/142.jpg 0
+./data/valOnet/negative/1551.jpg 0
+./data/valOnet/negative/258.jpg 0
+./data/valOnet/negative/461.jpg 0
+./data/valOnet/negative/665.jpg 0
+./data/valOnet/negative/1367.jpg 0
+./data/valOnet/negative/1001.jpg 0
+./data/valOnet/negative/63.jpg 0
+./data/valOnet/negative/1057.jpg 0
+./data/valOnet/negative/592.jpg 0
+./data/valOnet/negative/1673.jpg 0
+./data/valOnet/negative/11.jpg 0
+./data/valOnet/negative/1125.jpg 0
+./data/valOnet/negative/1193.jpg 0
+./data/valOnet/negative/700.jpg 0
+./data/valOnet/negative/1528.jpg 0
+./data/valOnet/negative/392.jpg 0
+./data/valOnet/negative/383.jpg 0
+./data/valOnet/negative/1293.jpg 0
+./data/valOnet/negative/1089.jpg 0
+./data/valOnet/negative/1553.jpg 0
+./data/valOnet/negative/600.jpg 0
+./data/valOnet/negative/501.jpg 0
+./data/valOnet/negative/1690.jpg 0
+./data/valOnet/negative/530.jpg 0
+./data/valOnet/negative/1098.jpg 0
+./data/valOnet/negative/671.jpg 0
+./data/valOnet/negative/593.jpg 0
+./data/valOnet/negative/720.jpg 0
+./data/valOnet/negative/858.jpg 0
+./data/valOnet/negative/1722.jpg 0
+./data/valOnet/negative/940.jpg 0
+./data/valOnet/negative/1510.jpg 0
+./data/valOnet/negative/1648.jpg 0
+./data/valOnet/negative/1685.jpg 0
+./data/valOnet/negative/1559.jpg 0
+./data/valOnet/negative/240.jpg 0
+./data/valOnet/negative/557.jpg 0
+./data/valOnet/negative/479.jpg 0
+./data/valOnet/negative/1519.jpg 0
+./data/valOnet/negative/1726.jpg 0
+./data/valOnet/negative/1316.jpg 0
+./data/valOnet/negative/1402.jpg 0
+./data/valOnet/negative/1749.jpg 0
+./data/valOnet/negative/837.jpg 0
+./data/valOnet/negative/1375.jpg 0
+./data/valOnet/negative/1352.jpg 0
+./data/valOnet/negative/596.jpg 0
+./data/valOnet/negative/1337.jpg 0
+./data/valOnet/negative/1888.jpg 0
+./data/valOnet/negative/1785.jpg 0
+./data/valOnet/negative/191.jpg 0
+./data/valOnet/negative/1492.jpg 0
+./data/valOnet/negative/1017.jpg 0
+./data/valOnet/negative/109.jpg 0
+./data/valOnet/negative/660.jpg 0
+./data/valOnet/negative/1844.jpg 0
+./data/valOnet/negative/730.jpg 0
+./data/valOnet/negative/1731.jpg 0
+./data/valOnet/negative/803.jpg 0
+./data/valOnet/negative/1369.jpg 0
+./data/valOnet/negative/354.jpg 0
+./data/valOnet/negative/1833.jpg 0
+./data/valOnet/negative/136.jpg 0
+./data/valOnet/negative/1234.jpg 0
+./data/valOnet/negative/914.jpg 0
+./data/valOnet/negative/95.jpg 0
+./data/valOnet/negative/1532.jpg 0
+./data/valOnet/negative/1770.jpg 0
+./data/valOnet/negative/1533.jpg 0
+./data/valOnet/negative/892.jpg 0
+./data/valOnet/negative/1597.jpg 0
+./data/valOnet/negative/1689.jpg 0
+./data/valOnet/negative/178.jpg 0
+./data/valOnet/negative/999.jpg 0
+./data/valOnet/negative/912.jpg 0
+./data/valOnet/negative/1577.jpg 0
+./data/valOnet/negative/510.jpg 0
+./data/valOnet/negative/1347.jpg 0
+./data/valOnet/negative/732.jpg 0
+./data/valOnet/negative/438.jpg 0
+./data/valOnet/negative/101.jpg 0
+./data/valOnet/negative/290.jpg 0
+./data/valOnet/negative/599.jpg 0
+./data/valOnet/negative/864.jpg 0
+./data/valOnet/negative/244.jpg 0
+./data/valOnet/negative/1889.jpg 0
+./data/valOnet/negative/1486.jpg 0
+./data/valOnet/negative/1625.jpg 0
+./data/valOnet/negative/516.jpg 0
+./data/valOnet/negative/225.jpg 0
+./data/valOnet/negative/1287.jpg 0
+./data/valOnet/negative/573.jpg 0
+./data/valOnet/negative/808.jpg 0
+./data/valOnet/negative/1524.jpg 0
+./data/valOnet/negative/1431.jpg 0
+./data/valOnet/negative/572.jpg 0
+./data/valOnet/negative/153.jpg 0
+./data/valOnet/negative/1495.jpg 0
+./data/valOnet/negative/224.jpg 0
+./data/valOnet/negative/1412.jpg 0
+./data/valOnet/negative/1145.jpg 0
+./data/valOnet/negative/498.jpg 0
+./data/valOnet/negative/840.jpg 0
+./data/valOnet/negative/494.jpg 0
+./data/valOnet/negative/1780.jpg 0
+./data/valOnet/negative/824.jpg 0
+./data/valOnet/negative/1820.jpg 0
+./data/valOnet/negative/51.jpg 0
+./data/valOnet/negative/1652.jpg 0
+./data/valOnet/negative/702.jpg 0
+./data/valOnet/negative/1514.jpg 0
+./data/valOnet/negative/722.jpg 0
+./data/valOnet/negative/1414.jpg 0
+./data/valOnet/negative/806.jpg 0
+./data/valOnet/negative/389.jpg 0
+./data/valOnet/negative/1468.jpg 0
+./data/valOnet/negative/1760.jpg 0
+./data/valOnet/negative/175.jpg 0
+./data/valOnet/negative/159.jpg 0
+./data/valOnet/negative/397.jpg 0
+./data/valOnet/negative/132.jpg 0
+./data/valOnet/negative/920.jpg 0
+./data/valOnet/negative/299.jpg 0
+./data/valOnet/negative/1390.jpg 0
+./data/valOnet/negative/1503.jpg 0
+./data/valOnet/negative/1380.jpg 0
+./data/valOnet/negative/1705.jpg 0
+./data/valOnet/negative/273.jpg 0
+./data/valOnet/negative/1439.jpg 0
+./data/valOnet/negative/1832.jpg 0
+./data/valOnet/negative/266.jpg 0
+./data/valOnet/negative/1457.jpg 0
+./data/valOnet/negative/1024.jpg 0
+./data/valOnet/negative/1573.jpg 0
+./data/valOnet/negative/210.jpg 0
+./data/valOnet/negative/1078.jpg 0
+./data/valOnet/negative/1038.jpg 0
+./data/valOnet/negative/1469.jpg 0
+./data/valOnet/negative/298.jpg 0
+./data/valOnet/negative/1227.jpg 0
+./data/valOnet/negative/1804.jpg 0
+./data/valOnet/negative/76.jpg 0
+./data/valOnet/negative/526.jpg 0
+./data/valOnet/negative/1377.jpg 0
+./data/valOnet/negative/816.jpg 0
+./data/valOnet/negative/1737.jpg 0
+./data/valOnet/negative/1061.jpg 0
+./data/valOnet/negative/1858.jpg 0
+./data/valOnet/negative/1465.jpg 0
+./data/valOnet/negative/1575.jpg 0
+./data/valOnet/negative/1241.jpg 0
+./data/valOnet/negative/1043.jpg 0
+./data/valOnet/negative/1556.jpg 0
+./data/valOnet/negative/661.jpg 0
+./data/valOnet/negative/1580.jpg 0
+./data/valOnet/negative/1539.jpg 0
+./data/valOnet/negative/185.jpg 0
+./data/valOnet/negative/17.jpg 0
+./data/valOnet/negative/709.jpg 0
+./data/valOnet/negative/1784.jpg 0
+./data/valOnet/negative/120.jpg 0
+./data/valOnet/negative/242.jpg 0
+./data/valOnet/negative/1816.jpg 0
+./data/valOnet/negative/1228.jpg 0
+./data/valOnet/negative/1686.jpg 0
+./data/valOnet/negative/850.jpg 0
+./data/valOnet/negative/1675.jpg 0
+./data/valOnet/negative/1692.jpg 0
+./data/valOnet/negative/419.jpg 0
+./data/valOnet/negative/1773.jpg 0
+./data/valOnet/negative/1283.jpg 0
+./data/valOnet/negative/13.jpg 0
+./data/valOnet/negative/556.jpg 0
+./data/valOnet/negative/673.jpg 0
+./data/valOnet/negative/1129.jpg 0
+./data/valOnet/negative/1275.jpg 0
+./data/valOnet/negative/477.jpg 0
+./data/valOnet/negative/1720.jpg 0
+./data/valOnet/negative/544.jpg 0
+./data/valOnet/negative/1766.jpg 0
+./data/valOnet/negative/1362.jpg 0
+./data/valOnet/negative/1829.jpg 0
+./data/valOnet/negative/302.jpg 0
+./data/valOnet/negative/1299.jpg 0
+./data/valOnet/negative/590.jpg 0
+./data/valOnet/negative/169.jpg 0
+./data/valOnet/negative/488.jpg 0
+./data/valOnet/negative/1135.jpg 0
+./data/valOnet/negative/1451.jpg 0
+./data/valOnet/negative/1084.jpg 0
+./data/valOnet/negative/326.jpg 0
+./data/valOnet/negative/1015.jpg 0
+./data/valOnet/negative/1194.jpg 0
+./data/valOnet/negative/543.jpg 0
+./data/valOnet/negative/729.jpg 0
+./data/valOnet/negative/562.jpg 0
+./data/valOnet/negative/527.jpg 0
+./data/valOnet/negative/375.jpg 0
+./data/valOnet/negative/1142.jpg 0
+./data/valOnet/negative/34.jpg 0
+./data/valOnet/negative/1738.jpg 0
+./data/valOnet/negative/1358.jpg 0
+./data/valOnet/negative/294.jpg 0
+./data/valOnet/negative/1683.jpg 0
+./data/valOnet/negative/1734.jpg 0
+./data/valOnet/negative/118.jpg 0
+./data/valOnet/negative/312.jpg 0
+./data/valOnet/negative/195.jpg 0
+./data/valOnet/negative/464.jpg 0
+./data/valOnet/negative/1437.jpg 0
+./data/valOnet/negative/1728.jpg 0
+./data/valOnet/negative/1391.jpg 0
+./data/valOnet/negative/1055.jpg 0
+./data/valOnet/negative/552.jpg 0
+./data/valOnet/negative/654.jpg 0
+./data/valOnet/negative/1704.jpg 0
+./data/valOnet/negative/340.jpg 0
+./data/valOnet/negative/1009.jpg 0
+./data/valOnet/negative/1875.jpg 0
+./data/valOnet/negative/513.jpg 0
+./data/valOnet/negative/1777.jpg 0
+./data/valOnet/negative/689.jpg 0
+./data/valOnet/negative/1348.jpg 0
+./data/valOnet/negative/1435.jpg 0
+./data/valOnet/negative/254.jpg 0
+./data/valOnet/negative/524.jpg 0
+./data/valOnet/negative/747.jpg 0
+./data/valOnet/negative/287.jpg 0
+./data/valOnet/negative/1107.jpg 0
+./data/valOnet/negative/261.jpg 0
+./data/valOnet/negative/1354.jpg 0
+./data/valOnet/negative/686.jpg 0
+./data/valOnet/negative/1387.jpg 0
+./data/valOnet/negative/94.jpg 0
+./data/valOnet/negative/1778.jpg 0
+./data/valOnet/negative/862.jpg 0
+./data/valOnet/negative/1842.jpg 0
+./data/valOnet/negative/1596.jpg 0
+./data/valOnet/negative/580.jpg 0
+./data/valOnet/negative/941.jpg 0
+./data/valOnet/negative/1201.jpg 0
+./data/valOnet/negative/699.jpg 0
+./data/valOnet/negative/1338.jpg 0
+./data/valOnet/negative/1284.jpg 0
+./data/valOnet/negative/1716.jpg 0
+./data/valOnet/negative/882.jpg 0
+./data/valOnet/negative/32.jpg 0
+./data/valOnet/negative/179.jpg 0
+./data/valOnet/negative/378.jpg 0
+./data/valOnet/negative/1254.jpg 0
+./data/valOnet/negative/1114.jpg 0
+./data/valOnet/negative/1341.jpg 0
+./data/valOnet/negative/355.jpg 0
+./data/valOnet/negative/910.jpg 0
+./data/valOnet/negative/986.jpg 0
+./data/valOnet/negative/1250.jpg 0
+./data/valOnet/negative/123.jpg 0
+./data/valOnet/negative/324.jpg 0
+./data/valOnet/negative/1063.jpg 0
+./data/valOnet/negative/990.jpg 0
+./data/valOnet/negative/733.jpg 0
+./data/valOnet/negative/483.jpg 0
+./data/valOnet/negative/1379.jpg 0
+./data/valOnet/negative/1617.jpg 0
+./data/valOnet/negative/359.jpg 0
+./data/valOnet/negative/1479.jpg 0
+./data/valOnet/negative/866.jpg 0
+./data/valOnet/negative/1630.jpg 0
+./data/valOnet/negative/1622.jpg 0
+./data/valOnet/negative/1217.jpg 0
+./data/valOnet/negative/1714.jpg 0
+./data/valOnet/negative/125.jpg 0
+./data/valOnet/negative/1008.jpg 0
+./data/valOnet/negative/946.jpg 0
+./data/valOnet/negative/1612.jpg 0
+./data/valOnet/negative/140.jpg 0
+./data/valOnet/negative/1143.jpg 0
+./data/valOnet/negative/708.jpg 0
+./data/valOnet/negative/1329.jpg 0
+./data/valOnet/negative/336.jpg 0
+./data/valOnet/negative/97.jpg 0
+./data/valOnet/negative/1764.jpg 0
+./data/valOnet/negative/1117.jpg 0
+./data/valOnet/negative/274.jpg 0
+./data/valOnet/negative/1307.jpg 0
+./data/valOnet/negative/826.jpg 0
+./data/valOnet/negative/88.jpg 0
+./data/valOnet/negative/745.jpg 0
+./data/valOnet/negative/828.jpg 0
+./data/valOnet/negative/460.jpg 0
+./data/valOnet/negative/951.jpg 0
+./data/valOnet/negative/139.jpg 0
+./data/valOnet/negative/672.jpg 0
+./data/valOnet/negative/1335.jpg 0
+./data/valOnet/negative/841.jpg 0
+./data/valOnet/negative/30.jpg 0
+./data/valOnet/negative/217.jpg 0
+./data/valOnet/negative/1138.jpg 0
+./data/valOnet/negative/927.jpg 0
+./data/valOnet/negative/2.jpg 0
+./data/valOnet/negative/1106.jpg 0
+./data/valOnet/negative/1157.jpg 0
+./data/valOnet/negative/1411.jpg 0
+./data/valOnet/negative/1790.jpg 0
+./data/valOnet/negative/361.jpg 0
+./data/valOnet/negative/1536.jpg 0
+./data/valOnet/negative/681.jpg 0
+./data/valOnet/negative/148.jpg 0
+./data/valOnet/negative/1291.jpg 0
+./data/valOnet/negative/1869.jpg 0
+./data/valOnet/negative/913.jpg 0
+./data/valOnet/negative/1364.jpg 0
+./data/valOnet/negative/604.jpg 0
+./data/valOnet/negative/1192.jpg 0
+./data/valOnet/negative/59.jpg 0
+./data/valOnet/negative/1650.jpg 0
+./data/valOnet/negative/1349.jpg 0
+./data/valOnet/negative/1664.jpg 0
+./data/valOnet/negative/662.jpg 0
+./data/valOnet/negative/407.jpg 0
+./data/valOnet/negative/1096.jpg 0
+./data/valOnet/negative/216.jpg 0
+./data/valOnet/negative/400.jpg 0
+./data/valOnet/negative/1589.jpg 0
+./data/valOnet/negative/901.jpg 0
+./data/valOnet/negative/1220.jpg 0
+./data/valOnet/negative/246.jpg 0
+./data/valOnet/negative/158.jpg 0
+./data/valOnet/negative/641.jpg 0
+./data/valOnet/negative/102.jpg 0
+./data/valOnet/negative/1150.jpg 0
+./data/valOnet/negative/463.jpg 0
+./data/valOnet/negative/1713.jpg 0
+./data/valOnet/negative/1130.jpg 0
+./data/valOnet/negative/1155.jpg 0
+./data/valOnet/negative/1862.jpg 0
+./data/valOnet/negative/652.jpg 0
+./data/valOnet/negative/1645.jpg 0
+./data/valOnet/negative/330.jpg 0
+./data/valOnet/negative/679.jpg 0
+./data/valOnet/negative/1167.jpg 0
+./data/valOnet/negative/1838.jpg 0
+./data/valOnet/negative/1385.jpg 0
+./data/valOnet/negative/776.jpg 0
+./data/valOnet/negative/1224.jpg 0
+./data/valOnet/negative/193.jpg 0
+./data/valOnet/negative/1530.jpg 0
+./data/valOnet/negative/436.jpg 0
+./data/valOnet/negative/904.jpg 0
+./data/valOnet/negative/1409.jpg 0
+./data/valOnet/negative/553.jpg 0
+./data/valOnet/negative/1454.jpg 0
+./data/valOnet/negative/342.jpg 0
+./data/valOnet/negative/43.jpg 0
+./data/valOnet/negative/1887.jpg 0
+./data/valOnet/negative/545.jpg 0
+./data/valOnet/negative/243.jpg 0
+./data/valOnet/negative/1163.jpg 0
+./data/valOnet/negative/1068.jpg 0
+./data/valOnet/negative/28.jpg 0
+./data/valOnet/negative/1218.jpg 0
+./data/valOnet/negative/1053.jpg 0
+./data/valOnet/negative/1854.jpg 0
+./data/valOnet/negative/288.jpg 0
+./data/valOnet/negative/705.jpg 0
+./data/valOnet/negative/40.jpg 0
+./data/valOnet/negative/60.jpg 0
+./data/valOnet/negative/219.jpg 0
+./data/valOnet/negative/1781.jpg 0
+./data/valOnet/negative/1108.jpg 0
+./data/valOnet/negative/454.jpg 0
+./data/valOnet/negative/230.jpg 0
+./data/valOnet/negative/1122.jpg 0
+./data/valOnet/negative/963.jpg 0
+./data/valOnet/negative/854.jpg 0
+./data/valOnet/negative/1319.jpg 0
+./data/valOnet/negative/1614.jpg 0
+./data/valOnet/negative/725.jpg 0
+./data/valOnet/negative/1743.jpg 0
+./data/valOnet/negative/843.jpg 0
+./data/valOnet/negative/507.jpg 0
+./data/valOnet/negative/180.jpg 0
+./data/valOnet/negative/812.jpg 0
+./data/valOnet/negative/1850.jpg 0
+./data/valOnet/negative/886.jpg 0
+./data/valOnet/negative/578.jpg 0
+./data/valOnet/negative/1701.jpg 0
+./data/valOnet/negative/447.jpg 0
+./data/valOnet/negative/1583.jpg 0
+./data/valOnet/negative/964.jpg 0
+./data/valOnet/negative/794.jpg 0
+./data/valOnet/negative/1266.jpg 0
+./data/valOnet/negative/1419.jpg 0
+./data/valOnet/negative/1186.jpg 0
+./data/valOnet/negative/784.jpg 0
+./data/valOnet/negative/1794.jpg 0
+./data/valOnet/negative/961.jpg 0
+./data/valOnet/negative/638.jpg 0
+./data/valOnet/negative/129.jpg 0
+./data/valOnet/negative/1383.jpg 0
+./data/valOnet/negative/184.jpg 0
+./data/valOnet/negative/1080.jpg 0
+./data/valOnet/negative/448.jpg 0
+./data/valOnet/negative/1849.jpg 0
+./data/valOnet/negative/1529.jpg 0
+./data/valOnet/negative/1782.jpg 0
+./data/valOnet/negative/1280.jpg 0
+./data/valOnet/negative/1425.jpg 0
+./data/valOnet/negative/687.jpg 0
+./data/valOnet/negative/610.jpg 0
+./data/valOnet/negative/443.jpg 0
+./data/valOnet/negative/1447.jpg 0
+./data/valOnet/negative/1012.jpg 0
+./data/valOnet/negative/1665.jpg 0
+./data/valOnet/negative/39.jpg 0
+./data/valOnet/negative/411.jpg 0
+./data/valOnet/negative/1558.jpg 0
+./data/valOnet/negative/381.jpg 0
+./data/valOnet/negative/1751.jpg 0
+./data/valOnet/negative/688.jpg 0
+./data/valOnet/negative/1421.jpg 0
+./data/valOnet/negative/1647.jpg 0
+./data/valOnet/negative/1401.jpg 0
+./data/valOnet/negative/114.jpg 0
+./data/valOnet/negative/81.jpg 0
+./data/valOnet/negative/214.jpg 0
+./data/valOnet/negative/92.jpg 0
+./data/valOnet/negative/150.jpg 0
+./data/valOnet/negative/588.jpg 0
+./data/valOnet/negative/1242.jpg 0
+./data/valOnet/negative/1240.jpg 0
+./data/valOnet/negative/1855.jpg 0
+./data/valOnet/negative/1077.jpg 0
+./data/valOnet/negative/1069.jpg 0
+./data/valOnet/negative/314.jpg 0
+./data/valOnet/negative/884.jpg 0
+./data/valOnet/negative/1075.jpg 0
+./data/valOnet/negative/1851.jpg 0
+./data/valOnet/negative/956.jpg 0
+./data/valOnet/negative/616.jpg 0
+./data/valOnet/negative/615.jpg 0
+./data/valOnet/negative/177.jpg 0
+./data/valOnet/negative/567.jpg 0
+./data/valOnet/negative/601.jpg 0
+./data/valOnet/negative/1830.jpg 0
+./data/valOnet/negative/1305.jpg 0
+./data/valOnet/negative/412.jpg 0
+./data/valOnet/negative/948.jpg 0
+./data/valOnet/negative/46.jpg 0
+./data/valOnet/negative/1087.jpg 0
+./data/valOnet/negative/1453.jpg 0
+./data/valOnet/negative/228.jpg 0
+./data/valOnet/negative/1870.jpg 0
+./data/valOnet/negative/937.jpg 0
+./data/valOnet/negative/434.jpg 0
+./data/valOnet/negative/1169.jpg 0
+./data/valOnet/negative/329.jpg 0
+./data/valOnet/negative/408.jpg 0
+./data/valOnet/negative/1248.jpg 0
+./data/valOnet/negative/1633.jpg 0
+./data/valOnet/negative/1397.jpg 0
+./data/valOnet/negative/697.jpg 0
+./data/valOnet/negative/1584.jpg 0
+./data/valOnet/negative/832.jpg 0
+./data/valOnet/negative/503.jpg 0
+./data/valOnet/negative/1767.jpg 0
+./data/valOnet/negative/514.jpg 0
+./data/valOnet/negative/130.jpg 0
+./data/valOnet/negative/212.jpg 0
+./data/valOnet/negative/752.jpg 0
+./data/valOnet/negative/645.jpg 0
+./data/valOnet/negative/1525.jpg 0
+./data/valOnet/negative/1626.jpg 0
+./data/valOnet/negative/974.jpg 0
+./data/valOnet/negative/889.jpg 0
+./data/valOnet/negative/1443.jpg 0
+./data/valOnet/negative/1313.jpg 0
+./data/valOnet/negative/1154.jpg 0
+./data/valOnet/negative/820.jpg 0
+./data/valOnet/negative/1853.jpg 0
+./data/valOnet/negative/1879.jpg 0
+./data/valOnet/negative/1237.jpg 0
+./data/valOnet/negative/78.jpg 0
+./data/valOnet/negative/327.jpg 0
+./data/valOnet/negative/997.jpg 0
+./data/valOnet/negative/577.jpg 0
+./data/valOnet/negative/1342.jpg 0
+./data/valOnet/negative/1886.jpg 0
+./data/valOnet/negative/1132.jpg 0
+./data/valOnet/negative/384.jpg 0
+./data/valOnet/negative/323.jpg 0
+./data/valOnet/negative/1208.jpg 0
+./data/valOnet/negative/1478.jpg 0
+./data/valOnet/negative/380.jpg 0
+./data/valOnet/negative/1304.jpg 0
+./data/valOnet/negative/921.jpg 0
+./data/valOnet/negative/1037.jpg 0
+./data/valOnet/negative/1207.jpg 0
+./data/valOnet/negative/414.jpg 0
+./data/valOnet/negative/295.jpg 0
+./data/valOnet/negative/658.jpg 0
+./data/valOnet/negative/718.jpg 0
+./data/valOnet/negative/625.jpg 0
+./data/valOnet/negative/1819.jpg 0
+./data/valOnet/negative/663.jpg 0
+./data/valOnet/negative/1257.jpg 0
+./data/valOnet/negative/1805.jpg 0
+./data/valOnet/negative/1712.jpg 0
+./data/valOnet/negative/345.jpg 0
+./data/valOnet/negative/1074.jpg 0
+./data/valOnet/negative/119.jpg 0
+./data/valOnet/negative/231.jpg 0
+./data/valOnet/negative/1298.jpg 0
+./data/valOnet/negative/449.jpg 0
+./data/valOnet/negative/241.jpg 0
+./data/valOnet/negative/1332.jpg 0
+./data/valOnet/negative/863.jpg 0
+./data/valOnet/negative/535.jpg 0
+./data/valOnet/negative/1735.jpg 0
+./data/valOnet/negative/1748.jpg 0
+./data/valOnet/negative/495.jpg 0
+./data/valOnet/negative/1260.jpg 0
+./data/valOnet/negative/1034.jpg 0
+./data/valOnet/negative/425.jpg 0
+./data/valOnet/negative/1882.jpg 0
+./data/valOnet/negative/1256.jpg 0
+./data/valOnet/negative/774.jpg 0
+./data/valOnet/negative/1508.jpg 0
+./data/valOnet/negative/724.jpg 0
+./data/valOnet/negative/1746.jpg 0
+./data/valOnet/negative/587.jpg 0
+./data/valOnet/negative/1029.jpg 0
+./data/valOnet/negative/1852.jpg 0
+./data/valOnet/negative/1202.jpg 0
+./data/valOnet/negative/310.jpg 0
+./data/valOnet/negative/1036.jpg 0
+./data/valOnet/negative/1546.jpg 0
+./data/valOnet/negative/1874.jpg 0
+./data/valOnet/negative/1072.jpg 0
+./data/valOnet/negative/779.jpg 0
+./data/valOnet/negative/674.jpg 0
+./data/valOnet/negative/1191.jpg 0
+./data/valOnet/negative/903.jpg 0
+./data/valOnet/negative/1522.jpg 0
+./data/valOnet/negative/1455.jpg 0
+./data/valOnet/negative/1177.jpg 0
+./data/valOnet/negative/1815.jpg 0
+./data/valOnet/negative/890.jpg 0
+./data/valOnet/negative/431.jpg 0
+./data/valOnet/negative/835.jpg 0
+./data/valOnet/negative/278.jpg 0
+./data/valOnet/negative/559.jpg 0
+./data/valOnet/negative/321.jpg 0
+./data/valOnet/negative/338.jpg 0
+./data/valOnet/negative/26.jpg 0
+./data/valOnet/negative/496.jpg 0
+./data/valOnet/negative/196.jpg 0
+./data/valOnet/negative/584.jpg 0
+./data/valOnet/negative/1695.jpg 0
+./data/valOnet/negative/924.jpg 0
+./data/valOnet/negative/372.jpg 0
+./data/valOnet/negative/781.jpg 0
+./data/valOnet/negative/427.jpg 0
+./data/valOnet/negative/773.jpg 0
+./data/valOnet/negative/1405.jpg 0
+./data/valOnet/negative/1565.jpg 0
+./data/valOnet/negative/1620.jpg 0
+./data/valOnet/negative/682.jpg 0
+./data/valOnet/negative/370.jpg 0
+./data/valOnet/negative/206.jpg 0
+./data/valOnet/negative/1544.jpg 0
+./data/valOnet/negative/1315.jpg 0
+./data/valOnet/negative/1504.jpg 0
+./data/valOnet/negative/695.jpg 0
+./data/valOnet/negative/1002.jpg 0
+./data/valOnet/negative/721.jpg 0
+./data/valOnet/negative/406.jpg 0
+./data/valOnet/negative/1640.jpg 0
+./data/valOnet/negative/1005.jpg 0
+./data/valOnet/negative/727.jpg 0
+./data/valOnet/negative/1346.jpg 0
+./data/valOnet/negative/1841.jpg 0
+./data/valOnet/negative/831.jpg 0
+./data/valOnet/negative/1484.jpg 0
+./data/valOnet/negative/1516.jpg 0
+./data/valOnet/negative/505.jpg 0
+./data/valOnet/negative/1757.jpg 0
+./data/valOnet/negative/533.jpg 0
+./data/valOnet/negative/836.jpg 0
+./data/valOnet/negative/579.jpg 0
+./data/valOnet/negative/1153.jpg 0
+./data/valOnet/negative/1278.jpg 0
+./data/valOnet/negative/792.jpg 0
+./data/valOnet/negative/766.jpg 0
+./data/valOnet/negative/1772.jpg 0
+./data/valOnet/negative/1806.jpg 0
+./data/valOnet/negative/1482.jpg 0
+./data/valOnet/negative/807.jpg 0
+./data/valOnet/negative/444.jpg 0
+./data/valOnet/negative/1188.jpg 0
+./data/valOnet/negative/170.jpg 0
+./data/valOnet/negative/585.jpg 0
+./data/valOnet/negative/1268.jpg 0
+./data/valOnet/negative/1840.jpg 0
+./data/valOnet/negative/1579.jpg 0
+./data/valOnet/negative/906.jpg 0
+./data/valOnet/negative/222.jpg 0
+./data/valOnet/negative/1289.jpg 0
+./data/valOnet/negative/215.jpg 0
+./data/valOnet/negative/29.jpg 0
+./data/valOnet/negative/131.jpg 0
+./data/valOnet/negative/923.jpg 0
+./data/valOnet/negative/1811.jpg 0
+./data/valOnet/negative/410.jpg 0
+./data/valOnet/negative/7.jpg 0
+./data/valOnet/negative/539.jpg 0
+./data/valOnet/negative/1031.jpg 0
+./data/valOnet/negative/65.jpg 0
+./data/valOnet/negative/971.jpg 0
+./data/valOnet/negative/91.jpg 0
+./data/valOnet/negative/189.jpg 0
+./data/valOnet/negative/870.jpg 0
+./data/valOnet/negative/1642.jpg 0
+./data/valOnet/negative/764.jpg 0
+./data/valOnet/negative/629.jpg 0
+./data/valOnet/negative/376.jpg 0
+./data/valOnet/negative/297.jpg 0
+./data/valOnet/negative/1095.jpg 0
+./data/valOnet/negative/208.jpg 0
+./data/valOnet/negative/56.jpg 0
+./data/valOnet/negative/499.jpg 0
+./data/valOnet/negative/1845.jpg 0
+./data/valOnet/negative/1719.jpg 0
+./data/valOnet/negative/272.jpg 0
+./data/valOnet/negative/1415.jpg 0
+./data/valOnet/negative/1568.jpg 0
+./data/valOnet/negative/1410.jpg 0
+./data/valOnet/negative/209.jpg 0
+./data/valOnet/negative/844.jpg 0
+./data/valOnet/negative/737.jpg 0
+./data/valOnet/negative/972.jpg 0
+./data/valOnet/negative/512.jpg 0
+./data/valOnet/negative/459.jpg 0
+./data/valOnet/negative/311.jpg 0
+./data/valOnet/negative/108.jpg 0
+./data/valOnet/negative/1557.jpg 0
+./data/valOnet/negative/782.jpg 0
+./data/valOnet/negative/1834.jpg 0
+./data/valOnet/negative/780.jpg 0
+./data/valOnet/negative/144.jpg 0
+./data/valOnet/negative/945.jpg 0
+./data/valOnet/negative/541.jpg 0
+./data/valOnet/negative/936.jpg 0
+./data/valOnet/negative/1488.jpg 0
+./data/valOnet/negative/1718.jpg 0
+./data/valOnet/negative/1582.jpg 0
+./data/valOnet/negative/860.jpg 0
+./data/valOnet/negative/1123.jpg 0
+./data/valOnet/negative/865.jpg 0
+./data/valOnet/negative/1325.jpg 0
+./data/valOnet/negative/897.jpg 0
+./data/valOnet/negative/1079.jpg 0
+./data/valOnet/negative/1669.jpg 0
+./data/valOnet/negative/1267.jpg 0
+./data/valOnet/negative/107.jpg 0
+./data/valOnet/negative/197.jpg 0
+./data/valOnet/negative/1637.jpg 0
+./data/valOnet/negative/1590.jpg 0
+./data/valOnet/negative/1807.jpg 0
+./data/valOnet/negative/982.jpg 0
+./data/valOnet/negative/857.jpg 0
+./data/valOnet/negative/1552.jpg 0
+./data/valOnet/negative/1272.jpg 0
+./data/valOnet/negative/268.jpg 0
+./data/valOnet/negative/262.jpg 0
+./data/valOnet/negative/1327.jpg 0
+./data/valOnet/negative/1446.jpg 0
+./data/valOnet/negative/502.jpg 0
+./data/valOnet/negative/1501.jpg 0
+./data/valOnet/negative/532.jpg 0
+./data/valOnet/negative/669.jpg 0
+./data/valOnet/negative/574.jpg 0
+./data/valOnet/negative/1368.jpg 0
+./data/valOnet/negative/653.jpg 0
+./data/valOnet/negative/201.jpg 0
+./data/valOnet/negative/1809.jpg 0
+./data/valOnet/negative/1537.jpg 0
+./data/valOnet/negative/659.jpg 0
+./data/valOnet/negative/1184.jpg 0
+./data/valOnet/negative/762.jpg 0
+./data/valOnet/negative/943.jpg 0
+./data/valOnet/negative/1682.jpg 0
+./data/valOnet/negative/668.jpg 0
+./data/valOnet/negative/715.jpg 0
+./data/valOnet/negative/385.jpg 0
+./data/valOnet/negative/1070.jpg 0
+./data/valOnet/negative/1742.jpg 0
+./data/valOnet/negative/68.jpg 0
+./data/valOnet/negative/915.jpg 0
+./data/valOnet/negative/1136.jpg 0
+./data/valOnet/negative/335.jpg 0
+./data/valOnet/negative/624.jpg 0
+./data/valOnet/negative/845.jpg 0
+./data/valOnet/negative/1733.jpg 0
+./data/valOnet/negative/467.jpg 0
+./data/valOnet/negative/969.jpg 0
+./data/valOnet/negative/93.jpg 0
+./data/valOnet/negative/1171.jpg 0
+./data/valOnet/negative/333.jpg 0
+./data/valOnet/negative/1681.jpg 0
+./data/valOnet/negative/710.jpg 0
+./data/valOnet/negative/151.jpg 0
+./data/valOnet/negative/1562.jpg 0
+./data/valOnet/negative/1608.jpg 0
+./data/valOnet/negative/347.jpg 0
+./data/valOnet/negative/547.jpg 0
+./data/valOnet/negative/1151.jpg 0
+./data/valOnet/negative/277.jpg 0
+./data/valOnet/negative/157.jpg 0
+./data/valOnet/negative/1694.jpg 0
+./data/valOnet/negative/591.jpg 0
+./data/valOnet/negative/1569.jpg 0
+./data/valOnet/negative/953.jpg 0
+./data/valOnet/negative/424.jpg 0
+./data/valOnet/negative/1706.jpg 0
+./data/valOnet/negative/639.jpg 0
+./data/valOnet/negative/69.jpg 0
+./data/valOnet/negative/1365.jpg 0
+./data/valOnet/negative/1127.jpg 0
+./data/valOnet/negative/537.jpg 0
+./data/valOnet/negative/1473.jpg 0
+./data/valOnet/negative/916.jpg 0
+./data/valOnet/negative/71.jpg 0
+./data/valOnet/negative/750.jpg 0
+./data/valOnet/negative/1311.jpg 0
+./data/valOnet/negative/1021.jpg 0
+./data/valOnet/negative/1428.jpg 0
+./data/valOnet/negative/960.jpg 0
+./data/valOnet/negative/1835.jpg 0
+./data/valOnet/negative/1523.jpg 0
+./data/valOnet/negative/1141.jpg 0
+./data/valOnet/negative/482.jpg 0
+./data/valOnet/negative/655.jpg 0
+./data/valOnet/negative/190.jpg 0
+./data/valOnet/negative/450.jpg 0
+./data/valOnet/negative/887.jpg 0
+./data/valOnet/negative/1427.jpg 0
+./data/valOnet/negative/350.jpg 0
+./data/valOnet/negative/630.jpg 0
+./data/valOnet/negative/1269.jpg 0
+./data/valOnet/negative/45.jpg 0
+./data/valOnet/negative/888.jpg 0
+./data/valOnet/negative/251.jpg 0
+./data/valOnet/negative/1181.jpg 0
+./data/valOnet/negative/1660.jpg 0
+./data/valOnet/negative/267.jpg 0
+./data/valOnet/negative/52.jpg 0
+./data/valOnet/negative/313.jpg 0
+./data/valOnet/negative/1016.jpg 0
+./data/valOnet/negative/849.jpg 0
+./data/valOnet/negative/968.jpg 0
+./data/valOnet/negative/484.jpg 0
+./data/valOnet/negative/1097.jpg 0
+./data/valOnet/negative/341.jpg 0
+./data/valOnet/negative/1356.jpg 0
+./data/valOnet/negative/198.jpg 0
+./data/valOnet/negative/942.jpg 0
+./data/valOnet/negative/583.jpg 0
+./data/valOnet/negative/978.jpg 0
+./data/valOnet/negative/1700.jpg 0
+./data/valOnet/negative/162.jpg 0
+./data/valOnet/negative/248.jpg 0
+./data/valOnet/negative/1429.jpg 0
+./data/valOnet/negative/744.jpg 0
+./data/valOnet/negative/846.jpg 0
+./data/valOnet/negative/1180.jpg 0
+./data/valOnet/negative/1798.jpg 0
+./data/valOnet/negative/451.jpg 0
+./data/valOnet/negative/1317.jpg 0
+./data/valOnet/negative/1090.jpg 0
+./data/valOnet/negative/830.jpg 0
+./data/valOnet/negative/685.jpg 0
+./data/valOnet/negative/749.jpg 0
+./data/valOnet/negative/1426.jpg 0
+./data/valOnet/negative/1578.jpg 0
+./data/valOnet/negative/1333.jpg 0
+./data/valOnet/negative/1110.jpg 0
+./data/valOnet/negative/751.jpg 0
+./data/valOnet/negative/885.jpg 0
+./data/valOnet/negative/1048.jpg 0
+./data/valOnet/negative/485.jpg 0
+./data/valOnet/negative/366.jpg 0
+./data/valOnet/negative/260.jpg 0
+./data/valOnet/negative/1297.jpg 0
+./data/valOnet/negative/1880.jpg 0
+./data/valOnet/negative/1321.jpg 0
+./data/valOnet/negative/337.jpg 0
+./data/valOnet/negative/264.jpg 0
+./data/valOnet/negative/932.jpg 0
+./data/valOnet/negative/1357.jpg 0
+./data/valOnet/negative/374.jpg 0
+./data/valOnet/negative/1417.jpg 0
+./data/valOnet/negative/1765.jpg 0
+./data/valOnet/negative/706.jpg 0
+./data/valOnet/negative/1609.jpg 0
+./data/valOnet/negative/1599.jpg 0
+./data/valOnet/negative/82.jpg 0
+./data/valOnet/negative/1378.jpg 0
+./data/valOnet/negative/99.jpg 0
+./data/valOnet/negative/1247.jpg 0
+./data/valOnet/negative/1170.jpg 0
+./data/valOnet/negative/561.jpg 0
+./data/valOnet/negative/838.jpg 0
+./data/valOnet/negative/352.jpg 0
+./data/valOnet/negative/1018.jpg 0
+./data/valOnet/negative/113.jpg 0
+./data/valOnet/negative/1076.jpg 0
+./data/valOnet/negative/614.jpg 0
+./data/valOnet/negative/164.jpg 0
+./data/valOnet/negative/1606.jpg 0
+./data/valOnet/negative/1452.jpg 0
+./data/valOnet/negative/1334.jpg 0
+./data/valOnet/negative/1487.jpg 0
+./data/valOnet/negative/1344.jpg 0
+./data/valOnet/negative/173.jpg 0
+./data/valOnet/negative/1703.jpg 0
+./data/valOnet/negative/515.jpg 0
+./data/valOnet/negative/1769.jpg 0
+./data/valOnet/negative/880.jpg 0
+./data/valOnet/negative/1407.jpg 0
+./data/valOnet/negative/1736.jpg 0
+./data/valOnet/negative/1857.jpg 0
+./data/valOnet/negative/21.jpg 0
+./data/valOnet/negative/281.jpg 0
+./data/valOnet/negative/1860.jpg 0
+./data/valOnet/negative/1187.jpg 0
+./data/valOnet/negative/1047.jpg 0
+./data/valOnet/negative/391.jpg 0
+./data/valOnet/negative/90.jpg 0
+./data/valOnet/negative/637.jpg 0
+./data/valOnet/negative/1621.jpg 0
+./data/valOnet/negative/1662.jpg 0
+./data/valOnet/negative/1322.jpg 0
+./data/valOnet/negative/1295.jpg 0
+./data/valOnet/negative/1634.jpg 0
+./data/valOnet/negative/227.jpg 0
+./data/valOnet/negative/1434.jpg 0
+./data/valOnet/negative/1032.jpg 0
+./data/valOnet/negative/84.jpg 0
+./data/valOnet/negative/825.jpg 0
+./data/valOnet/negative/474.jpg 0
+./data/valOnet/negative/446.jpg 0
+./data/valOnet/negative/1561.jpg 0
+./data/valOnet/negative/1261.jpg 0
+./data/valOnet/negative/398.jpg 0
+./data/valOnet/negative/1190.jpg 0
+./data/valOnet/negative/61.jpg 0
+./data/valOnet/negative/439.jpg 0
+./data/valOnet/negative/1073.jpg 0
+./data/valOnet/negative/1033.jpg 0
+./data/valOnet/negative/1688.jpg 0
+./data/valOnet/negative/379.jpg 0
+./data/valOnet/negative/1654.jpg 0
+./data/valOnet/negative/985.jpg 0
+./data/valOnet/negative/712.jpg 0
+./data/valOnet/negative/126.jpg 0
+./data/valOnet/negative/1570.jpg 0
+./data/valOnet/negative/276.jpg 0
+./data/valOnet/negative/377.jpg 0
+./data/valOnet/negative/1601.jpg 0
+./data/valOnet/negative/983.jpg 0
+./data/valOnet/negative/317.jpg 0
+./data/valOnet/negative/1381.jpg 0
+./data/valOnet/negative/549.jpg 0
+./data/valOnet/negative/1252.jpg 0
+./data/valOnet/negative/657.jpg 0
+./data/valOnet/negative/529.jpg 0
+./data/valOnet/negative/1221.jpg 0
+./data/valOnet/negative/1182.jpg 0
+./data/valOnet/negative/1635.jpg 0
+./data/valOnet/negative/723.jpg 0
+./data/valOnet/negative/106.jpg 0
+./data/valOnet/negative/741.jpg 0
+./data/valOnet/negative/594.jpg 0
+./data/valOnet/negative/1795.jpg 0
+./data/valOnet/negative/1592.jpg 0
+./data/valOnet/negative/1243.jpg 0
+./data/valOnet/negative/589.jpg 0
+./data/valOnet/negative/1255.jpg 0
+./data/valOnet/negative/1466.jpg 0
+./data/valOnet/negative/1810.jpg 0
+./data/valOnet/negative/1684.jpg 0
+./data/valOnet/negative/1585.jpg 0
+./data/valOnet/negative/691.jpg 0
+./data/valOnet/negative/1020.jpg 0
+./data/valOnet/negative/343.jpg 0
+./data/valOnet/negative/137.jpg 0
+./data/valOnet/negative/493.jpg 0
+./data/valOnet/negative/1165.jpg 0
+./data/valOnet/negative/1219.jpg 0
+./data/valOnet/negative/1679.jpg 0
+./data/valOnet/negative/296.jpg 0
+./data/valOnet/negative/1511.jpg 0
+./data/valOnet/negative/6.jpg 0
+./data/valOnet/negative/1793.jpg 0
+./data/valOnet/negative/1817.jpg 0
+./data/valOnet/negative/646.jpg 0
+./data/valOnet/negative/1100.jpg 0
+./data/valOnet/negative/1263.jpg 0
+./data/valOnet/negative/1709.jpg 0
+./data/valOnet/negative/432.jpg 0
+./data/valOnet/negative/1518.jpg 0
+./data/valOnet/negative/470.jpg 0
+./data/valOnet/negative/1103.jpg 0
+./data/valOnet/negative/1432.jpg 0
+./data/valOnet/negative/568.jpg 0
+./data/valOnet/negative/1474.jpg 0
+./data/valOnet/negative/554.jpg 0
+./data/valOnet/negative/1326.jpg 0
+./data/valOnet/negative/47.jpg 0
+./data/valOnet/negative/1788.jpg 0
+./data/valOnet/negative/1102.jpg 0
+./data/valOnet/negative/918.jpg 0
+./data/valOnet/negative/1209.jpg 0
+./data/valOnet/negative/1000.jpg 0
+./data/valOnet/negative/504.jpg 0
+./data/valOnet/negative/569.jpg 0
+./data/valOnet/negative/609.jpg 0
+./data/valOnet/negative/775.jpg 0
+./data/valOnet/negative/859.jpg 0
+./data/valOnet/negative/1892.jpg 0
+./data/valOnet/negative/1619.jpg 0
+./data/valOnet/negative/606.jpg 0
+./data/valOnet/negative/966.jpg 0
+./data/valOnet/negative/1758.jpg 0
+./data/valOnet/negative/1023.jpg 0
+./data/valOnet/negative/1312.jpg 0
+./data/valOnet/negative/1292.jpg 0
+./data/valOnet/negative/1791.jpg 0
+./data/valOnet/negative/421.jpg 0
+./data/valOnet/negative/632.jpg 0
+./data/valOnet/negative/303.jpg 0
+./data/valOnet/negative/1545.jpg 0
+./data/valOnet/negative/1550.jpg 0
+./data/valOnet/negative/1158.jpg 0
+./data/valOnet/negative/967.jpg 0
+./data/valOnet/negative/1796.jpg 0
+./data/valOnet/negative/755.jpg 0
+./data/valOnet/negative/53.jpg 0
+./data/valOnet/negative/1883.jpg 0
+./data/valOnet/negative/453.jpg 0
+./data/valOnet/negative/1693.jpg 0
+./data/valOnet/negative/1591.jpg 0
+./data/valOnet/negative/1822.jpg 0
+./data/valOnet/negative/1030.jpg 0
+./data/valOnet/negative/1627.jpg 0
+./data/valOnet/negative/1198.jpg 0
+./data/valOnet/negative/390.jpg 0
+./data/valOnet/negative/1846.jpg 0
+./data/valOnet/negative/1185.jpg 0
+./data/valOnet/negative/1768.jpg 0
+./data/valOnet/negative/1039.jpg 0
+./data/valOnet/negative/1183.jpg 0
+./data/valOnet/negative/373.jpg 0
+./data/valOnet/negative/1064.jpg 0
+./data/valOnet/negative/1028.jpg 0
+./data/valOnet/negative/1752.jpg 0
+./data/valOnet/negative/1376.jpg 0
+./data/valOnet/negative/235.jpg 0
+./data/valOnet/negative/1035.jpg 0
+./data/valOnet/negative/1112.jpg 0
+./data/valOnet/negative/1538.jpg 0
+./data/valOnet/negative/87.jpg 0
+./data/valOnet/negative/1223.jpg 0
+./data/valOnet/negative/1717.jpg 0
+./data/valOnet/negative/1864.jpg 0
+./data/valOnet/negative/1067.jpg 0
+./data/valOnet/negative/1607.jpg 0
+./data/valOnet/negative/213.jpg 0
+./data/valOnet/negative/707.jpg 0
+./data/valOnet/negative/420.jpg 0
+./data/valOnet/negative/874.jpg 0
+./data/valOnet/negative/1124.jpg 0
+./data/valOnet/negative/891.jpg 0
+./data/valOnet/negative/1458.jpg 0
+./data/valOnet/negative/790.jpg 0
+./data/valOnet/negative/1885.jpg 0
+./data/valOnet/negative/875.jpg 0
+./data/valOnet/negative/701.jpg 0
+./data/valOnet/negative/1449.jpg 0
+./data/valOnet/negative/883.jpg 0
+./data/valOnet/negative/1859.jpg 0
+./data/valOnet/negative/612.jpg 0
+./data/valOnet/negative/154.jpg 0
+./data/valOnet/negative/1403.jpg 0
+./data/valOnet/negative/367.jpg 0
+./data/valOnet/negative/1324.jpg 0
+./data/valOnet/negative/698.jpg 0
+./data/valOnet/negative/1602.jpg 0
+./data/valOnet/negative/1065.jpg 0
+./data/valOnet/negative/796.jpg 0
+./data/valOnet/negative/104.jpg 0
+./data/valOnet/negative/1395.jpg 0
+./data/valOnet/negative/1814.jpg 0
+./data/valOnet/negative/1890.jpg 0
+./data/valOnet/negative/802.jpg 0
+./data/valOnet/negative/1861.jpg 0
+./data/valOnet/negative/976.jpg 0
+./data/valOnet/negative/517.jpg 0
+./data/valOnet/negative/422.jpg 0
+./data/valOnet/negative/970.jpg 0
+./data/valOnet/negative/1173.jpg 0
+./data/valOnet/negative/133.jpg 0
+./data/valOnet/negative/952.jpg 0
+./data/valOnet/negative/1629.jpg 0
+./data/valOnet/negative/1109.jpg 0
+./data/valOnet/negative/1239.jpg 0
+./data/valOnet/negative/1372.jpg 0
+./data/valOnet/negative/232.jpg 0
+./data/valOnet/negative/900.jpg 0
+./data/valOnet/negative/445.jpg 0
+./data/valOnet/negative/1259.jpg 0
+./data/valOnet/negative/284.jpg 0
+./data/valOnet/negative/933.jpg 0
+./data/valOnet/negative/1308.jpg 0
+./data/valOnet/negative/1353.jpg 0
+./data/valOnet/negative/1824.jpg 0
+./data/valOnet/negative/1363.jpg 0
+./data/valOnet/negative/145.jpg 0
+./data/valOnet/negative/1189.jpg 0
+./data/valOnet/negative/551.jpg 0
+./data/valOnet/negative/1394.jpg 0
+./data/valOnet/negative/308.jpg 0
+./data/valOnet/negative/15.jpg 0
+./data/valOnet/negative/767.jpg 0
+./data/valOnet/negative/575.jpg 0
+./data/valOnet/negative/1513.jpg 0
+./data/valOnet/negative/1708.jpg 0
+./data/valOnet/negative/187.jpg 0
+./data/valOnet/negative/285.jpg 0
+./data/valOnet/negative/962.jpg 0
+./data/valOnet/negative/735.jpg 0
+./data/valOnet/negative/1371.jpg 0
+./data/valOnet/negative/149.jpg 0
+./data/valOnet/negative/18.jpg 0
+./data/valOnet/negative/289.jpg 0
+./data/valOnet/negative/204.jpg 0
+./data/valOnet/negative/1711.jpg 0
+./data/valOnet/negative/457.jpg 0
+./data/valOnet/negative/761.jpg 0
+./data/valOnet/negative/1644.jpg 0
+./data/valOnet/negative/1783.jpg 0
+./data/valOnet/negative/839.jpg 0
+./data/valOnet/negative/1636.jpg 0
+./data/valOnet/negative/1279.jpg 0
+./data/valOnet/negative/1148.jpg 0
+./data/valOnet/negative/1238.jpg 0
+./data/valOnet/negative/238.jpg 0
+./data/valOnet/negative/1745.jpg 0
+./data/valOnet/negative/876.jpg 0
+./data/valOnet/negative/1274.jpg 0
+./data/valOnet/negative/362.jpg 0
+./data/valOnet/negative/1168.jpg 0
+./data/valOnet/negative/176.jpg 0
+./data/valOnet/negative/247.jpg 0
+./data/valOnet/negative/1541.jpg 0
+./data/valOnet/negative/1273.jpg 0
+./data/valOnet/negative/1564.jpg 0
+./data/valOnet/negative/1203.jpg 0
+./data/valOnet/negative/1355.jpg 0
+./data/valOnet/negative/152.jpg 0
+./data/valOnet/negative/293.jpg 0
+./data/valOnet/negative/550.jpg 0
+./data/valOnet/negative/1306.jpg 0
+./data/valOnet/negative/675.jpg 0
+./data/valOnet/negative/413.jpg 0
+./data/valOnet/negative/931.jpg 0
+./data/valOnet/negative/1540.jpg 0
+./data/valOnet/negative/405.jpg 0
+./data/valOnet/negative/649.jpg 0
+./data/valOnet/negative/1839.jpg 0
+./data/valOnet/negative/1430.jpg 0
+./data/valOnet/negative/182.jpg 0
+./data/valOnet/negative/1588.jpg 0
+./data/valOnet/negative/263.jpg 0
+./data/valOnet/negative/1725.jpg 0
+./data/valOnet/negative/1499.jpg 0
+./data/valOnet/negative/72.jpg 0
+./data/valOnet/negative/1494.jpg 0
+./data/valOnet/negative/1509.jpg 0
+./data/valOnet/negative/66.jpg 0
+./data/valOnet/negative/1848.jpg 0
+./data/valOnet/negative/265.jpg 0
+./data/valOnet/negative/1282.jpg 0
+./data/valOnet/negative/607.jpg 0
+./data/valOnet/negative/534.jpg 0
+./data/valOnet/negative/817.jpg 0
+./data/valOnet/negative/468.jpg 0
+./data/valOnet/negative/1281.jpg 0
+./data/valOnet/negative/911.jpg 0
+./data/valOnet/negative/628.jpg 0
+./data/valOnet/negative/996.jpg 0
+./data/valOnet/negative/1744.jpg 0
+./data/valOnet/negative/1262.jpg 0
+./data/valOnet/negative/1828.jpg 0
+./data/valOnet/negative/955.jpg 0
+./data/valOnet/negative/358.jpg 0
+./data/valOnet/negative/1253.jpg 0
+./data/valOnet/negative/1413.jpg 0
+./data/valOnet/negative/944.jpg 0
+./data/valOnet/negative/627.jpg 0
+./data/valOnet/negative/1531.jpg 0
+./data/valOnet/negative/519.jpg 0
+./data/valOnet/negative/546.jpg 0
+./data/valOnet/negative/466.jpg 0
+./data/valOnet/negative/31.jpg 0
+./data/valOnet/negative/957.jpg 0
+./data/valOnet/negative/115.jpg 0
+./data/valOnet/negative/409.jpg 0
+./data/valOnet/negative/1040.jpg 0
+./data/valOnet/negative/1113.jpg 0
+./data/valOnet/negative/1555.jpg 0
+./data/valOnet/negative/309.jpg 0
+./data/valOnet/negative/426.jpg 0
+./data/valOnet/negative/316.jpg 0
+./data/valOnet/negative/1245.jpg 0
+./data/valOnet/negative/881.jpg 0
+./data/valOnet/negative/1388.jpg 0
+./data/valOnet/negative/416.jpg 0
+./data/valOnet/negative/1802.jpg 0
+./data/valOnet/negative/1445.jpg 0
+./data/valOnet/negative/1741.jpg 0
+./data/valOnet/negative/279.jpg 0
+./data/valOnet/negative/929.jpg 0
+./data/valOnet/negative/404.jpg 0
+./data/valOnet/negative/1710.jpg 0
+./data/valOnet/negative/480.jpg 0
+./data/valOnet/negative/1670.jpg 0
+./data/valOnet/negative/399.jpg 0
+./data/valOnet/negative/428.jpg 0
+./data/valOnet/negative/332.jpg 0
+./data/valOnet/negative/1162.jpg 0
+./data/valOnet/negative/1172.jpg 0
+./data/valOnet/negative/852.jpg 0
+./data/valOnet/negative/1225.jpg 0
+./data/valOnet/negative/1651.jpg 0
+./data/valOnet/negative/339.jpg 0
+./data/valOnet/negative/415.jpg 0
+./data/valOnet/negative/73.jpg 0
+./data/valOnet/negative/633.jpg 0
+./data/valOnet/negative/598.jpg 0
+./data/valOnet/negative/353.jpg 0
+./data/valOnet/negative/1462.jpg 0
+./data/valOnet/negative/1779.jpg 0
+./data/valOnet/negative/1013.jpg 0
+./data/valOnet/negative/879.jpg 0
+./data/valOnet/negative/1119.jpg 0
+./data/valOnet/negative/1672.jpg 0
+./data/valOnet/negative/1314.jpg 0
+./data/valOnet/negative/233.jpg 0
+./data/valOnet/negative/105.jpg 0
+./data/valOnet/negative/128.jpg 0
+./data/valOnet/negative/124.jpg 0
+./data/valOnet/negative/1058.jpg 0
+./data/valOnet/negative/462.jpg 0
+./data/valOnet/negative/1286.jpg 0
+./data/valOnet/negative/1086.jpg 0
+./data/valOnet/negative/743.jpg 0
+./data/valOnet/negative/356.jpg 0
+./data/valOnet/negative/1623.jpg 0
+./data/valOnet/negative/926.jpg 0
+./data/valOnet/negative/80.jpg 0
+./data/valOnet/negative/1611.jpg 0
+./data/valOnet/negative/1331.jpg 0
+./data/valOnet/negative/1399.jpg 0
+./data/valOnet/negative/1775.jpg 0
+./data/valOnet/negative/992.jpg 0
+./data/valOnet/negative/1288.jpg 0
+./data/valOnet/negative/141.jpg 0
+./data/valOnet/negative/269.jpg 0
+./data/valOnet/negative/188.jpg 0
+./data/valOnet/negative/1027.jpg 0
+./data/valOnet/negative/1104.jpg 0
+./data/valOnet/negative/564.jpg 0
+./data/valOnet/negative/664.jpg 0
+./data/valOnet/negative/634.jpg 0
+./data/valOnet/negative/417.jpg 0
+./data/valOnet/negative/719.jpg 0
+./data/valOnet/negative/1616.jpg 0
+./data/valOnet/negative/1105.jpg 0
+./data/valOnet/negative/1156.jpg 0
+./data/valOnet/negative/200.jpg 0
+./data/valOnet/negative/1226.jpg 0
+./data/valOnet/negative/89.jpg 0
+./data/valOnet/negative/1233.jpg 0
+./data/valOnet/negative/138.jpg 0
+./data/valOnet/negative/1212.jpg 0
+./data/valOnet/negative/861.jpg 0
+./data/valOnet/negative/1424.jpg 0
+./data/valOnet/negative/1535.jpg 0
+./data/valOnet/negative/4.jpg 0
+./data/valOnet/negative/221.jpg 0
+./data/valOnet/negative/621.jpg 0
+./data/valOnet/negative/135.jpg 0
+./data/valOnet/negative/1460.jpg 0
+./data/valOnet/negative/1360.jpg 0
+./data/valOnet/negative/1661.jpg 0
+./data/valOnet/negative/1825.jpg 0
+./data/valOnet/negative/1721.jpg 0
+./data/valOnet/negative/1137.jpg 0
+./data/valOnet/negative/680.jpg 0
+./data/valOnet/negative/1179.jpg 0
+./data/valOnet/negative/194.jpg 0
+./data/valOnet/negative/623.jpg 0
+./data/valOnet/negative/521.jpg 0
+./data/valOnet/negative/917.jpg 0
+./data/valOnet/negative/1350.jpg 0
+./data/valOnet/negative/1351.jpg 0
+./data/valOnet/negative/1823.jpg 0
+./data/valOnet/negative/1615.jpg 0
+./data/valOnet/negative/1271.jpg 0
+./data/valOnet/negative/893.jpg 0
+./data/valOnet/negative/472.jpg 0
+./data/valOnet/negative/161.jpg 0
+./data/valOnet/negative/134.jpg 0
+./data/valOnet/negative/42.jpg 0
+./data/valOnet/negative/925.jpg 0
+./data/valOnet/negative/207.jpg 0
+./data/valOnet/negative/19.jpg 0
+./data/valOnet/negative/1244.jpg 0
+./data/valOnet/negative/394.jpg 0
+./data/valOnet/negative/822.jpg 0
+./data/valOnet/negative/511.jpg 0
+./data/valOnet/negative/393.jpg 0
+./data/valOnet/negative/1497.jpg 0
+./data/valOnet/negative/867.jpg 0
+./data/valOnet/negative/1812.jpg 0
+./data/valOnet/negative/1249.jpg 0
+./data/valOnet/negative/1653.jpg 0
+./data/valOnet/negative/1214.jpg 0
+./data/valOnet/negative/787.jpg 0
+./data/valOnet/negative/1868.jpg 0
+./data/valOnet/negative/1374.jpg 0
+./data/valOnet/negative/995.jpg 0
+./data/valOnet/negative/548.jpg 0
+./data/valOnet/negative/1547.jpg 0
+./data/valOnet/negative/100.jpg 0
+./data/valOnet/negative/1088.jpg 0
+./data/valOnet/negative/33.jpg 0
+./data/valOnet/negative/1231.jpg 0
+./data/valOnet/negative/1359.jpg 0
+./data/valOnet/negative/8.jpg 0
+./data/valOnet/negative/1576.jpg 0
+./data/valOnet/negative/1843.jpg 0
+./data/valOnet/negative/368.jpg 0
+./data/valOnet/negative/648.jpg 0
+./data/valOnet/negative/740.jpg 0
+./data/valOnet/negative/1205.jpg 0
+./data/valOnet/negative/62.jpg 0
+./data/valOnet/negative/754.jpg 0
+./data/valOnet/negative/1542.jpg 0
+./data/valOnet/negative/1216.jpg 0
+./data/valOnet/negative/1643.jpg 0
+./data/valOnet/negative/1480.jpg 0
+./data/valOnet/negative/1520.jpg 0
+./data/valOnet/negative/1646.jpg 0
+./data/valOnet/negative/571.jpg 0
+./data/valOnet/negative/656.jpg 0
+./data/valOnet/negative/536.jpg 0
+./data/valOnet/negative/520.jpg 0
+./data/valOnet/negative/788.jpg 0
+./data/valOnet/negative/1393.jpg 0
+./data/valOnet/negative/1467.jpg 0
+./data/valOnet/negative/938.jpg 0
+./data/valOnet/negative/226.jpg 0
+./data/valOnet/negative/1638.jpg 0
+./data/valOnet/negative/605.jpg 0
+./data/valOnet/negative/202.jpg 0
+./data/valOnet/negative/714.jpg 0
+./data/valOnet/negative/487.jpg 0
+./data/valOnet/negative/172.jpg 0
+./data/valOnet/negative/1128.jpg 0
+./data/valOnet/negative/1400.jpg 0
+./data/valOnet/negative/528.jpg 0
+./data/valOnet/negative/789.jpg 0
+./data/valOnet/negative/778.jpg 0
+./data/valOnet/negative/1083.jpg 0
+./data/valOnet/negative/1587.jpg 0
+./data/valOnet/negative/357.jpg 0
+./data/valOnet/negative/631.jpg 0
+./data/valOnet/negative/1007.jpg 0
+./data/valOnet/negative/205.jpg 0
+./data/valOnet/negative/1663.jpg 0
+./data/valOnet/negative/1527.jpg 0
+./data/valOnet/negative/58.jpg 0
+./data/valOnet/negative/558.jpg 0
+./data/valOnet/negative/742.jpg 0
+./data/valOnet/negative/1789.jpg 0
+./data/valOnet/negative/909.jpg 0
+./data/valOnet/negative/1004.jpg 0
+./data/valOnet/negative/1019.jpg 0
+./data/valOnet/negative/1472.jpg 0
+./data/valOnet/negative/797.jpg 0
+./data/valOnet/negative/1056.jpg 0
+./data/valOnet/negative/757.jpg 0
+./data/valOnet/negative/856.jpg 0
+./data/valOnet/negative/1628.jpg 0
+./data/valOnet/negative/618.jpg 0
+./data/valOnet/negative/1836.jpg 0
+./data/valOnet/negative/677.jpg 0
+./data/valOnet/negative/429.jpg 0
+./data/valOnet/negative/1265.jpg 0
+./data/valOnet/negative/928.jpg 0
+./data/valOnet/negative/1571.jpg 0
+./data/valOnet/negative/821.jpg 0
+./data/valOnet/negative/1891.jpg 0
+./data/valOnet/negative/1801.jpg 0
+./data/valOnet/negative/1022.jpg 0
+./data/valOnet/negative/1366.jpg 0
+./data/valOnet/negative/958.jpg 0
+./data/valOnet/negative/1235.jpg 0
+./data/valOnet/negative/1450.jpg 0
+./data/valOnet/negative/1659.jpg 0
+./data/valOnet/negative/555.jpg 0
+./data/valOnet/negative/36.jpg 0
+./data/valOnet/negative/1320.jpg 0
+./data/valOnet/negative/306.jpg 0
+./data/valOnet/negative/1161.jpg 0
+./data/valOnet/negative/1610.jpg 0
+./data/valOnet/negative/694.jpg 0
+./data/valOnet/negative/1416.jpg 0
+./data/valOnet/negative/301.jpg 0
+./data/valOnet/negative/713.jpg 0
+./data/valOnet/negative/86.jpg 0
+./data/valOnet/negative/1448.jpg 0
+./data/valOnet/negative/1867.jpg 0
+./data/valOnet/negative/351.jpg 0
+./data/valOnet/negative/402.jpg 0
+./data/valOnet/negative/282.jpg 0
+./data/valOnet/negative/77.jpg 0
+./data/valOnet/negative/1456.jpg 0
+./data/valOnet/negative/455.jpg 0
+./data/valOnet/negative/70.jpg 0
+./data/valOnet/negative/989.jpg 0
+./data/valOnet/negative/1593.jpg 0
+./data/valOnet/negative/442.jpg 0
+./data/valOnet/negative/1081.jpg 0
+./data/valOnet/negative/1485.jpg 0
+./data/valOnet/negative/292.jpg 0
+./data/valOnet/negative/74.jpg 0
+./data/valOnet/negative/853.jpg 0
+./data/valOnet/negative/418.jpg 0
+./data/valOnet/negative/1873.jpg 0
+./data/valOnet/negative/799.jpg 0
+./data/valOnet/negative/475.jpg 0
+./data/valOnet/negative/423.jpg 0
+./data/valOnet/negative/1461.jpg 0
+./data/valOnet/negative/693.jpg 0
+./data/valOnet/negative/199.jpg 0
+./data/valOnet/negative/1476.jpg 0
+./data/valOnet/negative/1215.jpg 0
+./data/valOnet/negative/508.jpg 0
+./data/valOnet/negative/823.jpg 0
+./data/valOnet/negative/902.jpg 0
+./data/valOnet/negative/1534.jpg 0
+./data/valOnet/negative/1211.jpg 0
+./data/valOnet/negative/801.jpg 0
+./data/valOnet/negative/103.jpg 0
+./data/valOnet/negative/1671.jpg 0
+./data/valOnet/negative/1213.jpg 0
+./data/valOnet/negative/810.jpg 0
+./data/valOnet/negative/1134.jpg 0
+./data/valOnet/negative/1696.jpg 0
+./data/valOnet/negative/9.jpg 0
+./data/valOnet/negative/602.jpg 0
+./data/valOnet/negative/813.jpg 0
+./data/valOnet/negative/396.jpg 0
+./data/valOnet/negative/218.jpg 0
+./data/valOnet/negative/1763.jpg 0
+./data/valOnet/negative/1197.jpg 0
+./data/valOnet/negative/1146.jpg 0
+./data/valOnet/negative/1345.jpg 0
+./data/valOnet/negative/1147.jpg 0
+./data/valOnet/negative/1554.jpg 0
+./data/valOnet/negative/98.jpg 0
+./data/valOnet/negative/315.jpg 0
+./data/valOnet/negative/1026.jpg 0
+./data/valOnet/negative/1481.jpg 0
+./data/valOnet/negative/229.jpg 0
+./data/valOnet/negative/35.jpg 0
+./data/valOnet/negative/1865.jpg 0
+./data/valOnet/negative/1699.jpg 0
+./data/valOnet/negative/991.jpg 0
+./data/valOnet/negative/1813.jpg 0
+./data/valOnet/negative/1639.jpg 0
+./data/valOnet/negative/1094.jpg 0
+./data/valOnet/negative/497.jpg 0
+./data/valOnet/negative/1498.jpg 0
+./data/valOnet/negative/44.jpg 0
+./data/valOnet/negative/1881.jpg 0
+./data/valOnet/negative/1750.jpg 0
+./data/valOnet/negative/736.jpg 0
+./data/valOnet/negative/1493.jpg 0
+./data/valOnet/negative/811.jpg 0
+./data/valOnet/negative/800.jpg 0
+./data/valOnet/negative/1500.jpg 0
+./data/valOnet/negative/576.jpg 0
+./data/valOnet/negative/1471.jpg 0
+./data/valOnet/negative/1727.jpg 0
+./data/valOnet/negative/959.jpg 0
